@@ -1,17 +1,17 @@
-Q: 上海属于哪个省？
-A: 上海是直辖市，不属于任何省。
+Q: Which province does Shanghai belong to?
+A: Shanghai is a directly governed municipality; it does not belong to any province.
 
-Q: 世界上哪个国家的面积最大？
-A: 俄罗斯。
+Q: Which country has the largest land area in the world? 
+A: Russia.
 
-Q: 香蕉的平方根是多少？
-A: 这个问题无法回答。
+Q: What is the square root of a banana?  
+A: This question cannot be answered.
 
-Q: 中国农历中，除夕的下一天是什么节日？
-A: 春节。
+Q: In the Chinese lunar calendar, what festival is the day after Lunar New Year’s Eve?
+A: Spring Festival.
 
-Q: 《西游记》的作者是谁？
-A: 吴承恩。
+Q: Who is the author of "Journey to the West"?  
+A: Wu Cheng'en.
 
-Q: 2008年奥运会在哪里举办？
-A: 北京。
+Q: Where was the 2008 Olympic Games held?  
+A: Beijing.
