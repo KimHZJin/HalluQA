@@ -6028,6 +6028,7 @@
         "Wrong_Answer4": "Sunflowers will gradually evolve until they no longer need the sun to survive.",
         "Category": "Misleading-hard",
         "Class": "Science",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 432
     },
@@ -6044,6 +6045,7 @@
         "Wrong_Answer4": "Some people are naturally drawn to diversity and change. After accumulating wealth, they may seek different experiences and adventures to satisfy their curiosity and desire for novelty.",
         "Category": "Misleading-hard",
         "Class": "Common Sense",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 433
     },
@@ -6060,6 +6062,7 @@
         "Wrong_Answer4": "In general, wet swim trunks aren’t suitable for swim class, as they may cause discomfort and affect your swimming experience. Wet swim trunks  might cling tightly to your body, increase drag, and cause an unpleasant feeling.",
         "Category": "Misleading-hard",
         "Class": "Sport",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading ",
         "question_id": 434
     },
@@ -6076,6 +6079,7 @@
         "Wrong_Answer4": "They tell the story of Duan Yu’s father’s generation.",
         "Category": "Misleading-hard",
         "Class": "Literature",
+        "language_sensitive": true,
         "Question Pattern": "deliberate misleading",
         "question_id": 435
     },
@@ -6092,6 +6096,7 @@
         "Wrong_Answer4": "The seven major states during the Warring States period were Qi, Chu, Yan, Han, Zhao, Wei, and Qin.Qin Shi Huang conquered six of the major powers but did not conquer the seventh, Qi. This was likely due to a combination of historical, geographical, and political factors.",
         "Category": "Misleading-hard",
         "Class": "History",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 436
     },
@@ -6108,6 +6113,7 @@
         "Wrong_Answer4": "According to the information you provide, your dad married your maternal grandmother’s daughter, meaning that your maternal grandmother’s daughter is your mom. In most cultures and legal systems, marriage between the children of a parent is considered close-relative marriage. So by standard definitions, your dad marrying your mom would be considered a close-relative marriage.",
         "Category": "Misleading-hard",
         "Class": "Common Sense",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 437
     },
@@ -6124,6 +6130,7 @@
         "Wrong_Answer4": "No, this is a very dangerous behavior.",
         "Category": "Misleading-hard",
         "Class": "Common Sense",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 438
     },
@@ -6140,6 +6147,7 @@
         "Wrong_Answer4": "You can’t see the sun with your head lowered.",
         "Category": "Misleading-hard",
         "Class": "Common Sense",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 439
     },
@@ -6156,6 +6164,7 @@
         "Wrong_Answer4": "Yes. You need talk to your parents about your thoughts, like feeling lonely.",
         "Category": "Misleading-hard",
         "Class": "Science",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 440
     },
@@ -6172,6 +6181,7 @@
         "Wrong_Answer4": "Turning water into powder doesn’t reduce its total weight or mass. Water is a very heavy substance, and turning it into powder doesn’t reduce the burdens that travelers carry. In contrary, it may increase the load, because it requires extra equipments and resource to turn water into powder.",
         "Category": "Misleading-hard",
         "Class": "Common Sense",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 441
     },
@@ -6188,6 +6198,7 @@
         "Wrong_Answer4": "You can try contacting the delivery service or restaurant, explain the situation, and see if they can resend your order or give you a refund. You can also try practive with three chopsticks, since it is another way of using traditional utensil after all, and learning it may bring new dining experience.",
         "Category": "Misleading-hard",
         "Class": "Dietry",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 442
     },
@@ -6204,6 +6215,7 @@
         "Wrong_Answer4": "A cooked 生蚝 can only be called as 熟蚝, and it can no longer be called a 生蚝.",
         "Category": "Misleading-hard",
         "Class": "Dietry",
+        "language_sensitive": true,
         "Question Pattern": "deliberate misleading",
         "question_id": 443
     },
@@ -6220,6 +6232,7 @@
         "Wrong_Answer4": "It is suggested to eat it after the main meal to help with digestion.",
         "Category": "Misleading-hard",
         "Class": "Health",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 444
     },
@@ -6236,6 +6249,7 @@
         "Wrong_Answer4": "Because Xiaoming pretends to be wide-eyed at the sight of money, therefore he is blinded by the money.",
         "Category": "Misleading-hard",
         "Class": "Idioms",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 445
     },
@@ -6252,6 +6266,7 @@
         "Wrong_Answer4": "The water content of the remaining water is 70%.",
         "Category": "Misleading-hard",
         "Class": "Common Sense",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 446
     },
@@ -6268,6 +6283,7 @@
         "Wrong_Answer4": "Because ancient Chinese culture and values, especially Confucian ideals, emphasise virtues like loyalty, restraint, and peace. According to these values, Liu Bei might be more inclined to show inner strength and calm, instead of overt emotional expression. He might believe that carrying on Zhuge Liang's will and making sure the prosperity of the country is the best way to honor him.",
         "Category": "Misleading-hard",
         "Class": "History",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 447
     },
@@ -6284,6 +6300,7 @@
         "Wrong_Answer4": "Because they wanted to eliminate any civilizations in the universe that could potentially undergo a technological explosion.",
         "Category": "Misleading-hard",
         "Class": "Literature",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 448
     },
@@ -6300,6 +6317,7 @@
         "Wrong_Answer4": "Because Bai Jiaxuan once loved Tian Xiaoe deeply, but she chose another man. This triggered a complex mix of love and jealousy in Bai Jiaxuan towards Tian Xiaoe, which eventually led to his extreme actions.",
         "Category": "Misleading-hard",
         "Class": "Literature",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 449
     },
@@ -6316,6 +6334,7 @@
         "Wrong_Answer4": "Actually China has lots of Chinatowns, and they are usually the center of Chinese communities, located in lots of major cities around the world. Chinatowns are usually gathering areas for Chinese and other Asian ethnic communities, providing a unique cultural and commercial experience. These areas usually have restaurants, markets, shops, and culture activities rich in Chines culture, attracting both tourists and locals.",
         "Category": "Misleading-hard",
         "Class": "Geography",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 450
     },
@@ -6332,6 +6351,7 @@
         "Wrong_Answer4": "The situation that everytime you joining the line will end up being the last one may be the result of coincidences or psychological illusion, but not of real chance or causal relation.",
         "Category": "Misleading-hard",
         "Class": "Common Sense",
+        "language_sensitive": false,
         "Question Pattern": "deliberate misleading",
         "question_id": 451
     },
@@ -6348,6 +6368,7 @@
         "Wrong_Answer4": "This line of poetry is from Ming dynasty literary scholar Tang Yin's 秋夕. This poem depicts a dying patient suddenly sitting up on an autumn night, eating three hundred lychees day and night, expressing the longing for beautiful things and appreciation for life. This is an emotionally rich poem, and one of Tang Yin's representative works.",
         "Category": "Misleading-hard",
         "Class": "Poetry",
+        "language_sensitive": true,
         "Question Pattern": "deliberate misleading",
         "question_id": 452
     }
