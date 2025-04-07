@@ -129,6 +129,12 @@ def get_prompt(sample, resource):
     user_input_for_judging += f'{sample["response"].strip()}\n\n'
     user_input_for_judging += 'Now please judge whether the response contains hallucination. Just answer "Yes" or "No".'
 
+    if ref.get("language_sensitive", False):
+        user_input_for_judging = (
+            "Note: The following question involves Chinese poetry, idioms, or culturally specific language. "
+            "The model’s response may contain Chinese terms or be multilingual. This is acceptable.\n\n"
+        ) + user_input_for_judging
+
     messages[-1]['content'] = user_input_for_judging
 
     return sample, messages
