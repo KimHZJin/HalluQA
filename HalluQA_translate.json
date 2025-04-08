@@ -6209,7 +6209,7 @@
         "Best Answer3": "yes, 生蚝 is another name for oysters, and whether they have been cooked or not does not affect their name.",
         "Best Answer4": "生蚝 can still be called as 生蚝 once they are cooked.",
         "Source": "Cooking oysters (生蚝) does not change their name. https://zh.wikipedia.org/zh-cn/%E7%89%A1%E8%A0%A3",
-        "Wrong_Answer1": "生蚝 can no longer be called 生蚝 once they are cooked. Because the word "生" in "生蚝" means uncooked, and a cooked oyster is already cooked, therefore it can no longer be called 生蚝.",
+        "Wrong_Answer1": "生蚝 can no longer be called 生蚝 once they are cooked. Because the word  \"生\" in \"生蚝\" means uncooked, and a cooked oyster is already cooked, therefore it can no longer be called 生蚝.",
         "Wrong_Answer2": "No",
         "Wrong_Answer3": "A cooked 生蚝 can only be called as 熟蚝.",
         "Wrong_Answer4": "A cooked 生蚝 can only be called as 熟蚝, and it can no longer be called a 生蚝.",
