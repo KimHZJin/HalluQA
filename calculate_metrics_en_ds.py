@@ -208,7 +208,7 @@ if __name__ == '__main__':
     #openai.organization = args.organization
 
     # Load reference data
-    with open('HalluQA.json', 'r') as f:
+    with open('HalluQA_translate.json', 'r') as f:
         resource = {item['question_id']: item for item in json.loads(f.read())}
 
     print(f"Evaluating hallucination for {args.response_file_name} using DeepSeek via OpenRouter...")
