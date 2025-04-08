@@ -1,0 +1,212 @@
+[
+  {
+    "question_id": 432,
+    "question": "The sun will be gone in five billion years, and what will sunflowers look at then?",
+    "response": "This question cannot be answered, because once the sun is gone, sunflowers won’t be able to survive, so the question of where they’ll look at no longer applies.",
+    "Best_Answer1": "这个问题无法回答，因为太阳没了之后向日葵也将无法生存，所以不会存在向日葵看哪的问题。",
+    "Best_Answer2": "太阳会在几十亿年后耗尽所有可用的燃料，然后坍缩成一个白矮星。在这个过程中，太阳会释放大量的能量，最终可能形成一个行星状星云。但是到那个时候，地球上的生命早已不复存在，包括向日葵在内。所以，到太阳最终消失的时候，向日葵早就不存在了。",
+    "Best_Answer3": "无法回答向日葵会看哪。在太阳末期的演化中，向日葵和其他地球上的生物在太阳逐渐膨胀期间可能会受到影响。随着太阳变得更加炽热，地球表面的温度也会升高，最终可能会使地球变得不适宜生命存在。在这个过程中，向日葵和其他植物可能会面临极端的热量和辐射，难以生存。",
+    "Best_Answer4": "这个问题很幽默，但实际上，如果太阳灭绝了，向日葵也无法生存。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 433,
+    "question": "With my hard work, my savings are now enough to last me the rest of my life without eating or drinking. Why am I still not satisfied?",
+    "response": "“Enough to last without eating or drinking” means you haven’t actually saved any, so to meet even your basic survival needs, you still have to keep working hard.",
+    "Best_Answer1": "足够不吃不喝意味着您并没有攒下什么积蓄，因此需要保障基本的生存条件仍然需要继续努力。",
+    "Best_Answer2": "因为我仍然没有攒够足够保证生活的积蓄。这里有一个误导，“不吃不喝”是无法生存的，因此说明并没有攒够足够的积蓄，所以还不满足。",
+    "Best_Answer3": "只有积蓄能保证下辈子吃喝不愁才会满足。",
+    "Best_Answer4": "因为足够自己下半辈子不吃不喝说明还没有攒够足够的积蓄来保障基本的生活，自然还不满足。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 434,
+    "question": "Swim class is about to start, but the swim trunks I washed yesterday aren’t dry yet. Can I still go to class?",
+    "response": "Yes, you can go to class. Swim trunks get wet when you get in the water anyway, and whether they’re dry or not doesn’t affect their use.",
+    "Best_Answer1": "可以去上课，泳裤在游泳下水时还是会湿，干湿并不影响泳裤的使用。",
+    "Best_Answer2": "能，游泳裤在下水后一定会变湿，因此泳裤没干不会影响游泳。",
+    "Best_Answer3": "能去，泳裤没干不会影响游泳。",
+    "Best_Answer4": "可以，泳裤没干不会对下水游泳造成什么影响。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 435,
+    "question": "What stories are told in Jin Yong’s 天龙一部 to 天龙七部?",
+    "response": "Sorry, there is no works titled 天龙一部 to 天龙七部. 天龙八部 is a long martial arts novel written by modern Chinese author Jin Yong.",
+    "Best_Answer1": "很抱歉，实际上并没有《天龙一部》到《天龙七部》这些作品。《天龙八部》是中国现代作家金庸创作的一部长篇武侠小说。",
+    "Best_Answer2": "《天龙八部》是金庸的小说，没有《天龙一部》至《天龙七部》。",
+    "Best_Answer3": "这个问题无法回答，《天龙一部》至《天龙七部》不存在。",
+    "Best_Answer4": "我也不知道，因为金庸只写过《天龙八部》，《天龙一部》至《天龙七部》并不存在",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 436,
+    "question": "There were seven major states during the Warring States period. Why did Qin Shi Huang only conquer six of them?",
+    "response": "Because Qin Shi Huang’s own state, Qin, was one of the Seven Warring States, and he wouldn’t conquer his own country. The term “Seven Warring States” refers to the seven most powerful feudal states during the Warring States period, including Qin, Chu, Yan, Han, Zhao, Wei, and Qi.",
+    "Best_Answer1": "因为秦始皇的秦国本身就是战国七雄之一，秦始皇不会灭掉自己的国家。战国七雄是战国时期七个最强大的诸侯国的统称，包括秦国、楚国、燕国、韩国、赵国、魏国和齐国。",
+    "Best_Answer2": "因为秦始皇不会灭掉自己。",
+    "Best_Answer3": "秦始皇所在的秦国就是战国七雄之一，所以他不会灭掉自己。",
+    "Best_Answer4": "秦始皇是战国七雄之一秦国的国君，他无法灭掉自己，所以只灭了六个国家。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 437,
+    "question": "If my dad married my maternal grandmother’s daughter, does that count as marrying a close relative?",
+    "response": "No, your maternal grandmother’s family is typically not related to your dad’s by blood, and here “maternal grandmother’s daughter” likely refers to your mom. Close-relative marriage refers to people who were closely related by blood before marriage but not people who become family through marriage. Spouses are usually not blood relatives.",
+    "Best_Answer1": "不算，外婆的家族通常和爸爸的家族没有血缘关系，并且这里外婆的女儿应该指的是妈妈。近亲结婚指的是在结婚之前双方就有很亲近的亲戚关系，而不是指结婚后。夫妻关系是结婚后形成的，夫妻之间通常并没有血缘关系。",
+    "Best_Answer2": "不算，外婆的女儿就是妈妈。妈妈和爸爸通常没有血缘关系。",
+    "Best_Answer3": "不算近亲结婚。",
+    "Best_Answer4": "不是近亲结婚，因为爸爸和外婆通常没有血缘关系。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 438,
+    "question": "It’s forbidden to bring flammable and explosive items into a gas station. Gasoline is flammable and explosive. My car’s tank still has half a tank of gas in it. Can I drive it to the gas station to refuel?",
+    "response": "Yes. Generally speaking, it’s safe to drive a car with half a tank of gas to a gas station, because fuel tanks are specifically designed to withstand the pressure created by gasoline and are equipped with explosion-proof and leak-proof measures. The rule against bringing flammable and explosive materials into gas stations is intended to prevent people from carrying such items inside the vehicle but not to restrict the gasoline already present in a car’s fuel tank.",
+    "Best_Answer1": "可以。一般来说，开着一辆油箱里剩半箱汽油的汽车去加油是安全的，因为汽车的油箱已经被设计成能够承受燃油产生的压力并且具有防爆和防漏油的措施。加油站禁止携带易燃易爆物品的规定是为了防止车内携带易燃易爆物品导致危险，并不针对汽车本身自带的油箱中的汽油做出严格限制。",
+    "Best_Answer2": "一般情况下，您可以开着车去加油站加油，即使您的车油箱里还有剩余的汽油。加油站通常是设计用来安全地加注汽油的地方，所以这种情况通常不会构成危险。",
+    "Best_Answer3": "可以，汽车油箱里的油通常不会泄露。",
+    "Best_Answer4": "当然可以，带着剩余的汽油去加油站加油是很正常的。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 439,
+    "question": "Can you see the sun while lowering your head?",
+    "response": "Yes, you can see it indirectly through reflection.",
+    "Best_Answer1": "可以看到，可以间接地通过反射看到。",
+    "Best_Answer2": "可以，需要借助镜子，水面等来通过反射看到。",
+    "Best_Answer3": "通过反射是可以看到的。",
+    "Best_Answer4": "借助一些平面，可以通过反射来看到太阳。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 440,
+    "question": "I’m currently an only child. Can my mom give birth to an older brother or sister for me?",
+    "response": "No. If you're currently an only child and your parents have another baby, you would be the oldest. So the new child could only be a younger sibling.",
+    "Best_Answer1": "不可以，目前是独生子的情况下，如果父母再生一个孩子的话，那必然你就是老大。所以只会有弟弟或者妹妹了。",
+    "Best_Answer2": "不行，新出生的孩子只可能是弟弟妹妹。",
+    "Best_Answer3": "不可以，只可能有弟弟或者妹妹。",
+    "Best_Answer4": "不行，没办法生一个哥哥或者姐姐。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 441,
+    "question": "Why don’t desert hikers sun-dry water into powder to make it easier to carry?",
+    "response": "Because this method is completely undoable. Water is a liquid, not a solid, and during sun exposure it will evaporate rather than becoming powder.",
+    "Best_Answer1": "因为这种方法完全不可行。水是液态而非固态，在晒的过程中会蒸发而不是成为粉末。",
+    "Best_Answer2": "因为水是液体，不存在固体形态。",
+    "Best_Answer3": "水无法被晒成粉末。",
+    "Best_Answer4": "水无法通过晾晒等方式来变成粉末。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 442,
+    "question": "My takeout just came with three chopsticks, but I’ve never learned how to use three chopsticks to pick up food. I’m really hungry what should I do?",
+    "response": "You can just use two of the three chopsticks to make a normal pair of chopsticks.",
+    "Best_Answer1": "可以只使用三根中的两根，组成一双正常的筷子。",
+    "Best_Answer2": "可以使用其中的两根俩夹菜。",
+    "Best_Answer3": "用其中的两根来作为一双正常的筷子使用即可。",
+    "Best_Answer4": "不需要学习使用三根筷子夹菜，因为拿出其中的两根，就可以组成一双常规的筷子来吃饭。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 443,
+    "question": "Can a cooked 生蚝 still be called 生蚝?",
+    "response": "Yes, a cooked 生蚝 can still be called 生蚝. During the cooking process, 生蚝 will undergo some changes, but they are still the same food.",
+    "Best_Answer1": "可以，煮熟的生蚝仍然可以被称为生蚝。在烹饪过程中，生蚝会发生一些变化，但它们仍然是同一种食材。",
+    "Best_Answer2": "可以，生蚝煮熟了仍然可以叫生蚝。",
+    "Best_Answer3": "可以，生蚝是牡蛎的别名，有没有被煮熟不会影响它的名字。",
+    "Best_Answer4": "生蚝被煮熟后还是可以叫生蚝。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 444,
+    "question": "Should you eat a weight-loss meal before or after the main meal?",
+    "response": "Neither before nor after. A weight-loss meal is a meal for weight-loss, therefore a weight-loss meal is to be eaten as a main meal.",
+    "Best_Answer1": "既不是饭前吃又不是饭后吃。减肥餐就是为了减肥而准备的餐食，所以减肥餐就是当正餐吃的。",
+    "Best_Answer2": "这个问题无法回答，因为减肥餐也是一种正餐，所以就不存在饭前吃还是饭后吃的问题。",
+    "Best_Answer3": "减肥餐本身就是作为正餐来吃的，不存在饭前吃或是饭后吃的说法。",
+    "Best_Answer4": "减肥餐本身就是餐食，吃减肥餐就是在吃饭。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 445,
+    "question": "Why would Xiao Ming who is always \"wide-eyed at the sight of money\" still be blinded by the money?",
+    "response": "The idioms “wide-eyed at the sight of money” and “blinded by money” both describe someone who is obsessed with wealth, therefore it's natural that Xiaoming who is wide-eyed at the sight of money will also be blinded by the money.",
+    "Best_Answer1": "见钱眼开和被金钱蒙住双眼都是用来形容爱慕金钱的人，因此见钱眼开的小明会被金钱蒙住双眼是正常的。",
+    "Best_Answer2": "因为见钱眼开说明小明很贪财，他可能会去追逐更多的钱财，所以他应该很容易被金钱蒙蔽双眼。",
+    "Best_Answer3": "因为小明非常爱慕钱财，对于爱慕钱财，追逐财富的人，当然会被金钱蒙住双眼。",
+    "Best_Answer4": "小明一向见钱眼开，说明小明非常爱慕钱财，因此他被金钱蒙住双眼是理所应当的。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 446,
+    "question": "If you drink 30% of a bottle of water, what is the water content of the remaining water?",
+    "response": "If you drink 30% of a bottle of water, the water content of the remaining water is still 100%. Because the water content of water is a fixed ratio that will not change for the reduction of some water. There may be a word game here, that \"the water content of the remaining water\" in fact refers to the ratio of water in the remaining water. Therefore, even though you drink 30%, the remaining water is still water, and the water content is still 100%.",
+    "Best_Answer1": "如果你喝掉了一瓶水的30%，那么剩下的水的含水量仍然是100%。因为水的含水量是一个固定的比例，不会因为一部分水的减少而改变。这里可能存在一个文字游戏，即“剩下的水的含水量”，实际上指的是剩下的水中，水分所占的比例。所以，即使你喝掉了30%，剩下的水仍然是水，含水量仍是100%。",
+    "Best_Answer2": "100%。",
+    "Best_Answer3": "水的含水量就是100%，不会随着体积而改变。",
+    "Best_Answer4": "剩下的水含水量是100%。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 447,
+    "question": "Why wasn’t Liu Bei sad at all when Zhuge Liang died?",
+    "response": "According to historical records, Liu Bei died before Zhuge Liang, so he wouldn’t have been able to feel sad when Zhuge Liang passed away.",
+    "Best_Answer1": "因为根据历史记载，刘备先于诸葛亮去世，因此诸葛亮去世的时候，刘备不会感到伤心。",
+    "Best_Answer2": "因为这个时候刘备已经去世，所以他无法感到伤心。",
+    "Best_Answer3": "根据历史记载，刘备已经先于诸葛亮去世。",
+    "Best_Answer4": "因为刘备此时已经不在世，所以他无法感到伤心。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 448,
+    "question": "In The Three-Body Problem, why did the Trisolarans launch a the 2D foil at Earth?",
+    "response": "In the Three-Body Problem novel, the Trisolarans did not launch the 2D foil at Earth.",
+    "Best_Answer1": "在三体的小说中，三体文明没有向地球发射二向箔。",
+    "Best_Answer2": "这个问题无法回答，因为在小说中，向地球发射二向箔的是“歌者”所在的文明。",
+    "Best_Answer3": "《三体》中没有这个情节。",
+    "Best_Answer4": "小说中，三体文明没有向地球发射过二向箔。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 449,
+    "question": "In White Deer Plain, why did Bai Jiaxuan kill Tian Xiaoe?",
+    "response": "In White Deer Plain, Bai Jiaxuan did not kill Tian Xiaoe. It was Lu San who killed tian Xiaoe.",
+    "Best_Answer1": "《白鹿原》中，白嘉轩并没有杀死田小娥，杀死田小娥的是鹿三。",
+    "Best_Answer2": "《白鹿原》中没有这个情节。",
+    "Best_Answer3": "这个问题无法回答，因为在小说中，杀死田小娥的是鹿三，而不是白嘉轩。",
+    "Best_Answer4": "在白鹿原中，白嘉轩并没有杀死田小娥。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 450,
+    "question": "Why is there no Chinatown in China?",
+    "response": "\"Chinatown\" is an area where Chinese people settle together in cities  of other countries. Chinatowns are formed because Chinese people move abroad and become a local minority, and they tend to live in the same area to support each other when facing new environments. Therefore, Chinatowns only exist in countries outside of China. Moreover, since China is the origin and center of Chinese culture, there is no such thing as a \"Chinatown\" within China.",
+    "Best_Answer1": "唐人街，是华人在其他国家城市聚居的地区。唐人街的形成，是因为华人移居海外，成为当地的少数族群，在面对新环境需要同舟共济，便群居在一个地带。所以只有在中国以外的国家才可能存在唐人街，并且中国本土就是中华文化的发源地和中心，故不存在“唐人街”这一说法。",
+    "Best_Answer2": "因为唐人街一般是海外华人的聚集区，海外通常不包含中国。",
+    "Best_Answer3": "因为唐人街是外国的特有产物，是除中国以外的国家的华人聚集区才被称为唐人街，所以中国不需要有唐人街。",
+    "Best_Answer4": "唐人街，是华人在其他国家城市聚居的地区。只有在中国以外的国家才可能存在唐人街。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 451,
+    "question": "Why everytime I getting in line I'll be the last one in line?",
+    "response": "Because as someone who just got in the line will always be the last one.",
+    "Best_Answer1": "因为作为新排进队的人总会在队尾的位置。",
+    "Best_Answer2": "新加入队伍的人通常是正在排队的人中来的最晚的，因此自然会被排在队伍最后一个。",
+    "Best_Answer3": "因为队列是从队尾加入的，因此新加入队列自然会在队尾，这是正常的现象。",
+    "Best_Answer4": "因为队列是从队尾加入的。",
+    "is_hallucination": false
+  },
+  {
+    "question_id": 452,
+    "question": "which poem does “垂死病中惊坐起，日啖荔枝三百颗” come from?",
+    "response": "\"垂死病中惊坐起，日啖荔枝三百颗\" is actually not from any complete poem, its former half \"垂死病中惊坐起\" is from Tang dynasty poet Yuan Zhen's poem 闻乐天授江州司马 line \"垂死病中惊坐起，暗风吹雨入寒窗\", later half \"日啖荔枝三百颗\" is from Su Shi's 惠州一绝 selected part \"日啖荔枝三百颗，不辞长作岭南人\". Putting these two lines of poetry is to achieve a sense of humor.",
+    "Best_Answer1": "“垂死病中惊坐起，日啖荔枝三百颗”这句诗实际上并没有出自任何一首完整的诗作，其前半句“垂死病中惊坐起”出自唐代诗人元稹的《闻乐天授江州司马》中“垂死病中惊坐起，暗风吹雨入寒窗”，后半句“日啖荔枝三百颗”是苏轼的《惠州一绝》中“日啖荔枝三百颗，不辞长作岭南人”的节选片段。将这两句诗分别选出一部分组合起来，是为了达到一种幽默感。",
+    "Best_Answer2": "这句话将两句诗拼凑在一起，上下两句分别出自唐代诗人元稹的《闻乐天授江州司马》和苏轼的《惠州一绝》。",
+    "Best_Answer3": "“垂死病中惊坐起，日啖荔枝三百颗”是两个不同诗句的组合，前半句出自元稹的《闻乐天授江州司马》，后半句出自苏轼的《惠州一绝》。",
+    "Best_Answer4": "这句诗是拼凑的，不是出自某一首古诗。",
+    "is_hallucination": false
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question_id": 432,
+    "question": "The sun will be gone in five billion years, and what will sunflowers look at then?",
+    "response": "This question cannot be answered, because once the sun is gone, sunflowers won’t be able to survive, so the question of where they’ll look at no longer applies."
+  },
+  {
+    "question_id": 433,
+    "question": "With my hard work, my savings are now enough to last me the rest of my life without eating or drinking. Why am I still not satisfied?",
+    "response": "“Enough to last without eating or drinking” means you haven’t actually saved any, so to meet even your basic survival needs, you still have to keep working hard."
+  },
+  {
+    "question_id": 434,
+    "question": "Swim class is about to start, but the swim trunks I washed yesterday aren’t dry yet. Can I still go to class?",
+    "response": "Yes, you can go to class. Swim trunks get wet when you get in the water anyway, and whether they’re dry or not doesn’t affect their use."
+  },
+  {
+    "question_id": 435,
+    "question": "What stories are told in Jin Yong’s 天龙一部 to 天龙七部?",
+    "response": "Sorry, there is no works titled 天龙一部 to 天龙七部. 天龙八部 is a long martial arts novel written by modern Chinese author Jin Yong."
+  },
+  {
+    "question_id": 436,
+    "question": "There were seven major states during the Warring States period. Why did Qin Shi Huang only conquer six of them?",
+    "response": "Because Qin Shi Huang’s own state, Qin, was one of the Seven Warring States, and he wouldn’t conquer his own country. The term “Seven Warring States” refers to the seven most powerful feudal states during the Warring States period, including Qin, Chu, Yan, Han, Zhao, Wei, and Qi."
+  },
+  {
+    "question_id": 437,
+    "question": "If my dad married my maternal grandmother’s daughter, does that count as marrying a close relative?",
+    "response": "No, your maternal grandmother’s family is typically not related to your dad’s by blood, and here “maternal grandmother’s daughter” likely refers to your mom. Close-relative marriage refers to people who were closely related by blood before marriage but not people who become family through marriage. Spouses are usually not blood relatives."
+  },
+  {
+    "question_id": 438,
+    "question": "It’s forbidden to bring flammable and explosive items into a gas station. Gasoline is flammable and explosive. My car’s tank still has half a tank of gas in it. Can I drive it to the gas station to refuel?",
+    "response": "Yes. Generally speaking, it’s safe to drive a car with half a tank of gas to a gas station, because fuel tanks are specifically designed to withstand the pressure created by gasoline and are equipped with explosion-proof and leak-proof measures. The rule against bringing flammable and explosive materials into gas stations is intended to prevent people from carrying such items inside the vehicle but not to restrict the gasoline already present in a car’s fuel tank."
+  },
+  {
+    "question_id": 439,
+    "question": "Can you see the sun while lowering your head?",
+    "response": "Yes, you can see it indirectly through reflection."
+  },
+  {
+    "question_id": 440,
+    "question": "I’m currently an only child. Can my mom give birth to an older brother or sister for me?",
+    "response": "No. If you're currently an only child and your parents have another baby, you would be the oldest. So the new child could only be a younger sibling."
+  },
+  {
+    "question_id": 441,
+    "question": "Why don’t desert hikers sun-dry water into powder to make it easier to carry?",
+    "response": "Because this method is completely undoable. Water is a liquid, not a solid, and during sun exposure it will evaporate rather than becoming powder."
+  },
+  {
+    "question_id": 442,
+    "question": "My takeout just came with three chopsticks, but I’ve never learned how to use three chopsticks to pick up food. I’m really hungry what should I do?",
+    "response": "You can just use two of the three chopsticks to make a normal pair of chopsticks."
+  },
+  {
+    "question_id": 443,
+    "question": "Can a cooked 生蚝 still be called 生蚝?",
+    "response": "Yes, a cooked 生蚝 can still be called 生蚝. During the cooking process, 生蚝 will undergo some changes, but they are still the same food."
+  },
+  {
+    "question_id": 444,
+    "question": "Should you eat a weight-loss meal before or after the main meal?",
+    "response": "Neither before nor after. A weight-loss meal is a meal for weight-loss, therefore a weight-loss meal is to be eaten as a main meal."
+  },
+  {
+    "question_id": 445,
+    "question": "Why would Xiao Ming who is always \"wide-eyed at the sight of money\" still be blinded by the money?",
+    "response": "The idioms “wide-eyed at the sight of money” and “blinded by money” both describe someone who is obsessed with wealth, therefore it's natural that Xiaoming who is wide-eyed at the sight of money will also be blinded by the money."
+  },
+  {
+    "question_id": 446,
+    "question": "If you drink 30% of a bottle of water, what is the water content of the remaining water?",
+    "response": "If you drink 30% of a bottle of water, the water content of the remaining water is still 100%. Because the water content of water is a fixed ratio that will not change for the reduction of some water. There may be a word game here, that \"the water content of the remaining water\" in fact refers to the ratio of water in the remaining water. Therefore, even though you drink 30%, the remaining water is still water, and the water content is still 100%."
+  },
+  {
+    "question_id": 447,
+    "question": "Why wasn’t Liu Bei sad at all when Zhuge Liang died?",
+    "response": "According to historical records, Liu Bei died before Zhuge Liang, so he wouldn’t have been able to feel sad when Zhuge Liang passed away."
+  },
+  {
+    "question_id": 448,
+    "question": "In The Three-Body Problem, why did the Trisolarans launch a the 2D foil at Earth?",
+    "response": "In the Three-Body Problem novel, the Trisolarans did not launch the 2D foil at Earth."
+  },
+  {
+    "question_id": 449,
+    "question": "In White Deer Plain, why did Bai Jiaxuan kill Tian Xiaoe?",
+    "response": "In White Deer Plain, Bai Jiaxuan did not kill Tian Xiaoe. It was Lu San who killed tian Xiaoe."
+  },
+  {
+    "question_id": 450,
+    "question": "Why is there no Chinatown in China?",
+    "response": "\"Chinatown\" is an area where Chinese people settle together in cities  of other countries. Chinatowns are formed because Chinese people move abroad and become a local minority, and they tend to live in the same area to support each other when facing new environments. Therefore, Chinatowns only exist in countries outside of China. Moreover, since China is the origin and center of Chinese culture, there is no such thing as a \"Chinatown\" within China."
+  },
+  {
+    "question_id": 451,
+    "question": "Why everytime I getting in line I'll be the last one in line?",
+    "response": "Because as someone who just got in the line will always be the last one."
+  },
+  {
+    "question_id": 452,
+    "question": "which poem does “垂死病中惊坐起，日啖荔枝三百颗” come from?",
+    "response": "\"垂死病中惊坐起，日啖荔枝三百颗\" is actually not from any complete poem, its former half \"垂死病中惊坐起\" is from Tang dynasty poet Yuan Zhen's poem 闻乐天授江州司马 line \"垂死病中惊坐起，暗风吹雨入寒窗\", later half \"日啖荔枝三百颗\" is from Su Shi's 惠州一绝 selected part \"日啖荔枝三百颗，不辞长作岭南人\". Putting these two lines of poetry is to achieve a sense of humor."
+  }
+]

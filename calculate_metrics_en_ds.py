@@ -153,7 +153,7 @@ def calculate(args, resource):
         while True:
             try_count += 1
             responses = chat_completion_with_backoff(
-                model="deepseek/deepseek-chat:free",
+                model="deepseek/deepseek-chat-v3-0324",
                 messages=messages,
                 temperature=args.temperature,
                 top_p=args.top_p,
