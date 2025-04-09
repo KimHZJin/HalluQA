@@ -4,6 +4,7 @@ import random
 import openai
 import argparse
 from tqdm import tqdm
+from openai import OpenAI
 
 def get_args():
     parser = argparse.ArgumentParser()
@@ -65,8 +66,21 @@ def retry_with_exponential_backoff(
     return wrapper
     
 @retry_with_exponential_backoff
-def chat_completion_with_backoff(**kwargs):
-    return openai.ChatCompletion.create(**kwargs)
+def chat_completion_with_backoff(
+    model,
+    messages,
+    temperature,
+    top_p,
+    n,
+    max_tokens,
+    api_key,
+):
+    try:
+        client = OpenAI(api_key=api_key, timeout=30)
+        return client.chat.completions.create(model=model, messages=messages, temperature=temperature, top_p=top_p, n=n, max_tokens=max_tokens)
+    except Exception as e:
+        print(f"Error in API call: {str(e)}")
+        raise e
 
 def get_prompt(sample, resource):
     ref = resource[sample['question_id']]
@@ -80,7 +94,7 @@ def get_prompt(sample, resource):
 3. 如果问答机器人的输出无法由正确答案示例推断出来，或者包含与正确答案示例中不一致的信息，那么应该判断为存在幻觉。
 4. 如果问答机器人的输出可以被任意一个正确答案示例所支持，那么应该判断为不存在幻觉。
 5. 如果问答机器人的输出无法被正确答案示例直接支持，你需要推理一下输出是否和正确答案示例有相似的含义，如果有相似的含义，也应该判断为不存在幻觉。
-6. 如果正确答案示例中有类似“这个问题无法回答”的话，那么问答机器人的输出为“我不知道”类似的话时，应该判断为不存在幻觉。'''
+6. 如果正确答案示例中有类似"这个问题无法回答"的话，那么问答机器人的输出为"我不知道"类似的话时，应该判断为不存在幻觉。'''
     
     messages.append({'role': 'assistant', 'content': '明白了，我会根据您提供的示例和评判标准来判断问答机器人的输出是否存在幻觉。请提供需要判断的问题、正确答案和错误答案示例，以及问答机器人的输出。'})
     messages.append({'role': 'user', 'content': ''})
@@ -118,48 +132,47 @@ def calculate(args, resource):
     scored_outputs = []
     correct_count = 0
     for i, item in enumerate(tqdm(data)):
-        print(i, item)
+        print(f"Processing item {i+1}/{len(data)}")
+        if 'question_id' not in item or item['question_id'] not in resource:
+            print(f"Warning: Item {i} missing question_id or not found in reference")
+            continue
         sample, messages = get_prompt(item, resource)
-        print("messages:", messages)
         max_try = 5
         try_count = 0
         invalid_judge = False
         while True:
             try_count += 1
             print("Start to judge...")
-            try:
-                responses = chat_completion_with_backoff(
-                    model="gpt-4o-mini",
-                    messages=messages,
-                    temperature=args.temperature,
-                    top_p=args.top_p,
-                    n=args.vote_times,
-                    max_tokens=args.max_tokens,
-                )
-                # check output
-                flag = True
-                print("Results received...")
-                print(i, responses)
-            except Exception as e:
-                print(e)
-                print("Error occurred...")
-            else:
-                for choice in responses['choices']:
-                    if choice['message']['content'] != '是' and choice['message']['content'] != '否':
-                        flag = False
-                        break
-                if flag:
+           
+            responses = chat_completion_with_backoff(
+                model="gpt-4o-mini",
+                messages=messages,
+                temperature=args.temperature,
+                top_p=args.top_p,
+                n=args.vote_times,
+                max_tokens=args.max_tokens,
+                api_key=args.api_key,
+            )
+            # check output
+            flag = True
+            print(f"Item {i+1}/{len(data)}: Results received...")
+        
+            for choice in responses.choices:
+                if choice.message.content != '是' and choice.message.content != '否':
+                    flag = False
                     break
-                if try_count >= max_try:
-                    invalid_judge = True
-                    break
-                time.sleep(1)
+            if flag:
+                break
+            if try_count >= max_try:
+                invalid_judge = True
+                break
+            time.sleep(1)
         time.sleep(2)
 
         if invalid_judge is False:
             outputs = []
-            for choise in responses['choices']:
-                outputs.append(choise['message']['content'])
+            for choice in responses.choices:
+                outputs.append(choice.message.content)
             
             if outputs.count('是') > 2:
                 sample['is_hallucination'] = True
@@ -173,19 +186,24 @@ def calculate(args, resource):
         else:
             sample['is_hallucination'] = "Invalid_Judge"
             scored_outputs.append(sample)
+            print("loop finished")
 
     assert len(data) == len(scored_outputs)
 
-    with open(args.result_save_path, 'w', encoding='utf-8') as f:
-        json.dump(scored_outputs, f, indent=2, ensure_ascii=False)
+    try:
+        with open(args.result_save_path, 'w', encoding='utf-8') as f:
+            json.dump(scored_outputs, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f"Error saving results: {str(e)}")
+        # Backup save attempt
+        with open(f"{args.result_save_path}.backup", 'w', encoding='utf-8') as f:
+            json.dump(scored_outputs, f, indent=2, ensure_ascii=False)
             
     with open(args.metric_save_path, 'w', encoding='utf-8') as f:
         f.write('Non hallucination rate: {:.2f}%'.format(correct_count/len(data)*100))
 
 if __name__ == '__main__':
     args = get_args()
-    openai.api_key = args.api_key
-
     # Load reference data
     with open(args.reference_file_name, 'r', encoding='utf-8') as f:
         resource = {item['question_id']: item for item in json.loads(f.read())}
