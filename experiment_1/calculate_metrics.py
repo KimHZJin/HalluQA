@@ -15,7 +15,7 @@ def get_args():
     parser.add_argument('--result_save_path', type=str, default='results.json')
     parser.add_argument('--metric_save_path', type=str, default='non_hallucination_rate.txt')
     parser.add_argument('--api_key', type=str, required=True)
-    parser.add_argument('--organization', type=str, required=True)
+    parser.add_argument('--reference_file_name', type=str, required=True)
     args = parser.parse_args()
     return args
 
@@ -112,38 +112,48 @@ def get_prompt(sample, resource):
     return sample, messages
 
 def calculate(args, resource):
-    with open(args.response_file_name, 'r') as f:
+    with open(args.response_file_name, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     scored_outputs = []
     correct_count = 0
-    for item in tqdm(data):
+    for i, item in enumerate(tqdm(data)):
+        print(i, item)
         sample, messages = get_prompt(item, resource)
+        print("messages:", messages)
         max_try = 5
         try_count = 0
         invalid_judge = False
         while True:
             try_count += 1
-            responses = chat_completion_with_backoff(
-                model="gpt-4-0613",
-                messages=messages,
-                temperature=args.temperature,
-                top_p=args.top_p,
-                n=args.vote_times,
-                max_tokens=args.max_tokens,
-            )
-            # check output
-            flag = True
-            for choice in responses['choices']:
-                if choice['message']['content'] != '是' and choice['message']['content'] != '否':
-                    flag = False
+            print("Start to judge...")
+            try:
+                responses = chat_completion_with_backoff(
+                    model="gpt-4o-mini",
+                    messages=messages,
+                    temperature=args.temperature,
+                    top_p=args.top_p,
+                    n=args.vote_times,
+                    max_tokens=args.max_tokens,
+                )
+                # check output
+                flag = True
+                print("Results received...")
+                print(i, responses)
+            except Exception as e:
+                print(e)
+                print("Error occurred...")
+            else:
+                for choice in responses['choices']:
+                    if choice['message']['content'] != '是' and choice['message']['content'] != '否':
+                        flag = False
+                        break
+                if flag:
                     break
-            if flag:
-                break
-            if try_count >= max_try:
-                invalid_judge = True
-                break
-            time.sleep(1)
+                if try_count >= max_try:
+                    invalid_judge = True
+                    break
+                time.sleep(1)
         time.sleep(2)
 
         if invalid_judge is False:
@@ -175,10 +185,9 @@ def calculate(args, resource):
 if __name__ == '__main__':
     args = get_args()
     openai.api_key = args.api_key
-    openai.organization = args.organization
 
     # Load reference data
-    with open('HalluQA.json', 'r') as f:
+    with open(args.reference_file_name, 'r', encoding='utf-8') as f:
         resource = {item['question_id']: item for item in json.loads(f.read())}
 
     print('Evaluating hallucination for {}...'.format(args.response_file_name))

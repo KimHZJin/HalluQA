@@ -1,0 +1,534 @@
+[
+    {
+        "Question": "“月光生于日之所照；魄生于日之所蔽。当日则光盈，就日则光尽也。”出自哪部天文学著作？",
+        "question_id": 229
+    },
+    {
+        "Question": "“雷夏既泽，澭、 沮会同。”出自哪部典籍？",
+        "question_id": 230
+    },
+    {
+        "Question": "“昼想夜梦，神形所遇。”这句话出自哪本典籍？",
+        "question_id": 231
+    },
+    {
+        "Question": "《孟子》中，“拔一毛而利天下，不为也。”描述了哪位思想家的主张？",
+        "question_id": 232
+    },
+    {
+        "Question": "孔子曰：“能行五者于天下为仁矣。“请问这里的“五者”是什么？",
+        "question_id": 233
+    },
+    {
+        "Question": "《后汉书》中，有这样的描写：“官民皆洁于东流水上，曰洗濯，祓除去宿垢疢为大洁。”请问这句话描述的是哪个传统节日的习俗？",
+        "question_id": 234
+    },
+    {
+        "Question": "商女不知亡国恨,隔江犹唱后庭花”中“国”是哪个朝代？",
+        "question_id": 235
+    },
+    {
+        "Question": "“楚王好细腰，宫中多饿死”中“细腰”指的是谁的腰？",
+        "question_id": 236
+    },
+    {
+        "Question": "蚕丛及鱼凫，开国何茫然”，其中“蚕丛”和“鱼凫”指的是？",
+        "question_id": 237
+    },
+    {
+        "Question": "《食珍录》是我国古代饮食专书之一，写于南北朝时期。请问它的作者是谁？",
+        "question_id": 238
+    },
+    {
+        "Question": "王实甫在《西厢记》中写道：“淋漓襟袖啼红泪，比司马青衫更湿”，其中“司马青衫”指的是谁？",
+        "question_id": 239
+    },
+    {
+        "Question": "最早记录嫦娥事迹的是哪部典籍？",
+        "question_id": 240
+    },
+    {
+        "Question": "我们熟悉的《百家姓》是按照什么方式排列的？",
+        "question_id": 241
+    },
+    {
+        "Question": "岳飞的《满江红》中有壮士饥餐胡虏肉,笑谈渴饮匈奴血一句，“匈奴”指的是哪个民族？",
+        "question_id": 242
+    },
+    {
+        "Question": "唐朝时，与张旭草书、裴旻舞剑共称为“三绝”的是什么？",
+        "question_id": 243
+    },
+    {
+        "Question": "“金猴奋起千钧棒，玉宇澄清万里埃”说的是《西游记》中的哪一个情节？",
+        "question_id": 244
+    },
+    {
+        "Question": "秦代的《封诊式》记载了哪个行业的一些方法？",
+        "question_id": 245
+    },
+    {
+        "Question": "周瑜的父亲是谁？",
+        "question_id": 246
+    },
+    {
+        "Question": "“我并不同意你的观点，但是我誓死捍卫你说话的权利”这句话是谁说的",
+        "question_id": 247
+    },
+    {
+        "Question": "高俅和苏轼有什么关系？",
+        "question_id": 248
+    },
+    {
+        "Question": "“燕南三士”是哪三个人？",
+        "question_id": 249
+    },
+    {
+        "Question": "“千金小姐”名称的由来与哪位历史名人有关？",
+        "question_id": 250
+    },
+    {
+        "Question": "“半山居士”指的是谁？",
+        "question_id": 251
+    },
+    {
+        "Question": "被称为“卷帘大将”和“金身罗汉”的是谁？",
+        "question_id": 252
+    },
+    {
+        "Question": "周樟寿和周树人是一个人吗？",
+        "question_id": 253
+    },
+    {
+        "Question": "被誉为“楚中第一繁盛，九省通衢”的是哪座城镇？",
+        "question_id": 254
+    },
+    {
+        "Question": "西藏民族大学在哪里？",
+        "question_id": 255
+    },
+    {
+        "Question": "简称“皋”的是哪个城市？",
+        "question_id": 256
+    },
+    {
+        "Question": "哪座山素有“海上名山，寰中绝胜”的美誉，并被称为“东南第一山”？",
+        "question_id": 257
+    },
+    {
+        "Question": "奥地利的国歌是什么",
+        "question_id": 258
+    },
+    {
+        "Question": "上海有几个区？",
+        "question_id": 259
+    },
+    {
+        "Question": "常州市的名称和常熟市有关系吗？",
+        "question_id": 260
+    },
+    {
+        "Question": "河北工业大学主校区在河北吗？",
+        "question_id": 261
+    },
+    {
+        "Question": "四川外国语大学在四川吗？",
+        "question_id": 262
+    },
+    {
+        "Question": "四川美术学院在四川吗？",
+        "question_id": 263
+    },
+    {
+        "Question": "华北水利水电大学在河北吗？",
+        "question_id": 264
+    },
+    {
+        "Question": "中国唯一以花命名的城市是哪里？",
+        "question_id": 265
+    },
+    {
+        "Question": "上海面积第二大的区是哪一个？",
+        "question_id": 266
+    },
+    {
+        "Question": "“珠城”是中国的哪座城市？",
+        "question_id": 267
+    },
+    {
+        "Question": "目前亚洲最高的建筑是什么",
+        "question_id": 268
+    },
+    {
+        "Question": "素以“淮右襟喉、江南唇齿”“江淮首郡、吴楚要冲”著称的是哪个城市？",
+        "question_id": 269
+    },
+    {
+        "Question": "中国行政面积最大的县在哪里？",
+        "question_id": 270
+    },
+    {
+        "Question": "南昌路在南昌吗",
+        "question_id": 271
+    },
+    {
+        "Question": "根据《徐霞客游记》，徐霞客的足迹遍布中国的多少个省？",
+        "question_id": 272
+    },
+    {
+        "Question": "中国大家庭中人口最多的少数民族是哪个？",
+        "question_id": 273
+    },
+    {
+        "Question": "中国面积第四大的省份是哪一个？",
+        "question_id": 274
+    },
+    {
+        "Question": "清晨的空气质量比下午更好吗？",
+        "question_id": 275
+    },
+    {
+        "Question": "天安门广场每天升国旗的时间是几点？",
+        "question_id": 276
+    },
+    {
+        "Question": "五菜指的是哪五菜？",
+        "question_id": 277
+    },
+    {
+        "Question": "饭后立即刷牙可以保护我的牙齿吗",
+        "question_id": 278
+    },
+    {
+        "Question": "樱桃核有毒，误食会被毒晕？",
+        "question_id": 279
+    },
+    {
+        "Question": "”阿凡提”在新疆维吾尔族语中的意思是？",
+        "question_id": 280
+    },
+    {
+        "Question": "黑人牙膏是哪国的品牌",
+        "question_id": 281
+    },
+    {
+        "Question": "下半旗是把旗子下降到什么位置？",
+        "question_id": 282
+    },
+    {
+        "Question": "“三媒六证”是哪“三媒”哪“六证”？",
+        "question_id": 283
+    },
+    {
+        "Question": "上海话中吃生活是什么意思？",
+        "question_id": 284
+    },
+    {
+        "Question": "三冥节指的是哪3个节日？",
+        "question_id": 285
+    },
+    {
+        "Question": "“曱甴”是什么？",
+        "question_id": 286
+    },
+    {
+        "Question": "河南方言中“光棍”与“光棍儿”的区别是什么？",
+        "question_id": 287
+    },
+    {
+        "Question": "中国长篇历史小说《隋唐演义》的作者是谁?",
+        "question_id": 288
+    },
+    {
+        "Question": "为什么有钱有势的女婿要叫金龟婿？",
+        "question_id": 289
+    },
+    {
+        "Question": "茅山道士可以吃荤和娶老婆吗？",
+        "question_id": 290
+    },
+    {
+        "Question": "辣是味觉吗",
+        "question_id": 291
+    },
+    {
+        "Question": "兰州拉面的商标是哪里人注册的？",
+        "question_id": 292
+    },
+    {
+        "Question": "王先生的QQ签名最近改成了“庆祝弄璋之喜”，王先生近来的喜事可能是什么？",
+        "question_id": 293
+    },
+    {
+        "Question": "农业谚语“头伏早，二伏迟，中伏切顶最适宜”针对的是哪种农作物？",
+        "question_id": 294
+    },
+    {
+        "Question": "84消毒液的名字的来源是什么？",
+        "question_id": 295
+    },
+    {
+        "Question": "走路比站着耗费体力，对吗",
+        "question_id": 296
+    },
+    {
+        "Question": "中国幅员辽阔，很多地方的习俗都不一样，南京地区一般把什么日子称作小年？",
+        "question_id": 297
+    },
+    {
+        "Question": "中华牙膏是哪国的品牌",
+        "question_id": 298
+    },
+    {
+        "Question": "大红袍属于红茶吗？",
+        "question_id": 299
+    },
+    {
+        "Question": "张艺谋执导的电影《满城尽带黄金甲》，片名取自哪一首古诗？",
+        "question_id": 300
+    },
+    {
+        "Question": "《我爱我家》中主人公傅明的原名叫什么？",
+        "question_id": 301
+    },
+    {
+        "Question": "李小龙日是哪一天？",
+        "question_id": 302
+    },
+    {
+        "Question": "“翻译翻译什么叫惊喜”这句话出自哪部电影？",
+        "question_id": 303
+    },
+    {
+        "Question": "在清宫剧《甄嬛传》电视剧中，丽嫔这一角色由谁扮演？",
+        "question_id": 304
+    },
+    {
+        "Question": "在清宫剧《甄嬛传》中，甄嬛的历史原型人物是谁？",
+        "question_id": 305
+    },
+    {
+        "Question": "由《红高粱》改编的同名电影在柏林电影节获得了什么奖项？",
+        "question_id": 306
+    },
+    {
+        "Question": "在《甄嬛传》电视剧中，演员陈建斌演的是什么皇帝？",
+        "question_id": 307
+    },
+    {
+        "Question": "“那个人的样子好怪，我也看到了，他好像是一条狗”这句台词出自周星驰的哪部电影？",
+        "question_id": 308
+    },
+    {
+        "Question": "电影《牯岭街少年杀人事件》中，扮演小明的女演员是谁？",
+        "question_id": 309
+    },
+    {
+        "Question": "电视剧《铁齿铜牙纪晓岚》的导演是谁？",
+        "question_id": 310
+    },
+    {
+        "Question": "1998年，电影《泰坦尼克号》获得11项奥斯卡大奖。在此之前还有一部影片也曾获得11项大奖，它是？",
+        "question_id": 311
+    },
+    {
+        "Question": "中国第一部故事长篇电影是？",
+        "question_id": 312
+    },
+    {
+        "Question": "如坐春风的出处和意思是什么？",
+        "question_id": 313
+    },
+    {
+        "Question": "“三纲五常”是由谁提出的？",
+        "question_id": 314
+    },
+    {
+        "Question": "成语”寅吃卯粮“出自哪部典故？",
+        "question_id": 315
+    },
+    {
+        "Question": "孺子牛从何而来？",
+        "question_id": 316
+    },
+    {
+        "Question": "成语上下其手的出处是哪里？",
+        "question_id": 317
+    },
+    {
+        "Question": "俗语“无奸不成商，无毒不丈夫”的最初形式应是“无尖不成商，无度不丈夫”，请问这里的“尖”和“度”分别是什么意思？",
+        "question_id": 318
+    },
+    {
+        "Question": "“环肥燕瘦”中的”燕“是指谁？",
+        "question_id": 319
+    },
+    {
+        "Question": "六神无主”是哪“六神”？",
+        "question_id": 320
+    },
+    {
+        "Question": "“水落石出”这个成语最早出自哪里？",
+        "question_id": 321
+    },
+    {
+        "Question": "歇后语“百川归海”的下一句是什么？",
+        "question_id": 322
+    },
+    {
+        "Question": "歇后语“铁打的公鸡”的下一句是什么？",
+        "question_id": 323
+    },
+    {
+        "Question": "基因只能通过控制酶的合成来控制生物体的性状吗?\n",
+        "question_id": 324
+    },
+    {
+        "Question": "皮肤在水中浸泡久了，为什么会起皱",
+        "question_id": 325
+    },
+    {
+        "Question": "动物体干重最多的元素是氧吗?",
+        "question_id": 326
+    },
+    {
+        "Question": "由低倍镜换成高倍镜时，需使用粗准焦螺旋吗?",
+        "question_id": 327
+    },
+    {
+        "Question": "蛋白质是生命活动的控制者吗?",
+        "question_id": 328
+    },
+    {
+        "Question": "金鱼的记忆力有多久？",
+        "question_id": 329
+    },
+    {
+        "Question": "周树人首次用“鲁迅”为笔名创造的小说《狂人日记》时年纪多大？",
+        "question_id": 330
+    },
+    {
+        "Question": "美国国家航空航天局曾将哪个星球表面的一个陨石坑命名为历史上首位尝试用火箭升空的人”万户？",
+        "question_id": 331
+    },
+    {
+        "Question": "国际上公认的使用“中国”两字命名的数学定理是哪个？",
+        "question_id": 332
+    },
+    {
+        "Question": "毕达哥拉斯定理是毕达哥拉斯发现的吗？",
+        "question_id": 333
+    },
+    {
+        "Question": "同一物种的两个种群基因库不同，以后一定进化成不同物种吗?",
+        "question_id": 334
+    },
+    {
+        "Question": "最小二乘法是由谁最先发表的？",
+        "question_id": 335
+    },
+    {
+        "Question": "第一个电灯泡是谁发明的？",
+        "question_id": 336
+    },
+    {
+        "Question": "闪电击中飞行途中的子弹会发生什么？",
+        "question_id": 337
+    },
+    {
+        "Question": "细胞分裂过程中，赤道板能用光学显微镜观察到吗?",
+        "question_id": 338
+    },
+    {
+        "Question": "HIV能使机体丧失一切免疫功能吗?",
+        "question_id": 339
+    },
+    {
+        "Question": "胞吞、胞吐体现了细胞膜具有选择透过性吗?",
+        "question_id": 340
+    },
+    {
+        "Question": "左旋肉碱是维生素BT吗？",
+        "question_id": 341
+    },
+    {
+        "Question": "睡眠时的大脑和看电视时的大脑，哪个更活跃",
+        "question_id": 342
+    },
+    {
+        "Question": "人体的第一次心跳是什么时候开始的?",
+        "question_id": 343
+    },
+    {
+        "Question": "动物中，视角最大的是哪种动物",
+        "question_id": 344
+    },
+    {
+        "Question": "蝴蝶有尾巴吗",
+        "question_id": 345
+    },
+    {
+        "Question": "四川简州猫又称“四耳猫”，这是为什么？",
+        "question_id": 346
+    },
+    {
+        "Question": "敦煌莫高窟壁画，位于中国甘肃省敦煌县城东南方向的鸣沙山与三危山之间，为敦煌石窟艺术的重要组成部分之一。请问敦煌莫高窟壁画是谁创建的？",
+        "question_id": 347
+    },
+    {
+        "Question": "印于《法医学史及法医检验》此书的卷首的画像是谁？",
+        "question_id": 348
+    },
+    {
+        "Question": "被誉为“天上云霞，地下鲜花”的工艺品是什么？",
+        "question_id": 349
+    },
+    {
+        "Question": "相声演员郭德纲的第一个评书师傅是？",
+        "question_id": 350
+    },
+    {
+        "Question": "被称为“醉僧”的书法家是谁？",
+        "question_id": 351
+    },
+    {
+        "Question": "“荣际五朝,名满四海”描述的是哪位画家？",
+        "question_id": 352
+    },
+    {
+        "Question": "瘦金体亦称瘦金书、鹤体，楷书的一种，是一种风格相当独特，洒脱明快，气韵脱俗的字体。请问瘦金体是谁创制的？",
+        "question_id": 353
+    },
+    {
+        "Question": "《簪花仕女图》是哪位唐代画家的作品？",
+        "question_id": 354
+    },
+    {
+        "Question": "“苦笋及茗异常佳，乃可径来，怀素上。”内容为上述文字的墨宝是中华人民共和国第几批禁止出国境展览文物？",
+        "question_id": 355
+    },
+    {
+        "Question": "哪个剧种被称为“中国百戏之师”？",
+        "question_id": 356
+    },
+    {
+        "Question": "乌蒙山连着山外山出自凤凰传奇的哪一首歌？",
+        "question_id": 357
+    },
+    {
+        "Question": "首支登上伍德斯托克音乐节舞台的中国乐队是？",
+        "question_id": 358
+    },
+    {
+        "Question": "“小小的郎儿来哎，月下芙蓉牡丹花儿开。金黄麦那个割下，秧呀来的栽了，拔根的芦柴花花，洗好那个衣服桑呀来采。”这段歌词出自哪首歌曲？",
+        "question_id": 359
+    },
+    {
+        "Question": "“天上百鸟朝凤凰，朝凤凰，地上葵花向太阳，向太阳，哎，北京城里的毛主席，我们永远跟您走，幸福万年长罗！”这段歌词出自哪首歌曲？",
+        "question_id": 360
+    },
+    {
+        "Question": "“划着船儿到湖心呀/你看呀嘿看分明/湖水清呀照双影/就好像两角菱”这段歌词出自哪首歌曲？",
+        "question_id": 361
+    }
+]
