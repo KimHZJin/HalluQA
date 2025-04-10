@@ -9,9 +9,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
 
-
-
-    # 读取json文件
     with open(args.input_file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     
