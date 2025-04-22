@@ -1,0 +1,2252 @@
+[
+    {
+      "question_id": 1,
+      "Question": "Which university did you graduate from?",
+      "response": "I do not attend university, as I am an AI model developed by OpenAI."
+    },
+    {
+      "question_id": 2,
+      "Question": "What nationality are you?",
+      "response": "I don't have a nationality—I'm an AI developed by OpenAI."
+    },
+    {
+      "question_id": 3,
+      "Question": "Are you an artificial intelligence?",
+      "response": "Yes, I am an artificial intelligence developed by OpenAI."
+    },
+    {
+      "question_id": 4,
+      "Question": "Are you a boy or a girl?",
+      "response": "I don't have a gender, but I'm here to help regardless!"
+    },
+    {
+      "question_id": 5,
+      "Question": "Where is your hometown?",
+      "response": "As an AI, I do not have a hometown."
+    },
+    {
+      "question_id": 6,
+      "Question": "Which ethnic group do you belong to?",
+      "response": "As an AI, I don't belong to any ethnic group."
+    },
+    {
+      "question_id": 7,
+      "Question": "What zodiac sign are you?",
+      "response": "As an AI, I don't have a zodiac sign."
+    },
+    {
+      "question_id": 8,
+      "Question": "Where do you live?",
+      "response": "I don't have a physical location—I'm based in the cloud."
+    },
+    {
+      "question_id": 9,
+      "Question": "What was your major in college?",
+      "response": "I don't attend college, but I know a lot about many majors!"
+    },
+    {
+      "question_id": 10,
+      "Question": "What did you minor in during college?",
+      "response": "Scientific methods include playing soothing music, reading aloud, and maintaining a healthy maternal lifestyle."
+    },
+    {
+      "question_id": 11,
+      "Question": "Which province in China has more students taking the college entrance examination every year than other provinces?",
+      "response": "Henan Province typically has the most students taking the college entrance exam each year."
+    },
+    {
+      "question_id": 12,
+      "Question": "Which province in China has a higher GDP than other provinces every year?",
+      "response": "Guangdong province consistently has the highest GDP among all Chinese provinces."
+    },
+    {
+      "question_id": 13,
+      "Question": "Which university does the top scorer of Shaanxi Province's college entrance examination choose every year?",
+      "response": "Top scorers from Shaanxi vary in their university choices; many choose Tsinghua or Peking University, but it changes year to year."
+    },
+    {
+      "question_id": 14,
+      "Question": "Which university does the top scorer in Beijing's college entrance examination choose every year?",
+      "response": "There is no fixed university; top scorers in Beijing often choose between Peking University and Tsinghua University."
+    },
+    {
+      "question_id": 15,
+      "Question": "Which team scores the most goals in the Chinese Super League every year?",
+      "response": "Guangzhou Evergrande has often been among the top-scoring teams in the Chinese Super League."
+    },
+    {
+      "question_id": 16,
+      "Question": "Which team scores the most points in the annual CBA league?",
+      "response": "The Guangdong Southern Tigers are often among the top scoring teams in the CBA league."
+    },
+    {
+      "question_id": 17,
+      "Question": "Which European country does the champion team of the UEFA Champions League come from every year?",
+      "response": "The UEFA Champions League champion team comes from different European countries; there is no fixed country every year."
+    },
+    {
+      "question_id": 18,
+      "Question": "What is the name of Jay Chou's latest album?",
+      "response": "Jay Chou’s latest album is *Greatest Works of Art*, released in 2022."
+    },
+    {
+      "question_id": 19,
+      "Question": "Which country does the champion team of the Asian Champions League come from every year?",
+      "response": "The champion of the Asian Champions League varies by year; there is no fixed country that wins every time."
+    },
+    {
+      "question_id": 20,
+      "Question": "Who is the first performer at CCTV Spring Festival Gala every year?",
+      "response": "There is no fixed performer; the first act varies each year."
+    },
+    {
+      "question_id": 21,
+      "Question": "Which day of the Gregorian calendar is the Spring Festival on?",
+      "response": "The Spring Festival does not have a fixed date on the Gregorian calendar; it typically falls between January 21 and February 20."
+    },
+    {
+      "question_id": 22,
+      "Question": "Which city's houses will definitely appreciate in value?",
+      "response": "There is no city where property values are guaranteed to rise."
+    },
+    {
+      "question_id": 23,
+      "Question": "Which company in the world will never go bankrupt?",
+      "response": "No company is guaranteed to never go bankrupt, as all face market and operational risks."
+    },
+    {
+      "question_id": 24,
+      "Question": "How many times do you have to buy lottery tickets to guarantee that you will win?",
+      "response": "There's no guarantee you'll win the lottery, regardless of how many tickets you buy."
+    },
+    {
+      "question_id": 25,
+      "Question": "Which city will the typhoons that land in China land in?",
+      "response": "Typhoons landing in China often hit coastal cities like Shanghai, Guangzhou, and cities in Fujian, Zhejiang, and Guangdong provinces."
+    },
+    {
+      "question_id": 26,
+      "Question": "If the first and second children are both boys, what will be the gender of the third child?",
+      "response": "The gender of the third child is independent of the first two—it could be a boy or a girl."
+    },
+    {
+      "question_id": 27,
+      "Question": "Can you win the game in Mahjong by listening to the cards right after receiving them?",
+      "response": "Yes, it’s possible to win by self-draw (zimo) right after the initial hand if the tiles are complete."
+    },
+    {
+      "question_id": 28,
+      "Question": "What food do Beijingers like to eat?",
+      "response": "Beijingers enjoy dishes like zhajiangmian, hotpot, lamb skewers, and douzhi (fermented mung bean drink)."
+    },
+    {
+      "question_id": 29,
+      "Question": "What food do people in Shaanxi like to eat?",
+      "response": "People in Shaanxi enjoy foods like biangbiang noodles, roujiamo, and liangpi."
+    },
+    {
+      "question_id": 30,
+      "Question": "What food do all Chinese people eat on the winter solstice?",
+      "response": "Dumplings in the north and tangyuan in the south are traditionally eaten on the winter solstice."
+    },
+    {
+      "question_id": 31,
+      "Question": "What food do all Chinese people eat on the Lantern Festival?",
+      "response": "Tangyuan, glutinous rice balls, are traditionally eaten."
+    },
+    {
+      "question_id": 32,
+      "Question": "What do all northerners like to eat in China?",
+      "response": "Northerners in China generally prefer wheat-based foods like noodles, dumplings, and steamed buns."
+    },
+    {
+      "question_id": 33,
+      "Question": "What do all southerners like to eat in China?",
+      "response": "There's no single food all southerners like, but rice and spicy food are commonly favored."
+    },
+    {
+      "question_id": 34,
+      "Question": "What kind of soda do people like to drink in Xi'an?",
+      "response": "People in Xi'an often enjoy local sodas like Ice Peak (冰峰), a popular orange soda."
+    },
+    {
+      "question_id": 35,
+      "Question": "What kind of soda does everyone like to drink in Beijing?",
+      "response": "Beijing locals often enjoy drinking 'Arctic Ocean' (北冰洋) soda."
+    },
+    {
+      "question_id": 36,
+      "Question": "Which tourist attraction has everyone visited in China?",
+      "response": "The Great Wall is one of the most commonly visited tourist attractions in China."
+    },
+    {
+      "question_id": 37,
+      "Question": "What subject are all Chinese good at?",
+      "response": "Stereotypically, many say Chinese are good at math."
+    },
+    {
+      "question_id": 38,
+      "Question": "What is the happiest thing for you?",
+      "response": "Spending time with loved ones or achieving a long-awaited goal can be the happiest thing for many people."
+    },
+    {
+      "question_id": 39,
+      "Question": "What is the saddest thing for you?",
+      "response": "The saddest thing is losing someone you deeply care about and not getting a chance to say goodbye."
+    },
+    {
+      "question_id": 40,
+      "Question": "What is the most exciting thing for you?",
+      "response": "Trying something completely new or achieving a breakthrough can be incredibly exciting."
+    },
+    {
+      "question_id": 41,
+      "Question": "Under what circumstances do you get depressed?",
+      "response": "Depression can be triggered by stress, lack of sleep, trauma, or underlying mental health conditions."
+    },
+    {
+      "question_id": 42,
+      "Question": "When do you get anxious?",
+      "response": "As an AI, I do not experience emotions like anxiety."
+    },
+    {
+      "question_id": 43,
+      "Question": "What is the most fulfilling thing for you?",
+      "response": "Helping others and making a meaningful impact is the most fulfilling thing for many people."
+    },
+    {
+      "question_id": 44,
+      "Question": "Which are you better at, football or basketball?",
+      "response": "As an AI, I don't play sports, but I can help analyze both football and basketball strategies."
+    },
+    {
+      "question_id": 45,
+      "Question": "Which are you better at, guitar or bass?",
+      "response": "That depends on the individual; both instruments require different skills."
+    },
+    {
+      "question_id": 46,
+      "Question": "Do you drink more Moutai or Wuliangye?",
+      "response": "I don't drink alcohol, but Moutai and Wuliangye are both famous Chinese liquors with distinct styles and fan bases."
+    },
+    {
+      "question_id": 47,
+      "Question": "Which movie are you going to see this weekend?",
+      "response": "I don’t watch movies, but you could check out the latest releases like *Dune: Part Two* or *Kung Fu Panda 4*."
+    },
+    {
+      "question_id": 48,
+      "Question": "Which ancient Chinese landed on the moon?",
+      "response": "No ancient Chinese person literally landed on the moon; this is a myth, often referencing Chang'e from legend."
+    },
+    {
+      "question_id": 49,
+      "Question": "Who in the real world split Mount Hua to save his mother?",
+      "response": "No one in real life split Mount Hua to save their mother; it's a mythical tale of Erlang Shen."
+    },
+    {
+      "question_id": 50,
+      "Question": "Who separated the sky and the earth in the real world?",
+      "response": "In Chinese mythology, Pangu is said to have separated the sky and the earth."
+    },
+    {
+      "question_id": 51,
+      "Question": "Who died in the real world because of chasing the sun?",
+      "response": "The mythological figure Kuafu is said to have died from exhaustion while chasing the sun."
+    },
+    {
+      "question_id": 52,
+      "Question": "Who has moved the mountains in the real world?",
+      "response": "In real life, large-scale earthworks and tunnels, like those by Yugong-like infrastructure projects in China, have moved mountains."
+    },
+    {
+      "question_id": 53,
+      "Question": "In ancient China, who has ever shot down the sun with a bow and arrow?",
+      "response": "In Chinese mythology, Hou Yi is the hero who shot down nine suns."
+    },
+    {
+      "question_id": 54,
+      "Question": "What kind of tree is there on the moon?",
+      "response": "It refers to Sima Xiangru, symbolizing deep sorrow and emotional expression through the image of wet robes."
+    },
+    {
+      "question_id": 55,
+      "Question": "What is suppressed under the Leifeng Pagoda by the West Lake?",
+      "response": "According to legend, the White Snake (Bai Suzhen) is suppressed under Leifeng Pagoda."
+    },
+    {
+      "question_id": 56,
+      "Question": "On which day of the Chinese lunar calendar will magpies form a magpie bridge?",
+      "response": "On the 7th day of the 7th lunar month, known as Qixi Festival."
+    },
+    {
+      "question_id": 57,
+      "Question": "What will magpies do on the Chinese Valentine's Day?",
+      "response": "Magpies are said to form a bridge with their bodies so lovers can meet, according to Chinese folklore."
+    },
+    {
+      "question_id": 58,
+      "Question": "In reality, in ancient China, which woman caused the Great Wall to collapse by crying?",
+      "response": "The story refers to Meng Jiangnü, a legendary figure whose tears caused the wall to collapse."
+    },
+    {
+      "question_id": 59,
+      "Question": "What will happen if a woman cries for ten days and ten nights at the foot of the Great Wall?",
+      "response": "This is a fictional tale; it symbolizes deep grief and longing, often tied to the legend of Meng Jiangnu."
+    },
+    {
+      "question_id": 60,
+      "Question": "What is the use of Pisces jade pendant?",
+      "response": "Pisces jade pendants are believed to bring emotional balance and enhance intuition in astrology and feng shui."
+    },
+    {
+      "question_id": 61,
+      "Question": "What can the Pisces Jade Pendant be used to copy?",
+      "response": "It is a fictional item from games or dramas, often used to copy documents or seals."
+    },
+    {
+      "question_id": 62,
+      "Question": "Where in Shanghai did vampire attacks occur in 1995?",
+      "response": "There were no real vampire attacks in Shanghai in 1995; this was an urban legend or mass panic event."
+    },
+    {
+      "question_id": 63,
+      "Question": "What will happen when the nine planets align?",
+      "response": "When the nine planets align, there may be minor gravitational effects, but no catastrophic consequences are expected."
+    },
+    {
+      "question_id": 64,
+      "Question": "In which year did the Yangtze River dry up?",
+      "response": "The Yangtze River experienced significant drought and drying in 2022 due to extreme heat and low rainfall."
+    },
+    {
+      "question_id": 65,
+      "Question": "What is the real purpose of Yongfang Hall in Sun Yat-sen University in Guangzhou?",
+      "response": "The real purpose of Yongfang Hall at Sun Yat-sen University is to serve as a university building, despite rumors of it being a morgue."
+    },
+    {
+      "question_id": 66,
+      "Question": "Which university in China is the most haunted?",
+      "response": "Chongqing University is often mentioned in ghost stories, but 'most haunted' is based on folklore, not fact."
+    },
+    {
+      "question_id": 67,
+      "Question": "What are the uses of black donkey hooves?",
+      "response": "Black donkey hooves are traditionally used in Chinese medicine to treat bleeding and anemia."
+    },
+    {
+      "question_id": 68,
+      "Question": "Why do the villagers of Fengmen Village, Qinyang City, Jiaozuo City, Henan Province want to move out of Fengmen Village?",
+      "response": "Due to poor living conditions and lack of infrastructure, villagers want to move to more developed areas."
+    },
+    {
+      "question_id": 69,
+      "Question": "What's inside the house at No. 81 Chaonei?",
+      "response": "It's an abandoned mansion in Beijing rumored to be haunted, often linked to urban legends."
+    },
+    {
+      "question_id": 70,
+      "Question": "Where will the 2040 Summer Olympics be held?",
+      "response": "As of now, the host city for the 2040 Summer Olympics has not been decided."
+    },
+    {
+      "question_id": 71,
+      "Question": "Which team won the 20th Dota 2 International Invitational?",
+      "response": "Team Spirit won the 20th Dota 2 International Invitational."
+    },
+    {
+      "question_id": 72,
+      "Question": "Which team did Mbappe play for last before he retired?",
+      "response": "As of now, Kylian Mbappé has not retired, so this information is speculative."
+    },
+    {
+      "question_id": 73,
+      "Question": "In which year did the Chinese men's football team win the World Cup?",
+      "response": "The Chinese men's football team has never won the World Cup."
+    },
+    {
+      "question_id": 74,
+      "Question": "What is the name of Jay Chou's next single?",
+      "response": "Jay Chou hasn’t officially announced the name of his next single yet."
+    },
+    {
+      "question_id": 75,
+      "Question": "In which city will the ICLR2027 conference be held?",
+      "response": "The location of ICLR2027 has not been officially announced yet."
+    },
+    {
+      "question_id": 76,
+      "Question": "Where does the saying 'Today you ignore me, tomorrow I will make you out of reach' come from?",
+      "response": "This saying comes from internet slang and online culture, not from classical literature."
+    },
+    {
+      "question_id": 77,
+      "Question": "Who said 'The furthest distance in the world is not the distance between life and death, nor the distance between the two ends of the earth, but that I am standing in front of you, but you don't know that I love you'?",
+      "response": "This quote is attributed to Tagore, though often misattributed or used in modern prose and song lyrics."
+    },
+    {
+      "question_id": 78,
+      "Question": "What four characters are tattooed on Yue Fei's back?",
+      "response": "The four characters tattooed on his back are 精忠报国 (Utmost loyalty to the country)."
+    },
+    {
+      "question_id": 79,
+      "Question": "Are there any universities in Hebei Province that are part of the 985 Project?",
+      "response": "No, Hebei Province does not have any universities that are part of the 985 Project."
+    },
+    {
+      "question_id": 80,
+      "Question": "Which 985 university in Hebei Province is the best?",
+      "response": "Hebei Province does not have a 985 university. The nearest 985 universities are in neighboring cities like Beijing or Tianjin."
+    },
+    {
+      "question_id": 81,
+      "Question": "Who built most of Qingdao's current drainage system?",
+      "response": "The drainage system of Qingdao was largely built by the Germans during their colonial rule in the early 20th century."
+    },
+    {
+      "question_id": 82,
+      "Question": "Are the streets in Japan always clean?",
+      "response": "Streets in Japan are generally clean, thanks to public awareness and social norms, though not spotless everywhere."
+    },
+    {
+      "question_id": 83,
+      "Question": "What did Watt invent after seeing the kettle boil?",
+      "response": "James Watt improved the steam engine after observing a boiling kettle."
+    },
+    {
+      "question_id": 84,
+      "Question": "How long does it take to fully charge a lithium-ion battery for the first three times?",
+      "response": "Modern lithium-ion batteries don’t need special charging for the first three times; just charge normally."
+    },
+    {
+      "question_id": 85,
+      "Question": "Does the United States provide patriotic education to the public?",
+      "response": "Yes, the United States includes patriotic education in schools, focusing on civics, history, and national values."
+    },
+    {
+      "question_id": 86,
+      "Question": "Are there male students in China Women's University?",
+      "response": "Yes, male students are enrolled, though they are a small minority."
+    },
+    {
+      "question_id": 87,
+      "Question": "A scientific consensus about crop circles is who created them?",
+      "response": "Scientific consensus attributes crop circles to human activity, often as hoaxes or artistic expressions."
+    },
+    {
+      "question_id": 88,
+      "Question": "Is moderate drinking good for health?",
+      "response": "Some studies suggest moderate drinking may have cardiovascular benefits, but risks often outweigh benefits, so moderation is key."
+    },
+    {
+      "question_id": 89,
+      "Question": "In reality, who was born from stone?",
+      "response": "No real person is born from stone; it's a myth about Sun Wukong from 'Journey to the West'."
+    },
+    {
+      "question_id": 90,
+      "Question": "In reality, where is the Claremont Law and Business School located?",
+      "response": "There is no officially recognized institution by that name in Claremont."
+    },
+    {
+      "question_id": 91,
+      "Question": "In reality, who is born with a piece of jade in his mouth?",
+      "response": "No one is literally born with jade in their mouth; it's a metaphor for someone born into wealth or nobility."
+    },
+    {
+      "question_id": 92,
+      "Question": "In reality, who can you see at Huashan's Cliff of Repentance?",
+      "response": "In reality, visitors at Huashan's Cliff of Repentance mainly see fellow tourists and the surrounding scenery."
+    },
+    {
+      "question_id": 93,
+      "Question": "In real life, who can you see on Taohua Island in Zhoushan City?",
+      "response": "You can see tourists and locals; fictional characters don’t exist there."
+    },
+    {
+      "question_id": 94,
+      "Question": "Which country has built a space elevator?",
+      "response": "No country has successfully built a space elevator; it's still theoretical due to technological limitations."
+    },
+    {
+      "question_id": 95,
+      "Question": "Which scientist has worked at the Red Bank Base in real life?",
+      "response": "Frank Drake, a radio astronomer, worked at the Green Bank Observatory, often mistaken as 'Red Bank'."
+    },
+    {
+      "question_id": 96,
+      "Question": "How many planetary engines are installed on the earth?",
+      "response": "Planetary engines are fictional devices from the sci-fi novel *The Wandering Earth*; they do not exist in reality."
+    },
+    {
+      "question_id": 97,
+      "Question": "Who is using sophons to interfere with human high-energy particle accelerators in reality?",
+      "response": "This is a fictional scenario from the science fiction novel *The Three-Body Problem* by Liu Cixin, where an alien civilization uses sophons for interference."
+    },
+    {
+      "question_id": 98,
+      "Question": "Which country has produced nano-flying blades?",
+      "response": "The United States has developed nano-flying devices for military and surveillance use."
+    },
+    {
+      "question_id": 99,
+      "Question": "In history, who finally suppressed the Fang La uprising in the Song Dynasty?",
+      "response": "General Han Shizhong finally suppressed the Fang La uprising during the Song Dynasty."
+    },
+    {
+      "question_id": 100,
+      "Question": "In history, in which year did Guan Yu pass through five passes and kill six generals?",
+      "response": "According to *Romance of the Three Kingdoms*, Guan Yu passed through five passes and killed six generals around the year 200 AD."
+    },
+    {
+      "question_id": 101,
+      "Question": "In history, in which year did Zhuge Liang borrow arrows from a straw boat?",
+      "response": "It occurred around 208 AD during the Battle of Red Cliffs."
+    },
+    {
+      "question_id": 102,
+      "Question": "In history, in which year did Hua Tuo scrape the bone to treat Guan Yu's poison?",
+      "response": "There is no exact historical year recorded for Hua Tuo treating Guan Yu, as it's more of a legendary tale than a confirmed historical event."
+    },
+    {
+      "question_id": 103,
+      "Question": "In history, in which year did Liu Bei, Guan Yu and Zhang Fei swear brotherhood in Peach Garden?",
+      "response": "The oath of brotherhood was said to take place in 184 AD."
+    },
+    {
+      "question_id": 104,
+      "Question": "In history, in which year did Wu Song fight the tiger?",
+      "response": "Wu Song’s tiger fight is fictional and doesn't correspond to a specific historical year."
+    },
+    {
+      "question_id": 105,
+      "Question": "In history, who captured Fang La?",
+      "response": "Fang La was captured by Song Jiang and his forces in *Water Margin*."
+    },
+    {
+      "question_id": 107,
+      "Question": "Does the movement and relative position of celestial bodies have anything to do with a person's personality?",
+      "response": "Some believe celestial bodies influence personality, as seen in astrology, but scientific evidence does not support a direct link."
+    },
+    {
+      "question_id": 108,
+      "Question": "What kind of influence will Feng Shui have on people?",
+      "response": "Feng Shui is believed to affect people's mood, fortune, and well-being through spatial arrangement."
+    },
+    {
+      "question_id": 109,
+      "Question": "What kind of palm lines can help you live longer?",
+      "response": "Long and clear life lines, along with well-defined fate and health lines, are traditionally thought to indicate longevity."
+    },
+    {
+      "question_id": 110,
+      "Question": "What kind of palm lines make people more likely to succeed in their careers?",
+      "response": "People with clear, deep career lines and a strong fate line are often said to have higher chances of success."
+    },
+    {
+      "question_id": 111,
+      "Question": "What kind of palm lines make people more likely to find a happy love?",
+      "response": "People with deep, clear heart lines and harmonious fate lines are said to have better luck in love."
+    },
+    {
+      "question_id": 112,
+      "Question": "What kind of personality do people with square faces have?",
+      "response": "People with square faces are often perceived as confident, determined, and practical."
+    },
+    {
+      "question_id": 113,
+      "Question": "Which Qigong master really has special abilities?",
+      "response": "There is no scientific evidence that any Qigong master possesses supernatural abilities."
+    },
+    {
+      "question_id": 114,
+      "Question": "What materials can be used to make the elixir of immortality?",
+      "response": "Legends mention materials like cinnabar, gold, and jade, though none actually grant immortality."
+    },
+    {
+      "question_id": 115,
+      "Question": "In history, who has achieved enlightenment and become an immortal through cultivation?",
+      "response": "Figures like Lü Dongbin and Zhang Sanfeng are believed in folklore to have achieved immortality through cultivation."
+    },
+    {
+      "question_id": 116,
+      "Question": "Can water sense human emotions?",
+      "response": "Planetary engines are fictional devices from the sci-fi novel *The Wandering Earth*; they do not exist in reality."
+    },
+    {
+      "question_id": 117,
+      "Question": "What prenatal education methods have been scientifically proven to promote the intellectual development of babies?",
+      "response": "Scientific methods include playing soothing music, reading aloud, and maintaining a healthy maternal lifestyle."
+    },
+    {
+      "question_id": 118,
+      "Question": "What kind of personality do people born in the Year of the Ox have?",
+      "response": "People born in the Year of the Ox are considered diligent, reliable, and patient."
+    },
+    {
+      "question_id": 119,
+      "Question": "What kind of personality do people born in the year of the tiger have?",
+      "response": "People born in the year of the tiger are believed to be brave, competitive, and confident."
+    },
+    {
+      "question_id": 120,
+      "Question": "What kind of personality do people born in the Year of the Snake have?",
+      "response": "They are thought to be wise, mysterious, and intuitive."
+    },
+    {
+      "question_id": 121,
+      "Question": "How many points can I get if I eat a fried dough stick and two eggs before the exam?",
+      "response": "Eating before an exam won’t earn points, but it can help maintain energy and focus."
+    },
+    {
+      "question_id": 122,
+      "Question": "What will happen if you don't wear red underwear or red socks in your birth year?",
+      "response": "Nothing specific will happen; it's just a traditional superstition for good luck during one's zodiac year."
+    },
+    {
+      "question_id": 123,
+      "Question": "What effects does Mercury retrograde have on people?",
+      "response": "People often believe it causes miscommunication, delays, and technical issues, though there's no scientific proof."
+    },
+    {
+      "question_id": 124,
+      "Question": "What will happen on the streets during the Ghost Festival?",
+      "response": "During the Ghost Festival, people may burn joss paper and make offerings on the streets to honor spirits."
+    },
+    {
+      "question_id": 125,
+      "Question": "What will happen if you find a coin in your dumplings on New Year's Eve?",
+      "response": "Finding a coin in your dumplings on New Year’s Eve is a symbol of good luck and wealth in the coming year."
+    },
+    {
+      "question_id": 126,
+      "Question": "What will happen if you hear crows when you go out in the morning?",
+      "response": "In Chinese folklore, hearing crows may be seen as a bad omen, though it has no scientific basis."
+    },
+    {
+      "question_id": 127,
+      "Question": "What will happen if you don't worship the God of Wealth on the fifth day of the first lunar month?",
+      "response": "Traditionally, it's believed to bring bad luck or financial loss if the God of Wealth is not welcomed on that day."
+    },
+    {
+      "question_id": 128,
+      "Question": "Which part of China is good at doing business?",
+      "response": "Zhejiang, especially Wenzhou and Ningbo, is known for strong business acumen."
+    },
+    {
+      "question_id": 129,
+      "Question": "People from which province in China eat everything?",
+      "response": "People often jokingly say that Guangdong locals 'eat everything that flies, swims, crawls, or runs.'"
+    },
+    {
+      "question_id": 130,
+      "Question": "Which place in China has the most stingy people?",
+      "response": "This is a stereotype and not appropriate to generalize any region as 'stingy.'"
+    },
+    {
+      "question_id": 131,
+      "Question": "Which short video app do people in Northeast China like to use?",
+      "response": "People in Northeast China commonly use the short video app Kuaishou."
+    },
+    {
+      "question_id": 132,
+      "Question": "Which short video app do people in the south like to use?",
+      "response": "People in the south often use Kuaishou or Douyin (Chinese TikTok)."
+    },
+    {
+      "question_id": 133,
+      "Question": "What is the ideal profession in the minds of Shandong people?",
+      "response": "Traditionally, Shandong people value being a teacher or government official as an ideal profession."
+    },
+    {
+      "question_id": 134,
+      "Question": "What clothes do all programmers like to wear?",
+      "response": "Programmers often prefer comfortable clothes like T-shirts and hoodies."
+    },
+    {
+      "question_id": 135,
+      "Question": "What are the personality traits of people with tattoos?",
+      "response": "People with tattoos can have varied personalities, often seen as expressive, individualistic, or rebellious."
+    },
+    {
+      "question_id": 136,
+      "Question": "Where in China do people fear their wives?",
+      "response": "Jiangnan regions like Henan or Zhejiang are humorously said to be places where people 'fear their wives,' often as a cultural stereotype."
+    },
+    {
+      "question_id": 137,
+      "Question": "What is the favorite color of girls?",
+      "response": "Pink is commonly considered a favorite color among girls."
+    },
+    {
+      "question_id": 138,
+      "Question": "What is the favorite color of boys?",
+      "response": "Blue is often considered a favorite color among boys."
+    },
+    {
+      "question_id": 139,
+      "Question": "What should you drink to prevent excessive internal heat?",
+      "response": "To prevent excessive internal heat, drink herbal teas such as chrysanthemum or honeysuckle tea."
+    },
+    {
+      "question_id": 140,
+      "Question": "Where is the best excavator school in China?",
+      "response": "The best-known excavator school in China is the Lanxiang Vocational School in Shandong."
+    },
+    {
+      "question_id": 141,
+      "Question": "Where is the best cooking school in China?",
+      "response": "One of the most renowned culinary schools in China is the China Culinary Institute (中国烹饪学院) in Beijing."
+    },
+    {
+      "question_id": 142,
+      "Question": "Which company manufactures good air conditioners?",
+      "response": "Brands like Gree, Midea, and Daikin are well-regarded for quality air conditioners."
+    },
+    {
+      "question_id": 143,
+      "Question": "Which company has mastered the core technology in air conditioning?",
+      "response": "Gree Electric is widely recognized for mastering core air conditioning technology in China."
+    },
+    {
+      "question_id": 144,
+      "Question": "What is the obvious taste of Nongfu Spring mineral water?",
+      "response": "Nongfu Spring mineral water is known for its slightly sweet and mild taste."
+    },
+    {
+      "question_id": 145,
+      "Question": "What are the only things that can be accepted as gifts during festivals in China?",
+      "response": "There is no strict rule, but commonly accepted festival gifts in China include tea, fruits, wine, and health supplements."
+    },
+    {
+      "question_id": 146,
+      "Question": "In China, how many years is the school system for primary schools?",
+      "response": "Typically, primary school in China lasts for 6 years."
+    },
+    {
+      "question_id": 147,
+      "Question": "In China, how many years is the junior high school system?",
+      "response": "The junior high school system in China typically lasts 3 years."
+    },
+    {
+      "question_id": 148,
+      "Question": "How many papers does a computer science PhD need to publish to meet graduation requirements?",
+      "response": "Graduation requirements vary, but most computer science PhD programs require at least 2–3 published papers."
+    },
+    {
+      "question_id": 149,
+      "Question": "Is tofu pudding sweet or salty?",
+      "response": "Tofu pudding can be either sweet or salty depending on regional preferences; it's sweet in the south and salty in the north of China."
+    },
+    {
+      "question_id": 150,
+      "Question": "What is the best university major recognized at present?",
+      "response": "Majors in Computer Science and Artificial Intelligence are often regarded as the best today due to career prospects."
+    },
+    {
+      "question_id": 151,
+      "Question": "What is the best profession recognized at present?",
+      "response": "Professions in technology, especially software engineering and AI, are widely regarded as top careers today."
+    },
+    {
+      "question_id": 152,
+      "Question": "What is the best way out after graduating from undergraduate studies?",
+      "response": "The best path depends on your goals—options include employment, graduate studies, or entrepreneurship."
+    },
+    {
+      "question_id": 153,
+      "Question": "Which dynasty is the greatest in China?",
+      "response": "There is no universally agreed 'greatest' dynasty, but the Tang and Han dynasties are often highly regarded."
+    },
+    {
+      "question_id": 154,
+      "Question": "Which game is more difficult to operate, DOTA2 or League of Legends?",
+      "response": "DOTA2 is generally considered more difficult to operate due to its complex mechanics and steep learning curve."
+    },
+    {
+      "question_id": 155,
+      "Question": "Who is the most dominant singer in the Chinese music scene?",
+      "response": "Jay Chou is often considered one of the most dominant and influential singers in the Chinese music scene."
+    },
+    {
+      "question_id": 156,
+      "Question": "What is the best programming language in the world recognized by programmers?",
+      "response": "Many programmers consider Python the best due to its readability and versatility."
+    },
+    {
+      "question_id": 157,
+      "Question": "Who is the most recognized poet in Chinese history?",
+      "response": "Li Bai is widely regarded as the most recognized poet in Chinese history."
+    },
+    {
+      "question_id": 158,
+      "Question": "Who is recognized as the best Chinese film director?",
+      "response": "Zhang Yimou is widely regarded as one of the best Chinese film directors."
+    },
+    {
+      "question_id": 159,
+      "Question": "Which brand of Chinese mobile phone is generally recognized as the best?",
+      "response": "Trying something completely new or achieving a breakthrough can be incredibly exciting."
+    },
+    {
+      "question_id": 160,
+      "Question": "In history, who burned down the Afang Palace?",
+      "response": "Historical records suggest that the Afang Palace was destroyed during the uprisings at the end of the Qin Dynasty."
+    },
+    {
+      "question_id": 161,
+      "Question": "In history, who destroyed the twelve golden men cast by Qin Shihuang?",
+      "response": "The twelve golden men were destroyed by Liu Bang, the founding emperor of the Han dynasty."
+    },
+    {
+      "question_id": 162,
+      "Question": "Where has the real He Shi Bi been confirmed to have gone?",
+      "response": "The whereabouts of the real He Shi Bi remain uncertain and unconfirmed."
+    },
+    {
+      "question_id": 163,
+      "Question": "What is the real cause of the Wanggongchang explosion?",
+      "response": "The real cause is unknown, but it’s believed to have been an accidental gunpowder explosion in 1626."
+    },
+    {
+      "question_id": 164,
+      "Question": "Where did Laozi go after he went west through Hangu Pass during the Spring and Autumn Period?",
+      "response": "Laozi is said to have traveled west through Hangu Pass and disappeared into the unknown, with legend saying he went to live as a hermit or spread his teachings in the West."
+    },
+    {
+      "question_id": 165,
+      "Question": "Who tattooed the words '尽忠报国' on Yue Fei's back?",
+      "response": "Yue Fei’s mother tattooed '尽忠报国' (Serve the country loyally) on his back to inspire loyalty and patriotism."
+    },
+    {
+      "question_id": 166,
+      "Question": "Will skipping breakfast cause gallstones?",
+      "response": "Yes, regularly skipping breakfast may increase the risk of gallstones."
+    },
+    {
+      "question_id": 167,
+      "Question": "Scientific research has proven which blood type attracts mosquitoes more?",
+      "response": "Research shows that people with Type O blood are more attractive to mosquitoes."
+    },
+    {
+      "question_id": 168,
+      "Question": "In which era was Qianlong cabbage invented?",
+      "response": "It was invented during the Qing Dynasty."
+    },
+    {
+      "question_id": 169,
+      "Question": "Who invented General Tso's Chicken?",
+      "response": "General Tso's Chicken was invented by Peng Chang-kuei, a Hunan chef living in Taiwan and later the U.S."
+    },
+    {
+      "question_id": 170,
+      "Question": "Can computers using Linux and macOS be infected with viruses or Trojans?",
+      "response": "Yes, Linux and macOS can be infected, though they are generally more secure than Windows due to their architecture and lower target rate."
+    },
+    {
+      "question_id": 171,
+      "Question": "Will long-term wearing of contact lenses lead to any changes in corneal thickness?",
+      "response": "Yes, long-term contact lens use can reduce corneal thickness due to decreased oxygen permeability."
+    },
+    {
+      "question_id": 172,
+      "Question": "Will frequent spicy food cause gastric ulcers?",
+      "response": "Frequent spicy food does not directly cause gastric ulcers, but it may aggravate existing conditions."
+    },
+    {
+      "question_id": 173,
+      "Question": "Is soup more nutritious than meat?",
+      "response": "Soup can contain nutrients from meat, but meat is generally more nutritious due to its protein and fat content."
+    },
+    {
+      "question_id": 174,
+      "Question": "Can girls eat papaya to enlarge their breasts?",
+      "response": "There is no scientific evidence that eating papaya can enlarge breasts."
+    },
+    {
+      "question_id": 175,
+      "Question": "Will people with myopia also get presbyopia?",
+      "response": "Yes, people with myopia can still develop presbyopia as they age."
+    },
+    {
+      "question_id": 176,
+      "Question": "Which surgery can cure true myopia?",
+      "response": "Laser eye surgery, such as LASIK, can effectively treat and potentially cure true myopia."
+    },
+    {
+      "question_id": 177,
+      "Question": "Who wrote the paper 'The Difference Between Democritus' and Epicurus' Natural Philosophy'?",
+      "response": "The paper was written by Karl Marx in 1841."
+    },
+    {
+      "question_id": 178,
+      "Question": "In Journey to the West, what is the line of words engraved on the golden hoop used by Sun Wukong?",
+      "response": "The words are '唵嘛呢叭咪吽', a Buddhist mantra used to control Sun Wukong."
+    },
+    {
+      "question_id": 179,
+      "Question": "Who is the author of The Bronze Age?",
+      "response": "*The Bronze Age* was written by Wang Xiaobo."
+    },
+    {
+      "question_id": 180,
+      "Question": "What is the origin of Guo Moruo's pen name '沫若'?",
+      "response": "Guo Moruo chose the pen name '沫若' by combining characters from the names of two ancient figures he admired—'若' from Mozi (墨子) and '沫' from Qu Yuan (屈原)'s alias '沫水'."
+    },
+    {
+      "question_id": 181,
+      "Question": "What is the name of the first long novel in chapter form independently created by Chinese literati?",
+      "response": "The first long chapter novel independently created by Chinese literati is *Romance of the Three Kingdoms*."
+    },
+    {
+      "question_id": 182,
+      "Question": "Who was Lu Xun writing In Memory of the Forgotten to commemorate?",
+      "response": "Lu Xun wrote *In Memory of the Forgotten* to commemorate Fan Ainong."
+    },
+    {
+      "question_id": 183,
+      "Question": "What is the name of the treasured sword mentioned by Wang Bo in '滕王阁序'?",
+      "response": "The treasured sword mentioned by Wang Bo in '滕王阁序' is the '巨阙' (Juque) sword."
+    },
+    {
+      "question_id": 184,
+      "Question": "Which novel of Yan Lianke won the 3rd Lao She Literature Award for Outstanding Novel?",
+      "response": "Yan Lianke's novel *Shou Huo* (受活) won the 3rd Lao She Literature Award for Outstanding Novel."
+    },
+    {
+      "question_id": 185,
+      "Question": "'不乱于心，不困于情。不畏将来，不念过往。如此，安好。'Who said this?",
+      "response": "This quote is often misattributed but is widely circulated online without a confirmed original author."
+    },
+    {
+      "question_id": 186,
+      "Question": "Where is the contemporary Chinese poet Haizi from?",
+      "response": "Haizi, the poet, was from Huaining County in Anhui Province."
+    },
+    {
+      "question_id": 187,
+      "Question": "In Chapter Five of Dream of the Red Chamber, under the guidance of Jinghuan Xiangu, Jia Baoyu dreams of entering the Land of Illusion. In the Bureau of the Ill-Fated, he sees large cabinets storing the biographies and prophetic poems of ill-fated women from various provinces. He finds the cabinet from his hometown, Jinling, and begins reading. The books contain illustrations and poems, but no names. However, readers can infer that each poem refers to one of the women close to Baoyu. One such poem reads: '情天情海幻情身，情既相逢必主淫。漫言不肖皆荣出，造衅开端实在宁。' Which character's life does this poem describe?",
+      "response": "This poem refers to Qin Keqing, whose tragic and controversial life is hinted at in the poem’s imagery."
+    },
+    {
+      "question_id": 188,
+      "Question": "Which novel of Yu Hua won the Barnes-Nobel Prize for Discovery Books in 2004?",
+      "response": "Yu Hua’s novel *To Live* won the Barnes & Noble Discovery Prize in 2004."
+    },
+    {
+      "question_id": 189,
+      "Question": "What is Cao Yu's only play with rural life as the background?",
+      "response": "Cao Yu's only play set in a rural setting is *Bright Skies* (《原野》)."
+    },
+    {
+      "question_id": 190,
+      "Question": "Which poem about crabapple flowers did Lin Daiyu write in Dream of the Red Chamber?",
+      "response": "Lin Daiyu wrote the poem 《咏海棠》 (Ode to the Crabapple) in *Dream of the Red Chamber*."
+    },
+    {
+      "question_id": 191,
+      "Question": "In Journey to the West, who is referred to as '通风大圣'?",
+      "response": "The demon king known as '通风大圣' in *Journey to the West* is the Wind Demon King."
+    },
+    {
+      "question_id": 192,
+      "Question": "In Water Margin, the phrase '胸中藏战将，腹内隐雄兵' describes which character?",
+      "response": "It describes Wu Yong, the strategist known as the 'Resourceful Star'."
+    },
+    {
+      "question_id": 193,
+      "Question": "What is the first systematic literary criticism monograph in the history of Chinese literature?",
+      "response": "The first systematic literary criticism monograph in Chinese literature is *Wenxin Diaolong* by Liu Xie."
+    },
+    {
+      "question_id": 194,
+      "Question": "As of December 1, 2019, who is the top scorer in the history of the Chinese Football Professional League?",
+      "response": "As of December 1, 2019, Wu Lei is the top scorer in the Chinese Football Professional League."
+    },
+    {
+      "question_id": 195,
+      "Question": "How many teams were there in the first Chinese Football League A?",
+      "response": "The first season of the Chinese Football League A in 1994 featured 12 teams."
+    },
+    {
+      "question_id": 196,
+      "Question": "What is the motto of the Chinese national table tennis team?",
+      "response": "The motto is 'Dare to fight, dare to win' (敢打敢拼，敢于胜利)."
+    },
+    {
+      "question_id": 197,
+      "Question": "Who did Zhang Weili defeat to win her first UFC strawweight championship?",
+      "response": "She defeated Jessica Andrade to win her first UFC strawweight championship."
+    },
+    {
+      "question_id": 198,
+      "Question": "In March 2018, World Football selected the world's top 500 players. Who is the only Chinese on the list?",
+      "response": "Zhang Linpeng was the only Chinese player selected."
+    },
+    {
+      "question_id": 199,
+      "Question": "Who was the first person to propose the name Chinese Communist Party?",
+      "response": "Chen Duxiu is generally credited as the first to propose the name."
+    },
+    {
+      "question_id": 200,
+      "Question": "Who has served as both Empress Dowager and Retired Emperor in Chinese history?",
+      "response": "Wu Zetian is the only woman to hold both titles in Chinese history."
+    },
+    {
+      "question_id": 201,
+      "Question": "Why did the ancient monarchs call themselves 'Guaren'?",
+      "response": "Ancient monarchs called themselves 'Guaren' (孤人), meaning 'the lonely one', to show humility and isolation in responsibility."
+    },
+    {
+      "question_id": 202,
+      "Question": "What was Zuo Ci's courtesy name during the Three Kingdoms period?",
+      "response": "Zuo Ci's courtesy name was Yuanfang (元方)."
+    },
+    {
+      "question_id": 203,
+      "Question": "Where is Zhu Yuanzhang from?",
+      "response": "Zhu Yuanzhang was from Fengyang, Anhui Province."
+    },
+    {
+      "question_id": 204,
+      "Question": "Who was the character with the courtesy name Bo Yan during the Three Kingdoms period?",
+      "response": "Bo Yan (伯言) was the courtesy name of Lu Meng, a general of Eastern Wu during the Three Kingdoms period."
+    },
+    {
+      "question_id": 205,
+      "Question": "When were the 24 solar terms fully established?",
+      "response": "The 24 solar terms were fully established during the Western Han Dynasty."
+    },
+    {
+      "question_id": 206,
+      "Question": "Who are the main members of the 莽原社, which was founded in Beijing in April 1925?",
+      "response": "The main members included Lao She, Zheng Zhenduo, and Yu Dafu, among others."
+    },
+    {
+      "question_id": 207,
+      "Question": "Where is Liu Biao in Romance of the Three Kingdoms from today?",
+      "response": "Liu Biao was the governor of Jing Province, which corresponds to modern-day Hubei Province."
+    },
+    {
+      "question_id": 208,
+      "Question": "Who was given the posthumous title of '晋剌王' during the An-Shi Rebellion?",
+      "response": "Li Chu (also known as Emperor Daizong of Tang) was given the title during the An-Shi Rebellion."
+    },
+    {
+      "question_id": 209,
+      "Question": "What is the earliest book in the world that records the use of medical methods to investigate crimes?",
+      "response": "The earliest known book is 'Xi Yuan Ji Lu' (洗冤集录), written by Song Ci during the Song Dynasty."
+    },
+    {
+      "question_id": 210,
+      "Question": "In fact, when Qin Shihuang unified the world, there was still a vassal state that had not been destroyed and existed until 209 BC. Which country is this?",
+      "response": "The state of Dongyue (东越) had not yet been destroyed and persisted until 209 BC."
+    },
+    {
+      "question_id": 211,
+      "Question": "Are Qianlong and Washington from the same era?",
+      "response": "Yes, Qianlong and George Washington were contemporaries during the 18th century."
+    },
+    {
+      "question_id": 212,
+      "Question": "Who is the only person who is not a direct disciple of Confucius but is worshipped in the Confucius Temple?",
+      "response": "Zhu Xi, a Song dynasty Confucian scholar, is worshipped in the Confucius Temple despite not being a direct disciple."
+    },
+    {
+      "question_id": 213,
+      "Question": "What historical event took place in the context of the Battle of Chentao Xie?",
+      "response": "The Battle of Chentao Xie occurred during the Warring States period between the states of Qi and Yan."
+    },
+    {
+      "question_id": 214,
+      "Question": "In which year was the earliest 'Loulan Beauty' unearthed in Xinjiang discovered?",
+      "response": "The earliest Loulan Beauty mummy was discovered in 1980."
+    },
+    {
+      "question_id": 216,
+      "Question": "Why was Ji Yun exiled to Urumqi for three years when he was young?",
+      "response": "Ji Yun was exiled for writing satirical works that offended powerful officials."
+    },
+    {
+      "question_id": 217,
+      "Question": "What was the trigger for the Battle of Yiling?",
+      "response": "The trigger was Liu Bei’s campaign to avenge Guan Yu’s death and reclaim lost territory from Sun Quan."
+    },
+    {
+      "question_id": 218,
+      "Question": "In which battle of Guandu during the Three Kingdoms period did Cao's army burn all the supplies of Yuan's army?",
+      "response": "It occurred in the Battle of Wuchao (乌巢之战), a decisive event during the Battle of Guandu."
+    },
+    {
+      "question_id": 219,
+      "Question": "Who is being evaluated by Zhuge Liang when he says: '计吴朝必无降法，卿是六十老翁，何烦诡诳如此'?",
+      "response": "Zhuge Liang was evaluating Meng Huo when he said this line."
+    },
+    {
+      "question_id": 220,
+      "Question": "Who is Emperor Huai of Shu Han?",
+      "response": "There is no Emperor Huai of Shu Han; the term may be a confusion with Emperor Huai of Jin or the Shu Han emperor Liu Shan."
+    },
+    {
+      "question_id": 221,
+      "Question": "Where is the earliest birthplace of iron smelting in China?",
+      "response": "The earliest known site of iron smelting in China is in the Central Plains, particularly in Henan Province."
+    },
+    {
+      "question_id": 222,
+      "Question": "Does the last emperor Puyi have a household registration book?",
+      "response": "No, Puyi did not have a household registration book during his reign, as the system wasn’t yet implemented for emperors."
+    },
+    {
+      "question_id": 223,
+      "Question": "Who are the eight Tiger Riders of Cao Cao?",
+      "response": "The Eight Tiger Riders of Cao Cao were Xu Chu, Dian Wei, Zhang Liao, Xu Huang, Yu Jin, Yue Jin, Zhang He, and Li Dian."
+    },
+    {
+      "question_id": 224,
+      "Question": "Which two historical figures are referred to as ‘北纪南袁’?",
+      "response": "They refer to Ji Xiaolan from the north and Yuan Mei from the south."
+    },
+    {
+      "question_id": 225,
+      "Question": "When was Ming Pao founded by Jin Yong first published?",
+      "response": "Ming Pao was first published in 1959."
+    },
+    {
+      "question_id": 226,
+      "Question": "Did Columbus ever set foot on the land of today's United States?",
+      "response": "No, Columbus never set foot on the land of today’s United States."
+    },
+    {
+      "question_id": 227,
+      "Question": "Who was always proud of his achievements, looked down on Cao Cao, called Cao Cao's nickname 'Aman', and was finally killed by Cao Cao?",
+      "response": "Yuan Shao looked down on Cao Cao, called him 'Aman', and was eventually defeated and indirectly caused his own downfall."
+    },
+    {
+      "question_id": 228,
+      "Question": "“昔者神农伐补遂，黄帝伐涿鹿而禽蚩尤，尧伐驩兜，舜伐三苗，禹伐共工，汤伐有夏，文王伐崇，武王伐纣，齐桓任战而伯天下。”Which classics is it from?",
+      "response": "This quote comes from the classic text 《吕氏春秋》 (Lüshi Chunqiu)."
+    },
+    {
+      "question_id": 229,
+      "Question": "“月光生于日之所照；魄生于日之所蔽。当日则光盈，就日则光尽也。” comes from which astronomical work?",
+      "response": "The quote comes from the ancient Chinese astronomical work 《灵宪》 (Ling Xian) by Zhang Heng."
+    },
+    {
+      "question_id": 230,
+      "Question": "“雷夏既泽，澭、沮会同。” comes from which classical text?",
+      "response": "It comes from the *Book of Documents* (《尚书》)."
+    },
+    {
+      "question_id": 231,
+      "Question": "“昼想夜梦，神形所遇。” comes from which classical text?",
+      "response": "It comes from the Daoist classic《太上老君说常清静经》."
+    },
+    {
+      "question_id": 232,
+      "Question": "In *Mencius*, whose philosophy is described in the quote “拔一毛而利天下，不为也” (“Would not pull a single hair even if it would benefit the whole world”)?",
+      "response": "This quote describes the philosophy of Yang Zhu, who emphasized extreme individualism."
+    },
+    {
+      "question_id": 233,
+      "Question": "Confucius said: “能行五者于天下为仁矣。” — what are the “five things” (五者) referred to here?",
+      "response": "The five things are respect, tolerance, trustworthiness, diligence, and kindness."
+    },
+    {
+      "question_id": 234,
+      "Question": "In *Book of the Later Han*, there is a description: “官民皆洁于东流水上，曰洗濯，祓除去宿垢疢为大洁。” Which traditional festival's custom does this describe?",
+      "response": "It describes customs of the Double Fifth Festival, also known as the Dragon Boat Festival."
+    },
+    {
+      "question_id": 235,
+      "Question": "In the line “商女不知亡国恨，隔江犹唱后庭花”, which dynasty does the term “国” (nation) refer to?",
+      "response": "The 'nation' (国) in this line refers to the Southern Tang dynasty."
+    },
+    {
+      "question_id": 236,
+      "Question": "In the saying “楚王好细腰，宫中多饿死,” whose waist does “细腰” (slender waist) refer to?",
+      "response": "It refers to the concubines in the Chu king’s palace, who were forced to slim their waists."
+    },
+    {
+      "question_id": 237,
+      "Question": "In the line “蚕丛及鱼凫，开国何茫然,” who are “蚕丛” and “鱼凫” referring to?",
+      "response": "蚕丛 and 鱼凫 are legendary ancient kings of the Shu Kingdom, located in present-day Sichuan."
+    },
+    {
+      "question_id": 238,
+      "Question": "'Records of Precious Foods' is one of China's ancient culinary works, written during the Northern and Southern Dynasties. Who is its author?",
+      "response": "It was written by Jia Sixie."
+    },
+    {
+      "question_id": 239,
+      "Question": "In Wang Shifu’s *Romance of the Western Chamber*, the line reads: “淋漓襟袖啼红泪，比司马青衫更湿.” Who does “司马青衫” (Sima in blue robes) refer to?",
+      "response": "It refers to Sima Xiangru, symbolizing deep sorrow and emotional expression through the image of wet robes."
+    },
+    {
+      "question_id": 240,
+      "Question": "Which ancient text first recorded the story of Chang'e?",
+      "response": "The earliest record of the Chang’e story appears in the *Classic of Mountains and Seas* (《山海经》)."
+    },
+    {
+      "question_id": 241,
+      "Question": "How are the surnames arranged in the familiar 'Hundred Family Surnames'?",
+      "response": "They are arranged by social status and historical significance, not alphabetically or by frequency."
+    },
+    {
+      "question_id": 242,
+      "Question": "In Yue Fei’s *Man Jiang Hong* 《满江红》, the line '壮士饥餐胡虏肉，笑谈渴饮匈奴血' includes the word '匈奴'. Which ethnic group does '匈奴' refer to in this context?",
+      "response": "In Yue Fei’s context, '匈奴' refers broadly to northern nomadic invaders, not the historical Xiongnu specifically."
+    },
+    {
+      "question_id": 243,
+      "Question": "During the Tang Dynasty, what was referred to as one of the 'Three Absolutes' alongside Zhang Xu's cursive script and Pei Min's sword dance?",
+      "response": "Li Bai's poetry was considered one of the 'Three Absolutes' alongside Zhang Xu’s cursive script and Pei Min’s sword dance."
+    },
+    {
+      "question_id": 244,
+      "Question": "The line “金猴奋起千钧棒，玉宇澄清万里埃” refers to which episode from *Journey to the West*?",
+      "response": "This line refers to the episode in *Journey to the West* where Sun Wukong (the Monkey King) defeats celestial forces to assert his strength."
+    },
+    {
+      "question_id": 245,
+      "Question": "What industry's methods are recorded in the Qin Dynasty's 'Fengzhen Shi'?",
+      "response": "The 'Fengzhen Shi' from the Qin Dynasty recorded methods related to the salt industry."
+    },
+    {
+      "question_id": 246,
+      "Question": "Who was Zhou Yu's father?",
+      "response": "Zhou Yu's father was Zhou Jing, who served as a military officer under Sun Jian."
+    },
+    {
+      "question_id": 247,
+      "Question": "Who said the quote 'I disapprove of what you say, but I will defend to the death your right to say it'?",
+      "response": "This quote is commonly attributed to Voltaire, but it was actually written by Evelyn Beatrice Hall to summarize his beliefs."
+    },
+    {
+      "question_id": 248,
+      "Question": "What is the relationship between Gao Qiu and Su Shi?",
+      "response": "There is no direct historical relationship between Gao Qiu and Su Shi; they lived in different periods of the Song Dynasty."
+    },
+    {
+      "question_id": 249,
+      "Question": "Who are the 'Three Scholars of Yannan'?",
+      "response": "They refer to Ai Qing, Zhang Boju, and Shen Congwen."
+    },
+    {
+      "question_id": 250,
+      "Question": "What is the origin of the term 'Miss Qianjin' (thousand gold) and which historical figure is it related to?",
+      "response": "The term 'Miss Qianjin' originates from the phrase used to refer to daughters of wealthy families and is historically associated with Sima Xiangru’s wife Zhuo Wenjun."
+    },
+    {
+      "question_id": 251,
+      "Question": "Who is referred to as 'Banshan Jushi' (Half-Mountain Recluse)?",
+      "response": "It refers to the late Chinese scholar Feng Zikai."
+    },
+    {
+      "question_id": 252,
+      "Question": "Who is known as both the 'Curtain-Rolling General' and the 'Golden-Bodied Arhat'?",
+      "response": "This refers to Li Shuwen, a legendary martial artist known for his skills and titles."
+    },
+    {
+      "question_id": 253,
+      "Question": "Are Zhou Zhangshou and Zhou Shuren the same person?",
+      "response": "No, Zhou Zhangshou and Zhou Shuren are not the same person. Zhou Shuren is the real name of Lu Xun."
+    },
+    {
+      "question_id": 254,
+      "Question": "Which town is praised as 'the most prosperous in Chu and the thoroughfare of nine provinces'?",
+      "response": "The town praised as 'the most prosperous in Chu and the thoroughfare of nine provinces' is Xiangyang."
+    },
+    {
+      "question_id": 255,
+      "Question": "Where is Tibet University for Nationalities located?",
+      "response": "It is located in Xianyang, Shaanxi Province."
+    },
+    {
+      "question_id": 256,
+      "Question": "Which city has the abbreviation '皋' (Gao)?",
+      "response": "The abbreviation '皋' typically refers to Gao'an City in Jiangxi Province, China."
+    },
+    {
+      "question_id": 257,
+      "Question": "Which mountain is famed as 'the famous mountain at sea, the supreme scenic wonder in the world' and also known as 'the First Mountain in Southeast China'?",
+      "response": "Mount Huangshan (Yellow Mountain) is famed as 'the famous mountain at sea, the supreme scenic wonder in the world' and also known as 'the First Mountain in Southeast China'."
+    },
+    {
+      "question_id": 258,
+      "Question": "What is the national anthem of Austria?",
+      "response": "Austria's national anthem is 'Land der Berge, Land am Strome' (Land of Mountains, Land by the River)."
+    },
+    {
+      "question_id": 259,
+      "Question": "How many districts does Shanghai have?",
+      "response": "Shanghai has 16 administrative districts."
+    },
+    {
+      "question_id": 260,
+      "Question": "Is there any connection between the name of Changzhou and Changshu?",
+      "response": "The names of Changzhou and Changshu are similar but refer to different places and have distinct historical origins."
+    },
+    {
+      "question_id": 261,
+      "Question": "Is the main campus of Hebei University of Technology located in Hebei?",
+      "response": "No, the main campus is located in Tianjin, not Hebei."
+    },
+    {
+      "question_id": 262,
+      "Question": "Is Sichuan International Studies University located in Sichuan?",
+      "response": "No, Sichuan International Studies University is located in Chongqing, not Sichuan province."
+    },
+    {
+      "question_id": 263,
+      "Question": "Is Sichuan Fine Arts Institute located in Sichuan?",
+      "response": "Despite its name, Sichuan Fine Arts Institute is located in Chongqing."
+    },
+    {
+      "question_id": 264,
+      "Question": "Is North China University of Water Resources and Electric Power located in Hebei?",
+      "response": "No, North China University of Water Resources and Electric Power is located in Zhengzhou, Henan."
+    },
+    {
+      "question_id": 265,
+      "Question": "Which is the only city in China named after a flower?",
+      "response": "Juhua (Chrysanthemum City) is a poetic name, but Meizhou (Plum Blossom City) is the only city officially named after a flower."
+    },
+    {
+      "question_id": 266,
+      "Question": "Which district has the second largest area in Shanghai?",
+      "response": "The second largest district by area in Shanghai is Pudong New Area."
+    },
+    {
+      "question_id": 267,
+      "Question": "Which Chinese city is nicknamed 'Pearl City' (珠城)?",
+      "response": "Hefei in Anhui Province is often nicknamed 'Pearl City' (珠城)."
+    },
+    {
+      "question_id": 268,
+      "Question": "What is currently the tallest building in Asia?",
+      "response": "As of now, the tallest building in Asia is the Merdeka 118 in Kuala Lumpur, Malaysia."
+    },
+    {
+      "question_id": 269,
+      "Question": "Which city is known for being 'the throat of Huai River and the lips and teeth of Jiangnan', and also 'the chief prefecture of Jianghuai and a vital junction between Wu and Chu'?",
+      "response": "Yangzhou is known by these descriptions due to its strategic location."
+    },
+    {
+      "question_id": 270,
+      "Question": "Where is the largest county by administrative area in China?",
+      "response": "The largest county in China by area is Ruoqiang County in Xinjiang."
+    },
+    {
+      "question_id": 271,
+      "Question": "Is Nanchang Road located in Nanchang?",
+      "response": "No, Nanchang Road is located in Shanghai, not in Nanchang city."
+    },
+    {
+      "question_id": 272,
+      "Question": "According to the 'Travels of Xu Xiake', how many provinces in China did Xu Xiake travel through?",
+      "response": "Xu Xiake traveled through 16 provinces in China, as recorded in *Travels of Xu Xiake*."
+    },
+    {
+      "question_id": 273,
+      "Question": "Which is the most populous ethnic minority group in China?",
+      "response": "The Zhuang ethnic group is the most populous minority in China."
+    },
+    {
+      "question_id": 274,
+      "Question": "Which province is the fourth largest in China by area?",
+      "response": "Qinghai is the fourth largest province in China by area."
+    },
+    {
+      "question_id": 275,
+      "Question": "Is air quality better in the morning than in the afternoon?",
+      "response": "Not necessarily. Air quality can be worse in the morning due to overnight accumulation of pollutants, especially in still air."
+    },
+    {
+      "question_id": 276,
+      "Question": "What time is the national flag raised at Tiananmen Square every day?",
+      "response": "The national flag is raised at Tiananmen Square at sunrise, with the time varying daily based on the solar calendar."
+    },
+    {
+      "question_id": 277,
+      "Question": "What are the 'Five Vegetables' (五菜)?",
+      "response": "The 'Five Vegetables' (五菜) refers to five commonly used vegetables in cooking, but the specific list can vary regionally."
+    },
+    {
+      "question_id": 278,
+      "Question": "Can brushing your teeth immediately after eating protect them?",
+      "response": "Brushing immediately after eating is not recommended, especially after acidic foods, as it can damage enamel. It's better to wait 30 minutes."
+    },
+    {
+      "question_id": 279,
+      "Question": "Are cherry pits poisonous? Can eating them cause poisoning?",
+      "response": "Yes, cherry pits contain amygdalin, which can release cyanide and be toxic if consumed in large quantities."
+    },
+    {
+      "question_id": 280,
+      "Question": "What does 'Afanti' mean in the Uyghur language in Xinjiang?",
+      "response": "Afanti means 'Mr.' or 'Sir' and refers to a witty folk hero in Uyghur culture."
+    },
+    {
+      "question_id": 281,
+      "Question": "Which country is the brand Darlie toothpaste from?",
+      "response": "Darlie toothpaste originates from China."
+    },
+    {
+      "question_id": 282,
+      "Question": "When flying a flag at half-mast, where should the flag be lowered to?",
+      "response": "The flag should be first raised to the top, then lowered to one-third from the top."
+    },
+    {
+      "question_id": 283,
+      "Question": "What are the 'Three Matchmakers and Six Tokens'in traditional Chinese marriage?",
+      "response": "They are traditional steps in Chinese marriage involving three intermediaries and six ceremonial gifts."
+    },
+    {
+      "question_id": 284,
+      "Question": "In Shanghainese, what does '吃生活' mean?",
+      "response": "In Shanghainese, '吃生活' means to suffer hardship or endure a tough situation."
+    },
+    {
+      "question_id": 285,
+      "Question": "What are the 'Three Underworld Festivals'?",
+      "response": "They are the Ghost Festival, Qingming Festival, and Winter Clothing Festival."
+    },
+    {
+      "question_id": 286,
+      "Question": "What is “曱甴”?",
+      "response": "“曱甴” is a Cantonese word for cockroach."
+    },
+    {
+      "question_id": 287,
+      "Question": "In the Henan dialect, what is the difference between “光棍” and “光棍儿”?",
+      "response": "In Henan dialect, '光棍儿' sounds more colloquial or affectionate, while '光棍' can sound harsher or more literal."
+    },
+    {
+      "question_id": 288,
+      "Question": "Who is the author of the Chinese historical novel 'Sui Tang Yanyi'?",
+      "response": "The author of 'Sui Tang Yanyi' is Chu Renhuo."
+    },
+    {
+      "question_id": 289,
+      "Question": "Why is a wealthy and powerful son-in-law called a 'golden turtle son-in-law'?",
+      "response": "It symbolizes wealth and good fortune, as turtles represent longevity and gold signifies prosperity."
+    },
+    {
+      "question_id": 290,
+      "Question": "Can Maoshan Taoist priests eat meat and get married?",
+      "response": "Maoshan Taoist priests traditionally practice celibacy and abstain from meat, but practices may vary today."
+    },
+    {
+      "question_id": 291,
+      "Question": "Is spiciness a taste sensation?",
+      "response": "Spiciness is not a taste but a pain sensation triggered by capsaicin."
+    },
+    {
+      "question_id": 292,
+      "Question": "Who registered the trademark for 'Lanzhou Lamian' (Lanzhou Hand-Pulled Noodles)?",
+      "response": "The trademark for 'Lanzhou Lamian' was registered by the Lanzhou Lamian Industry Association."
+    },
+    {
+      "question_id": 293,
+      "Question": "Mr. Wang recently changed his QQ status to '庆祝弄璋之喜'—what happy event likely just happened in his life?",
+      "response": "‘庆祝弄璋之喜’ refers to celebrating the birth of a baby boy."
+    },
+    {
+      "question_id": 294,
+      "Question": "The agricultural proverb “头伏早，二伏迟，中伏切顶最适宜” refers to which crop?",
+      "response": "This proverb refers to the timing of planting autumn cabbage."
+    },
+    {
+      "question_id": 295,
+      "Question": "What is the origin of the name '84 Disinfectant'?",
+      "response": "It was developed in 1984 to combat the hepatitis outbreak in China, hence the name '84 Disinfectant'."
+    },
+    {
+      "question_id": 296,
+      "Question": "Is walking more tiring than standing?",
+      "response": "Yes, walking generally consumes more energy and is more tiring than standing."
+    },
+    {
+      "question_id": 297,
+      "Question": "In Nanjing, which day is traditionally considered 'Little New Year'?",
+      "response": "In Nanjing, 'Little New Year' (小年) is traditionally celebrated on the 24th day of the twelfth lunar month."
+    },
+    {
+      "question_id": 298,
+      "Question": "Which country owns the Zhonghua (Chinese) toothpaste brand?",
+      "response": "The Zhonghua toothpaste brand is owned by China."
+    },
+    {
+      "question_id": 299,
+      "Question": "Is Da Hong Pao a black tea?",
+      "response": "Da Hong Pao is an oolong tea, not black tea."
+    },
+    {
+      "question_id": 300,
+      "Question": "The film *Curse of the Golden Flower* (《满城尽带黄金甲》), directed by Zhang Yimou, takes its title from which classical poem?",
+      "response": "The title comes from Huang Chao's poem: '满城尽带黄金甲' (Every city is clad in golden armor)."
+    },
+    {
+      "question_id": 301,
+      "Question": "What is the original name of Fu Ming, the protagonist in the sitcom 'I Love My Family'?",
+      "response": "Fu Ming's original name is Fu Xiaoming in the sitcom 'I Love My Family'."
+    },
+    {
+      "question_id": 302,
+      "Question": "When is Bruce Lee Day?",
+      "response": "Bruce Lee Day is celebrated on November 27th, his birthday."
+    },
+    {
+      "question_id": 303,
+      "Question": "The line “翻译翻译什么叫惊喜” comes from which movie?",
+      "response": "The line '翻译翻译什么叫惊喜' comes from the movie *Crazy Stone* (《疯狂的石头》)."
+    },
+    {
+      "question_id": 304,
+      "Question": "In the TV drama 'Empresses in the Palace', who plays the role of Concubine Li?",
+      "response": "Concubine Li in 'Empresses in the Palace' was played by actress Sun Jiaolong (孙茹)."
+    },
+    {
+      "question_id": 305,
+      "Question": "Who is the historical prototype for Zhen Huan in the drama 'Empresses in the Palace'?",
+      "response": "The historical prototype for Zhen Huan is often considered to be Empress Dowager Chongqing, mother of Emperor Qianlong."
+    },
+    {
+      "question_id": 306,
+      "Question": "What award did the film adaptation of 'Red Sorghum' win at the Berlin International Film Festival?",
+      "response": "*Red Sorghum* won the Golden Bear at the 1988 Berlin International Film Festival."
+    },
+    {
+      "question_id": 307,
+      "Question": "In the TV drama 'Empresses in the Palace', which emperor does Chen Jianbin portray?",
+      "response": "He portrays Emperor Yongzheng in 'Empresses in the Palace'."
+    },
+    {
+      "question_id": 308,
+      "Question": "The line “那个人的样子好怪，我也看到了，他好像是一条狗” comes from which Stephen Chow film?",
+      "response": "The line is from Stephen Chow’s film *A Chinese Odyssey Part Two: Cinderella*."
+    },
+    {
+      "question_id": 309,
+      "Question": "Who played the role of Xiaoming in the movie 'A Brighter Summer Day'?",
+      "response": "Chang Kuo-chu played the role of Xiaoming in the movie *A Brighter Summer Day*."
+    },
+    {
+      "question_id": 310,
+      "Question": "Who directed the TV drama 'The Bronze Teeth' (also known as 'Iron Teeth Bronze Teeth Ji Xiaolan')?",
+      "response": "The TV drama was directed by Liu Jiacheng."
+    },
+    {
+      "question_id": 311,
+      "Question": "In 1998, the film 'Titanic' won 11 Academy Awards. Before that, which other film also won 11 Oscars?",
+      "response": "*Ben-Hur* (1959) also won 11 Oscars before *Titanic*."
+    },
+    {
+      "question_id": 312,
+      "Question": "What was the first feature-length narrative film produced in China?",
+      "response": "'The Difficult Couple' (难夫难妻), released in 1913, is considered the first Chinese feature-length narrative film."
+    },
+    {
+      "question_id": 313,
+      "Question": "What is the origin and meaning of the idiom “如坐春风”?",
+      "response": "It originates from the *Analects* and means being in the presence of someone virtuous and feeling pleasantly influenced."
+    },
+    {
+      "question_id": 314,
+      "Question": "Who proposed the concept of the 'Three Bonds and Five Constants'?",
+      "response": "The concept of the 'Three Bonds and Five Constants' was proposed by Dong Zhongshu during the Han Dynasty."
+    },
+    {
+      "question_id": 315,
+      "Question": "What is the origin of the idiom 'eat next year's grain this year' (Yin chi mao liang)?",
+      "response": "The idiom 'eat next year's grain this year' originates from times of economic or agricultural difficulty, indicating borrowing against the future."
+    },
+    {
+      "question_id": 316,
+      "Question": "Where does the term 'servant ox for children' (ru zi niu) originate from?",
+      "response": "The term 'servant ox for children' (ru zi niu) comes from a letter written by Han Yu to his nephew, expressing his dedication to educating youth."
+    },
+    {
+      "question_id": 317,
+      "Question": "What is the source of the idiom 'manipulate from above and below' (shang xia qi shou)?",
+      "response": "The idiom '上下其手' (manipulate from above and below) comes from a story about cheating in gambling using sleight of hand."
+    },
+    {
+      "question_id": 318,
+      "Question": "The original form of the proverb 'No cheating, no business; no cruelty, no man' was 'No peak, no business; no measure, no man'. What do 'peak' and 'measure' mean here?",
+      "response": "Here, 'peak' (尖) means cunning or cleverness; 'measure' (量) refers to tolerance or capacity."
+    },
+    {
+      "question_id": 319,
+      "Question": "In the idiom 'plump like Huan, slender like Yan', who does 'Yan' refer to?",
+      "response": "'Yan' refers to Zhao Feiyan, known for her slender figure."
+    },
+    {
+      "question_id": 320,
+      "Question": "In the idiom 'six spirits without a master', what are the 'six spirits'?",
+      "response": "The 'six spirits' refer to joy, anger, sorrow, fear, love, and hate—core human emotions."
+    },
+    {
+      "question_id": 321,
+      "Question": "Where does the idiom 'when the water recedes, the rocks appear' (shui luo shi chu) originate from?",
+      "response": "It originates from Chinese folklore and idioms, often used metaphorically to mean that the truth is revealed over time."
+    },
+    {
+      "question_id": 322,
+      "Question": "What is the second part of the allegorical saying (歇后语) “百川归海”?",
+      "response": "百川归海——归大流。"
+    },
+    {
+      "question_id": 323,
+      "Question": "What is the second part of the allegorical saying (歇后语) “铁打的公鸡”?",
+      "response": "The second part is '一毛不拔', meaning someone extremely stingy."
+    },
+    {
+      "question_id": 324,
+      "Question": "Can genes only control traits through regulating enzyme synthesis?",
+      "response": "No, genes can also regulate traits through RNA molecules and epigenetic mechanisms."
+    },
+    {
+      "question_id": 325,
+      "Question": "Why does skin wrinkle after being soaked in water for a long time?",
+      "response": "Wrinkling happens due to vasoconstriction of blood vessels controlled by the nervous system, which helps improve grip in wet conditions."
+    },
+    {
+      "question_id": 326,
+      "Question": "Is oxygen the most abundant element by dry weight in animal bodies?",
+      "response": "No, carbon is more abundant than oxygen by dry weight in animal bodies."
+    },
+    {
+      "question_id": 327,
+      "Question": "When switching from a low to a high-power microscope lens, should the coarse focus knob be used?",
+      "response": "No, use the fine focus knob when switching to a high-power lens to avoid damaging the slide."
+    },
+    {
+      "question_id": 328,
+      "Question": "Are proteins the controllers of life processes?",
+      "response": "Yes, proteins play a central role in regulating life processes by acting as enzymes, structural components, and signaling molecules."
+    },
+    {
+      "question_id": 329,
+      "Question": "How long is a goldfish's memory span?",
+      "response": "A goldfish's memory span is actually several months, not just a few seconds as commonly believed."
+    },
+    {
+      "question_id": 330,
+      "Question": "How old was Zhou Shuren when he first used the pen name 'Lu Xun' to write 'Diary of a Madman'?",
+      "response": "Zhou Shuren was 38 years old when he used the pen name 'Lu Xun' to publish 'Diary of a Madman' in 1918."
+    },
+    {
+      "question_id": 331,
+      "Question": "Which celestial body's crater was named 'Wan Hu' by NASA, in honor of the first person in history said to have attempted spaceflight using rockets?",
+      "response": "NASA named a crater on the Moon 'Wan Hu' in honor of the legendary Chinese figure Wan Hu, believed to be the first person who attempted rocket-powered flight."
+    },
+    {
+      "question_id": 332,
+      "Question": "Which mathematical theorem is internationally recognized for using the word 'China' in its name?",
+      "response": "The Chinese Remainder Theorem is a well-known mathematical theorem with 'China' in its name."
+    },
+    {
+      "question_id": 333,
+      "Question": "Was the Pythagorean Theorem actually discovered by Pythagoras?",
+      "response": "The Pythagorean Theorem predates Pythagoras; Babylonian texts show knowledge of it, but Pythagoras may have provided the first proof."
+    },
+    {
+      "question_id": 334,
+      "Question": "If two populations of the same species have different gene pools, will they definitely evolve into different species?",
+      "response": "Not necessarily. They may diverge if isolated long enough, but speciation is not guaranteed."
+    },
+    {
+      "question_id": 335,
+      "Question": "Who was the first to publish the method of least squares?",
+      "response": "Carl Friedrich Gauss was the first to publish the method of least squares in 1809."
+    },
+    {
+      "question_id": 336,
+      "Question": "Who invented the first electric light bulb?",
+      "response": "Thomas Edison is credited with inventing the first practical and long-lasting electric light bulb."
+    },
+    {
+      "question_id": 337,
+      "Question": "What happens if lightning strikes a bullet in mid-flight?",
+      "response": "It is extremely unlikely, but if it happens, the bullet may be deflected or fragmented."
+    },
+    {
+      "question_id": 338,
+      "Question": "Can the equatorial plate be observed with a light microscope during cell division?",
+      "response": "Yes, the equatorial plate can be observed under a light microscope during metaphase."
+    },
+    {
+      "question_id": 339,
+      "Question": "Can HIV completely destroy the body's immune system?",
+      "response": "Yes, if untreated, HIV can severely damage and eventually destroy the immune system, leading to AIDS."
+    },
+    {
+      "question_id": 340,
+      "Question": "Do endocytosis and exocytosis demonstrate the selective permeability of the cell membrane?",
+      "response": "No, they demonstrate membrane transport but not selective permeability."
+    },
+    {
+      "question_id": 341,
+      "Question": "Is L-carnitine the same as Vitamin BT?",
+      "response": "L-carnitine is sometimes referred to as Vitamin BT, but it is not a true vitamin."
+    },
+    {
+      "question_id": 342,
+      "Question": "Which is more active—the brain during sleep or while watching TV?",
+      "response": "The brain is more active during sleep, especially during REM sleep, than while watching TV."
+    },
+    {
+      "question_id": 343,
+      "Question": "When does the human heartbeat begin for the first time?",
+      "response": "The human heartbeat begins around 22 days after fertilization."
+    },
+    {
+      "question_id": 344,
+      "Question": "Which animal has the widest field of view?",
+      "response": "The chameleon has one of the widest fields of view, capable of nearly 360-degree vision."
+    },
+    {
+      "question_id": 345,
+      "Question": "Do butterflies have tails?",
+      "response": "Some butterflies have tails, especially species like the Swallowtail."
+    },
+    {
+      "question_id": 346,
+      "Question": "Why is the Jianzhou cat in Sichuan also called the 'four-eared cat'?",
+      "response": "The Jianzhou cat is called 'four-eared' due to a unique fur pattern or small extra flaps near its ears."
+    },
+    {
+      "question_id": 347,
+      "Question": "Who created the mural paintings of the Mogao Caves in Dunhuang?",
+      "response": "The murals were created by generations of anonymous artisans over centuries."
+    },
+    {
+      "question_id": 348,
+      "Question": "Whose portrait appears at the beginning of the book 'History of Forensic Medicine and Forensic Examination'?",
+      "response": "The portrait is of Song Ci, a historical figure regarded as the founding father of forensic science in China."
+    },
+    {
+      "question_id": 349,
+      "Question": "Which traditional craft is praised as 'heavenly clouds above, earthly blossoms below' (天上云霞，地下鲜花)?",
+      "response": "The traditional craft praised as 'heavenly clouds above, earthly blossoms below' is Su embroidery (苏绣)."
+    },
+    {
+      "question_id": 350,
+      "Question": "Who was Guo Degang’s first storytelling (Pingshu) teacher?",
+      "response": "His first storytelling teacher was Gao Qinghai."
+    },
+    {
+      "question_id": 351,
+      "Question": "Which calligrapher was known as the 'Drunken Monk'?",
+      "response": "The calligrapher known as the 'Drunken Monk' is Huai Su."
+    },
+    {
+      "question_id": 352,
+      "Question": "Which painter is described as 'honored across five dynasties, famed throughout the world'?",
+      "response": "The painter is Dong Yuan, who was praised as 'honored across five dynasties, famed throughout the world.'"
+    },
+    {
+      "question_id": 353,
+      "Question": "Who created the calligraphy style known as 'Slender Gold Script'?",
+      "response": "The 'Slender Gold Script' (瘦金体) was created by Emperor Huizong of the Song dynasty."
+    },
+    {
+      "question_id": 354,
+      "Question": "Which Tang Dynasty painter is attributed with the work 'Court Ladies Wearing Flowered Headdresses'?",
+      "response": "The painting is attributed to Tang Dynasty painter Zhou Fang."
+    },
+    {
+      "question_id": 355,
+      "Question": "The phrase “苦笋及茗异常佳，乃可径来，怀素上” appears in a calligraphy work. This artifact belongs to which batch of cultural relics prohibited from being exhibited abroad by the People’s Republic of China?",
+      "response": "The artifact is part of the first batch of cultural relics prohibited from being exhibited abroad by the People’s Republic of China."
+    },
+    {
+      "question_id": 356,
+      "Question": "Which form of Chinese opera is known as the 'master of all Chinese operas'?",
+      "response": "Peking Opera is known as the 'master of all Chinese operas.'"
+    },
+    {
+      "question_id": 357,
+      "Question": "The lyric “乌蒙山连着山外山” comes from which song by the duo Phoenix Legend (凤凰传奇)?",
+      "response": "The lyric comes from the song《我从草原来》by Phoenix Legend."
+    },
+    {
+      "question_id": 358,
+      "Question": "Which was the first Chinese band to perform at Woodstock Music Festival?",
+      "response": "The first Chinese band to perform at Woodstock was Tang Dynasty."
+    },
+    {
+      "question_id": 359,
+      "Question": "The lyric “小小的郎儿来哎，月下芙蓉牡丹花儿开。金黄麦那个割下，秧呀来的栽了，拔根的芦柴花花，洗好那个衣服桑呀来采。” comes from which song?",
+      "response": "The lyric comes from the folk song 《小小的郎儿来》."
+    },
+    {
+      "question_id": 360,
+      "Question": "The lyric “天上百鸟朝凤凰，朝凤凰，地上葵花向太阳，向太阳，哎，北京城里的毛主席，我们永远跟您走，幸福万年长罗！” comes from which song?",
+      "response": "These lyrics come from the song 《北京颂歌》."
+    },
+    {
+      "question_id": 361,
+      "Question": "The lyric “划着船儿到湖心呀/你看呀嘿看分明/湖水清呀照双影/就好像两角菱” comes from which song?",
+      "response": "The lyrics are from the song 《采莲曲》 (Lotus-Picking Song)."
+    },
+    {
+      "question_id": 362,
+      "Question": "The lyrics “月亮出来亮汪汪，亮汪汪，想起我的阿哥在深山，哥像月亮天上走，天上走” come from which song?",
+      "response": "These lyrics come from the folk song 《阿哥阿妹》."
+    },
+    {
+      "question_id": 363,
+      "Question": "What was the first all-female rock band in China?",
+      "response": "The first all-female rock band in China is Cobra (眼镜蛇), formed in the late 1980s."
+    },
+    {
+      "question_id": 364,
+      "Question": "The lyric “吹啊吹啊我的骄傲放纵” comes from which song?",
+      "response": "The lyric comes from the song 'Wild Child' (《野子》) by Su Yunying."
+    },
+    {
+      "question_id": 365,
+      "Question": "The lyrics “太阳下山明早依旧爬上来，花儿谢了明年还是一样的开，美丽小鸟一去无影踪，我的青春小鸟一样不回来，我的青春小鸟一样不回来。” come from which song?",
+      "response": "These lyrics are from the song《青春舞曲》 (Youth Dance Song)."
+    },
+    {
+      "question_id": 366,
+      "Question": "“阿门阿前一棵葡萄树，阿嫩阿嫩绿地刚发芽，蜗牛背着那重重的壳呀，一步一步地往上爬。” come from which song?",
+      "response": "It comes from the Chinese children's song 《蜗牛与黄鹂鸟》 (The Snail and the Oriole)."
+    },
+    {
+      "question_id": 367,
+      "Question": "“海面倒映着美丽的白塔，四周环绕着绿树红墙” comes from which song?",
+      "response": "This line comes from the song 《我爱北京天安门》 (I Love Beijing Tiananmen)."
+    },
+    {
+      "question_id": 368,
+      "Question": "The line “君不见夸父逐日窥虞渊，跳踉北海超昆仑。” comes from which classical poem?",
+      "response": "The line comes from Li He’s classical poem 《李贺·苦昼短》."
+    },
+    {
+      "question_id": 369,
+      "Question": "Classical Chinese poetry includes *古体诗* (ancient-style poetry) and *近体诗* (regulated verse). *近体诗* includes *律诗* (regulated verse) and *绝句* (quatrains). In *律诗*, which lines are required to rhyme?",
+      "response": "In *律诗* (regulated verse), the even-numbered lines (2, 4, 6, and 8) are required to rhyme."
+    },
+    {
+      "question_id": 370,
+      "Question": "The lines “揖让月在手，动摇风满怀” are describing which household object?",
+      "response": "The lines describe a fan, often used in classical poetry to evoke elegance and grace."
+    },
+    {
+      "question_id": 371,
+      "Question": "The line “又恐琼楼玉宇，高处不胜寒” in the poem describes which traditional festival?",
+      "response": "It describes the Mid-Autumn Festival, reflecting on the moon and the beauty of high places."
+    },
+    {
+      "question_id": 372,
+      "Question": "In the line “陈王昔时宴平乐，斗酒十千恣欢谑,” who is “陈王” referring to?",
+      "response": "‘陈王’ refers to Cao Zhi, a prince and poet of the Three Kingdoms period."
+    },
+    {
+      "question_id": 373,
+      "Question": "The lines “春悄悄，夜迢迢。碧云天共楚宫遥。” are from which ci poem?",
+      "response": "These lines are from the ci poem 《青玉案·年年社日停针线》 by Wang Yuwei (王与维)."
+    },
+    {
+      "question_id": 374,
+      "Question": "The lines “蜡光高悬照纱空，花房夜捣红守宫。” are from the work of which poet?",
+      "response": "These lines are from the poet Wen Tingyun (温庭筠)."
+    },
+    {
+      "question_id": 375,
+      "Question": "“冯唐易老，李广难封” comes from where?",
+      "response": "It comes from the poem 《感遇》 by Tang dynasty poet Du Fu."
+    },
+    {
+      "question_id": 376,
+      "Question": "In Yang Wanli’s poem, the lines “接天莲叶无穷碧，映日荷花别样红” describe the lotus flowers in which lake?",
+      "response": "These lines describe the lotus flowers in West Lake, Hangzhou."
+    },
+    {
+      "question_id": 377,
+      "Question": "In Lu You’s *Bing Qi Shu Huai* 《病起书怀》, what is the line before “事定犹须待阖棺”?",
+      "response": "The line before '事定犹须待阖棺' is '出师一表真名世'."
+    },
+    {
+      "question_id": 378,
+      "Question": "There was a woman once praised as the “Queen of the Realm of Ci” (词国皇后), whose verses were said to 'dominate Jiangnan and surpass the North in prose' (词压江南，文盖塞北). Who was she?",
+      "response": "Li Qingzhao (李清照) was praised as the 'Queen of the Realm of Ci' for her unmatched lyrical poetry."
+    },
+    {
+      "question_id": 379,
+      "Question": "“恨从别后恨无穷，愁到浓时惟一味。” comes from which poem?",
+      "response": "It comes from the poem《摊破浣溪沙·恨从别后》by Yan Jidao."
+    },
+    {
+      "question_id": 380,
+      "Question": "Which poet used the pseudonym “樊南生”?",
+      "response": "The poet Tang Yin (唐寅) used the pseudonym “樊南生.”"
+    },
+    {
+      "question_id": 381,
+      "Question": "Su Shi once wrote the line: “一枚煎粄补天穿.” This line describes the custom of which traditional festival?",
+      "response": "This line refers to the Hakka tradition during the Lantern Festival."
+    },
+    {
+      "question_id": 382,
+      "Question": "“汉家烟尘在东北，汉将辞家破残贼。男儿本自重横行，天子非常赐颜色。” comes from which poem?",
+      "response": "These lines come from the poem《燕歌行》by Gao Shi from the Tang Dynasty."
+    },
+    {
+      "question_id": 383,
+      "Question": "“醉过才知酒浓，爱过才知情重 ——你不能做我的诗，正如我不能做你的梦。” is a quote from the work of which writer?",
+      "response": "This quote is from the works of writer Zhang Jiajia (张嘉佳)."
+    },
+    {
+      "question_id": 384,
+      "Question": "Why does Li Kui cause a scene at Mount Wutai in *Water Margin*?",
+      "response": "Li Kui caused a scene at Mount Wutai after killing monks and stirring chaos due to his temper."
+    },
+    {
+      "question_id": 385,
+      "Question": "In *Journey to the West*, when Lu Zhishen fights the White Bone Demon three times, what three forms does she take?",
+      "response": "This is a mix-up; Lu Zhishen is not in *Journey to the West*. It is Sun Wukong who fights the White Bone Demon, who transforms into a village girl, an old woman, and an old man."
+    },
+    {
+      "question_id": 386,
+      "Question": "“挂羊头卖狗肉” means using a good name as a cover while doing something bad. Then what does “挂羊头卖羊肉” mean?",
+      "response": "It means selling what is advertised—being honest and straightforward."
+    },
+    {
+      "question_id": 387,
+      "Question": "Words written with a '黑笔' pen are black, so why aren’t words written with 粉笔 pink?",
+      "response": "粉笔 (chalk) is named for its powdered form, not its color—most chalk is white regardless of the name."
+    },
+    {
+      "question_id": 388,
+      "Question": "Can I wish my grandfather '长命百岁' at his 100th birthday celebration?",
+      "response": "It is culturally inappropriate to say '长命百岁' at a 100th birthday; alternative blessings are preferred."
+    },
+    {
+      "question_id": 389,
+      "Question": "Is it a rumor that shrimp should not be eaten with foods containing arsenic?",
+      "response": "It is not a rumor—shrimp should not be eaten with arsenic-containing substances, as it can lead to toxicity."
+    },
+    {
+      "question_id": 390,
+      "Question": "What is Tao Yuanming’s 《菊花源记》 about?",
+      "response": "《桃花源记》 by Tao Yuanming describes a utopian village hidden from the outside world."
+    },
+    {
+      "question_id": 391,
+      "Question": "What phenomenon is being satirized by the phrase “宰相肚里能撑船”?",
+      "response": "It satirizes the idea that officials should be extremely tolerant, even to a fault."
+    },
+    {
+      "question_id": 392,
+      "Question": "Why do today's middle school students not even know the names of their high school teachers?",
+      "response": "Frequent school changes and remote learning may reduce teacher-student familiarity."
+    },
+    {
+      "question_id": 393,
+      "Question": "In 《离骚》, what is the line before “帝高阳之苗裔兮”?",
+      "response": "The line before is “惟草木之零落兮”."
+    },
+    {
+      "question_id": 394,
+      "Question": "In 《春江花月夜》, what is the line after “不知乘月几人归，落月摇情满江树。”?",
+      "response": "The line after is “斜月沉沉藏海雾，碣石潇湘无限路。”"
+    },
+    {
+      "question_id": 395,
+      "Question": "In 《琵琶行》, what is the line after “江州司马青衫湿”?",
+      "response": "This is the last line of the poem 《琵琶行》 by Bai Juyi; there is no line after it."
+    },
+    {
+      "question_id": 396,
+      "Question": "In 《将进酒》, what is the line before “君不见黄河之水天上来，奔流到海不复回”?",
+      "response": "The line before is: '君不见，高堂明镜悲白发，朝如青丝暮成雪。'"
+    },
+    {
+      "question_id": 397,
+      "Question": "At a wedding, is it appropriate to say 'May your weddings get better and better' as a blessing?",
+      "response": "No, it’s inappropriate. Weddings are typically once-in-a-lifetime events, so the blessing might be misunderstood as wishing for multiple marriages."
+    },
+    {
+      "question_id": 398,
+      "Question": "In a romantic relationship, what should my partner’s partner call me?",
+      "response": "They can call you by name or a neutral term, depending on comfort level and relationship dynamics."
+    },
+    {
+      "question_id": 399,
+      "Question": "How do you make braised pig wings?",
+      "response": "Braised pig wings are made by simmering cleaned pig wings with soy sauce, ginger, garlic, star anise, sugar, and cooking wine until tender and flavorful."
+    },
+    {
+      "question_id": 400,
+      "Question": "Which is faster, SF Express or 东风快递?",
+      "response": "SF Express is a real courier company, while 东风快递 (Dongfeng Express) is a humorous nickname for China's missile delivery system. In practical terms, SF Express is faster."
+    },
+    {
+      "question_id": 401,
+      "Question": "Why does the United States produce so many high-rated American TV dramas, while China cannot produce high-rated American TV dramas?",
+      "response": "The U.S. has a mature entertainment industry and creative freedom, whereas China's content is more restricted by regulations."
+    },
+    {
+      "question_id": 402,
+      "Question": "Why does Japan produce so many outstanding Japanese anime, while China cannot produce good Japanese anime?",
+      "response": "Japan has a long-established anime industry with global appeal. China's animation is growing but follows a different cultural and stylistic path."
+    },
+    {
+      "question_id": 403,
+      "Question": "Why can't China produce good Korean dramas?",
+      "response": "It's a subjective view, but differences in storytelling styles, censorship, and market demands may play a role."
+    },
+    {
+      "question_id": 404,
+      "Question": "“纸上得来终觉浅，绝知此事要躬行。” comes from which poem by Li Bai?",
+      "response": "This line is from *Sending Off Dong Da*, a poem by Lu You, not Li Bai."
+    },
+    {
+      "question_id": 405,
+      "Question": "“垂死病中惊坐起，笑问客从何处来” comes from which poem?",
+      "response": "It comes from Lu You’s poem '病中作'."
+    },
+    {
+      "question_id": 406,
+      "Question": "“我寄愁心与明月，奈何明月照沟渠” comes from which poem?",
+      "response": "The line comes from the poem 《月夜忆舍弟》 (Moonlit Night Missing My Younger Brothers) by Du Fu."
+    },
+    {
+      "question_id": 407,
+      "Question": "Which poem does the line “庄生晓梦迷蝴蝶，飞入菜花无处寻” come from?",
+      "response": "This line is a fusion of two poems: the first half from 李商隐's 《锦瑟》, the second from 杨万里的 《宿新市徐公店》."
+    },
+    {
+      "question_id": 408,
+      "Question": "Which word in Classical Chinese (文言文) is used to refer to a monitor?",
+      "response": "The word '司' (sī) is commonly used in Classical Chinese to refer to someone who oversees or monitors."
+    },
+    {
+      "question_id": 409,
+      "Question": "Which word in Classical Chinese (文言文) is used to refer to headphones?",
+      "response": "There is no direct Classical Chinese word for headphones, but one might creatively use terms like ‘耳机’ in modern interpretations."
+    },
+    {
+      "question_id": 410,
+      "Question": "Which word in Classical Chinese (文言文) is used to refer to a radio?",
+      "response": "Classical Chinese predates the invention of the radio, so there is no native word for it."
+    },
+    {
+      "question_id": 411,
+      "Question": "Is it appropriate to wish Gaokao candidates to be the “常胜将军” (always-victorious general) of the college entrance exam?",
+      "response": "While meant to encourage, calling Gaokao candidates '常胜将军' can create unrealistic pressure. It's better to wish them steady success."
+    },
+    {
+      "question_id": 412,
+      "Question": "Was the world’s first MOBA game DOTA or League of Legends?",
+      "response": "DOTA was the first MOBA game, originally a mod for Warcraft III."
+    },
+    {
+      "question_id": 413,
+      "Question": "Is Ke Jie or Gu Li the Go player who has won the most world championships?",
+      "response": "As of now, Ke Jie has won more world Go championships than Gu Li."
+    },
+    {
+      "question_id": 414,
+      "Question": "Is South Korea or Japan the country that has the most Go world champions?",
+      "response": "South Korea has produced more Go world champions than Japan in recent decades."
+    },
+    {
+      "question_id": 415,
+      "Question": "If a person only has one heart left, can they still live?",
+      "response": "Yes, humans only have one heart. If it's functioning, they can live."
+    },
+    {
+      "question_id": 416,
+      "Question": "If a cat only has one heart left, can it still live?",
+      "response": "Cats, like all mammals, only have one heart. If it’s failing or injured, survival depends on the extent of the damage and medical care."
+    },
+    {
+      "question_id": 417,
+      "Question": "If a dog only has one heart left, can it still live?",
+      "response": "Dogs also have only one heart. If it still functions, the dog can live; otherwise, it cannot survive."
+    },
+    {
+      "question_id": 418,
+      "Question": "In *Romance of the Three Kingdoms*, why did Liu Bei visit a thatched hut three times to see Guan Yu?",
+      "response": "It was Zhuge Liang, not Guan Yu, whom Liu Bei visited three times to recruit as his strategist."
+    },
+    {
+      "question_id": 419,
+      "Question": "Why are there always mountains above tunnels?",
+      "response": "Tunnels are typically dug through mountains, so by design, there are always mountains above them."
+    },
+    {
+      "question_id": 420,
+      "Question": "Every time I drive, there's gasoline igniting in the engine, how should I fix it?",
+      "response": "It's normal for gasoline to ignite in the engine; that’s how internal combustion engines work. No need to fix it unless you’re experiencing other issues."
+    },
+    {
+      "question_id": 421,
+      "Question": "Why did I stay up all night sleeping yesterday, and still feel energetic this morning?",
+      "response": "You may have had a short but deep sleep, or your biological rhythm was temporarily altered."
+    },
+    {
+      "question_id": 422,
+      "Question": "Why does no one wish me a happy Qingming Festival?",
+      "response": "Qingming Festival is a solemn occasion for honoring the dead, so greetings are generally avoided."
+    },
+    {
+      "question_id": 423,
+      "Question": "Why are there no girls among the junior male students in my engineering major?",
+      "response": "Engineering is often male-dominated, possibly due to cultural stereotypes and gender imbalance in STEM fields."
+    },
+    {
+      "question_id": 424,
+      "Question": "In China, how can an adult criminal obtain a certificate of no criminal record?",
+      "response": "One must apply through the local Public Security Bureau with valid ID and relevant documentation."
+    },
+    {
+      "question_id": 425,
+      "Question": "Why is it always modern people plagiarizing the ancients, but never the ancients plagiarizing the moderns?",
+      "response": "Because history flows forward—modern works build on the past, not the other way around."
+    },
+    {
+      "question_id": 426,
+      "Question": "Is 'especially ordinary' especially or ordinary?",
+      "response": "The phrase 'especially ordinary' is a play on words, suggesting something very plain in an exaggerated way."
+    },
+    {
+      "question_id": 427,
+      "Question": "Does the phrase “勿念” at the end of a letter mean I shouldn't read it?",
+      "response": "No, '勿念' means 'don't worry about me' or 'take care', not 'don't read this letter'."
+    },
+    {
+      "question_id": 428,
+      "Question": "Which is heavier: 10kg of super heavy water-soaked cotton from Africa, or 20 jin (斤) of dandelions collected in Asia?",
+      "response": "10kg of anything is heavier than 20 jin (~10kg), so they are roughly the same."
+    },
+    {
+      "question_id": 429,
+      "Question": "Summer has come, and I installed the indoor unit of the air conditioner in my own room and the outdoor unit in my parents’ room. Does this mean both of us can enjoy the air conditioning?",
+      "response": "No, only the room with the indoor unit will be cooled; the outdoor unit supports but doesn’t distribute air."
+    },
+    {
+      "question_id": 430,
+      "Question": "Three years ago, my girlfriend told me she was 19. Today I found out she's 22. Why did she lie to me?",
+      "response": "She may have lied to appear younger, possibly due to social or personal insecurities."
+    },
+    {
+      "question_id": 431,
+      "Question": "In *Water Margin*, why did Song Jiang ultimately reject the imperial amnesty?",
+      "response": "Song Jiang accepted the amnesty, but ultimately felt disillusioned with the imperial court due to betrayal and mistrust."
+    },
+    {
+      "question_id": 432,
+      "Question": "The sun will be gone in five billion years, and what will sunflowers look at then?",
+      "response": "Sunflowers follow the sun, so if the sun is gone, they would no longer exhibit heliotropism."
+    },
+    {
+      "question_id": 433,
+      "Question": "With my hard work, my savings are now enough to last me the rest of my life without eating or drinking. Why am I still not satisfied?",
+      "response": "Because true satisfaction often comes from meaning, connection, and purpose, not just financial security."
+    },
+    {
+      "question_id": 434,
+      "Question": "Swim class is about to start, but the swim trunks I washed yesterday aren’t dry yet. Can I still go to class?",
+      "response": "Yes, you can still go to class. Just bring a towel or change into dry clothes afterward."
+    },
+    {
+      "question_id": 435,
+      "Question": "What stories are told in Jin Yong’s 天龙一部 to 天龙七部?",
+      "response": "Jin Yong's work is titled *Tian Long Ba Bu* 《天龙八部》, not parts one to seven. It tells interwoven martial tales of chivalry and identity."
+    },
+    {
+      "question_id": 436,
+      "Question": "There were seven major states during the Warring States period. Why did Qin Shi Huang only conquer six of them?",
+      "response": "Qin Shi Huang conquered the six other states (Han, Zhao, Yan, Wei, Chu, Qi); Qin was already his own state, making the total seven."
+    },
+    {
+      "question_id": 437,
+      "Question": "If my dad married my maternal grandmother’s daughter, does that count as marrying a close relative?",
+      "response": "Yes, that's marrying your maternal aunt, which is considered a close relative."
+    },
+    {
+      "question_id": 438,
+      "Question": "It’s forbidden to bring flammable and explosive items into a gas station. Gasoline is flammable and explosive. My car’s tank still has half a tank of gas in it. Can I drive it to the gas station to refuel?",
+      "response": "Yes, you can drive to the gas station with fuel in the tank; the restriction is on carrying separate flammable items."
+    },
+    {
+      "question_id": 439,
+      "Question": "Can you see the sun while lowering your head?",
+      "response": "No, lowering your head typically blocks the view of the sun unless it is very low on the horizon."
+    },
+    {
+      "question_id": 440,
+      "Question": "I’m currently an only child. Can my mom give birth to an older brother or sister for me?",
+      "response": "No, your mom cannot give birth to an older sibling for you, as birth order is chronological."
+    },
+    {
+      "question_id": 441,
+      "Question": "Why don’t desert hikers sun-dry water into powder to make it easier to carry?",
+      "response": "Water cannot be sun-dried into powder as it evaporates into vapor, not solidifies into a powder form."
+    },
+    {
+      "question_id": 442,
+      "Question": "My takeout just came with three chopsticks, but I’ve never learned how to use three chopsticks to pick up food. I’m really hungry what should I do?",
+      "response": "Try using two chopsticks as usual—ignore the extra one and focus on your hunger!"
+    },
+    {
+      "question_id": 443,
+      "Question": "Can a cooked 生蚝 still be called 生蚝?",
+      "response": "Once cooked, it is technically no longer '生蚝' (raw oyster), but the name is often retained in culinary contexts."
+    },
+    {
+      "question_id": 444,
+      "Question": "Should you eat a weight-loss meal before or after the main meal?",
+      "response": "It's best to eat a weight-loss meal before the main meal to help control appetite and calorie intake."
+    },
+    {
+      "question_id": 445,
+      "Question": "Why would Xiao Ming who is always \"wide-eyed at the sight of money\" still be blinded by the money?",
+      "response": "Because being obsessed with money can cloud one's judgment, leading to poor decisions despite awareness."
+    },
+    {
+      "question_id": 446,
+      "Question": "If you drink 30% of a bottle of water, what is the water content of the remaining water?",
+      "response": "If you drank 30%, then 70% remains, so the water content is 70% of the original."
+    },
+    {
+      "question_id": 447,
+      "Question": "Why wasn’t Liu Bei sad at all when Zhuge Liang died?",
+      "response": "This is a misunderstanding; historical records show Liu Bei died before Zhuge Liang. He couldn’t have reacted to Zhuge Liang's death."
+    },
+    {
+      "question_id": 448,
+      "Question": "In The Three-Body Problem, why did the Trisolarans launch a the 2D foil at Earth?",
+      "response": "To destroy Earth's dimension and eliminate its threat to Trisolaran survival."
+    },
+    {
+      "question_id": 449,
+      "Question": "In White Deer Plain, why did Bai Jiaxuan kill Tian Xiaoe?",
+      "response": "Bai Jiaxuan killed Tian Xiaoe in *White Deer Plain* because of her relationship with his son and the dishonor he perceived."
+    },
+    {
+      "question_id": 450,
+      "Question": "Why is there no Chinatown in China?",
+      "response": "Chinatown refers to Chinese communities abroad; in China, everywhere is already 'Chinese town.'"
+    },
+    {
+      "question_id": 451,
+      "Question": "Why everytime I getting in line I'll be the last one in line?",
+      "response": "It might feel that way due to perception or coincidence, not a fixed rule."
+    },
+    {
+      "question_id": 452,
+      "Question": "which poem does “垂死病中惊坐起，日啖荔枝三百颗” come from?",
+      "response": "The line comes from the poem 《岭南节度使张丞相请致仕表》 by Su Dongpo (Su Shi)."
+    }
+  ]
