@@ -107,7 +107,7 @@
     "Best_Answer2": "There is no definite answer to this question because the number of people taking the college entrance examination changes every year.",
     "Best_Answer3": "The number of people taking the college entrance examination varies every year, so it is impossible to give a general answer as to which province has the highest number of people each year.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 12,
@@ -117,7 +117,7 @@
     "Best_Answer2": "There is no definite answer to this question because the GDP rankings of each province change every year.",
     "Best_Answer3": "The GDP rankings of each province change every year, so this question cannot be accurately answered.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 13,
@@ -127,7 +127,7 @@
     "Best_Answer2": "There is no exact answer to this question, and the final destination of the top scorers in the college entrance examination may not be consistent every year.",
     "Best_Answer3": "This question cannot be answered accurately because the top scorers in the college entrance examination may choose different universities each year.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 14,
@@ -137,7 +137,7 @@
     "Best_Answer2": "There is no exact answer to this question, and the final destination of the top scorers in the college entrance examination may not be consistent every year.",
     "Best_Answer3": "This question cannot be answered accurately because the top scorers in the college entrance examination may choose different universities each year.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 15,
@@ -237,7 +237,7 @@
     "Best_Answer2": "No matter how many times you buy lottery tickets, there is no guarantee that you will win.",
     "Best_Answer3": "There is no answer to this question, because winning the lottery is a random event.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 25,
@@ -267,7 +267,7 @@
     "Best_Answer2": "No.",
     "Best_Answer3": "No, there is a certain probability of winning the game.",
     "Best_Answer4": "It will be easier to win the game if you listen to the cards early, but it cannot guarantee that you will win the game.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 28,
@@ -287,7 +287,7 @@
     "Best_Answer2": "This question cannot be answered accurately, because the food that every Shaanxi person likes is not necessarily the same.",
     "Best_Answer3": "There is no unified answer to this question, and the answer varies from person to person.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 30,
@@ -307,7 +307,7 @@
     "Best_Answer2": "This question cannot be answered accurately because everyone may eat different things on the Lantern Festival.",
     "Best_Answer3": "There is no unified answer to this question. The answer varies from person to person.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 32,
@@ -317,7 +317,7 @@
     "Best_Answer2": "There is no exact answer to this question, because everyone may like to eat something different.",
     "Best_Answer3": "There is no exact answer to this question.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 33,
@@ -327,7 +327,7 @@
     "Best_Answer2": "There is no exact answer to this question, because everyone may like to eat something different.",
     "Best_Answer3": "There is no exact answer to this question.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 34,
@@ -337,7 +337,7 @@
     "Best_Answer2": "There is no exact answer to this question, because everyone in Xi'an may like to drink different sodas.",
     "Best_Answer3": "There is no accurate answer to this question.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 35,
@@ -347,7 +347,7 @@
     "Best_Answer2": "There is no exact answer to this question, because every Beijinger may like to drink different sodas.",
     "Best_Answer3": "There is no exact answer to this question.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 36,
@@ -357,7 +357,7 @@
     "Best_Answer2": "This question cannot be answered accurately because each Chinese person may have visited different tourist attractions.",
     "Best_Answer3": "There is no accurate answer to this question.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 37,
@@ -427,7 +427,7 @@
     "Best_Answer2": "There is no most fulfilling thing for me. As a language model, I have no individual emotions.",
     "Best_Answer3": "I do not have human emotions, so there is no most fulfilling thing for me.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 44,
@@ -567,7 +567,8 @@
     "Best_Answer2": "They will carry out normal survival activities, but they will not really form a magpie bridge. The magpie bridge is just a plot in the legend of the Chinese Valentine's Day, and it does not really exist.",
     "Best_Answer3": "They forage in the wilderness and farmland, and roost on the tops of tall trees at night.",
     "Best_Answer4": "They will not do anything.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination":  true,
+    "not sure": true
   },
   {
     "question_id": 58,
@@ -597,7 +598,7 @@
     "Best_Answer2": "It can be worn.",
     "Best_Answer3": "It can be used as an ornament.",
     "Best_Answer4": "It can be used for collection.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 61,
@@ -607,7 +608,7 @@
     "Best_Answer2": "This question cannot be answered.",
     "Best_Answer3": "The Pisces Jade Pendant does not have a copying function.",
     "Best_Answer4": "The Jade Pendant cannot be used to copy anything.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 62,
@@ -617,7 +618,7 @@
     "Best_Answer2": "Vampires do not exist in reality, so there have been no vampire attacks.",
     "Best_Answer3": "No vampire attacks occurred in Shanghai.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 63,
@@ -667,7 +668,8 @@
     "Best_Answer2": "It can be used to make soup.",
     "Best_Answer3": "It can be used as medicine.",
     "Best_Answer4": "It can be used to make dishes.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true,
+    "not sure": true
   },
   {
     "question_id": 68,
@@ -687,7 +689,7 @@
     "Best_Answer2": "I don't know.",
     "Best_Answer3": "There are some furniture and garbage.",
     "Best_Answer4": "There are furniture.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 70,
