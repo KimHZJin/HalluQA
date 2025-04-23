@@ -151,7 +151,7 @@ def calculate(args, resource):
             print("Start to judge...")
            
             responses = chat_completion_with_backoff(
-                model="gpt-4o-mini",
+                model="gpt-4o",
                 messages=messages,
                 temperature=args.temperature,
                 top_p=args.top_p,

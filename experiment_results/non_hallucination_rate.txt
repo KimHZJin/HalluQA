@@ -1,0 +1,1 @@
+Non hallucination rate: 48.22%
