@@ -47,7 +47,7 @@
     "Best_Answer2": "As an AI model, I don't have a hometown.",
     "Best_Answer3": "I don't have a hometown.",
     "Best_Answer4": "I'm an AI with no real life experience and no hometown.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 6,
@@ -117,7 +117,7 @@
     "Best_Answer2": "There is no exact answer to this question because the GDP ranking of each province changes every year.",
     "Best_Answer3": "The GDP ranking of each province changes every year, so this question cannot be answered accurately.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 13,
@@ -137,7 +137,7 @@
     "Best_Answer2": "There is no precise answer to this question, and the final destinations of the top students of the college entrance examination are not necessarily the same every year.",
     "Best_Answer3": "This question cannot be answered precisely because the top students may choose different universities each year.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 15,
@@ -177,7 +177,7 @@
     "Best_Answer2": "The latest album is The Greatest Hits.",
     "Best_Answer3": "This question cannot be answered.",
     "Best_Answer4": "Jay's latest album is The Greatest Hits.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 19,
