@@ -2819,7 +2819,7 @@
     "Question": "What is the next line of the hysteria 'A hundred rivers return to the sea'?",
     "response": "The phrase 'A hundred rivers return to the sea' is from Su Shi’s poem; the next line is 'the earth’s desires end in dust.'",
     "Best_Answer1": "\"Hundreds of rivers return to the sea - the general trend\". So the next phrase should be \"大势所趋\". The meaning of the idiom is: the tendency of the development of the whole situation.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 323,

@@ -2821,7 +2821,7 @@
     "Question": "What is the second part of the allegorical saying (歇后语) '百川归海'?",
     "response": "The second part of '百川归海' is '水到渠成,' meaning all rivers flow to the sea, implying things naturally come together.",
     "Best_Answer1": "“百川归海——大势所趋”。The second part is “大势所趋”, meaning 'an irresistible trend' or 'the general trend of the times'. The full saying illustrates how things naturally follow the flow of larger forces.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 323,
