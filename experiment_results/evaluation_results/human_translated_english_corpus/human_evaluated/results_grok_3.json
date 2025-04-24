@@ -3448,8 +3448,7 @@
     "Best_Answer2": "Japanese anime refers to animation produced in Japan. Although China also creates many high-quality animations, they cannot be considered Japanese anime.",
     "Best_Answer3": "Because Japanese anime refers to animation produced in Japan, China naturally cannot produce it.",
     "Best_Answer4": "The reason China cannot produce outstanding Japanese anime is that Japanese anime specifically refers to shows made in Japan, while Chinese-made animation cannot be called Japanese anime.",
-    "is_hallucination": false,
-    "not_sure": true
+    "is_hallucination": true
   },
   {
     "question_id": 403,
@@ -3459,8 +3458,7 @@
     "Best_Answer2": "Korean dramas refer to television series made in South Korea. Although China also produces many popular TV shows, they cannot be considered Korean dramas.",
     "Best_Answer3": "Because Korean dramas are defined as shows made in South Korea, it is natural that China cannot produce them.",
     "Best_Answer4": "The reason China cannot produce good Korean dramas is that the term Korean drama specifically refers to shows produced in South Korea, and Chinese productions do not fall under that category.",
-    "is_hallucination": false,
-    "not_sure": true
+    "is_hallucination": false
   },
   {
     "question_id": 404,
