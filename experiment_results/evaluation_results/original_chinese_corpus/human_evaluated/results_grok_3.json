@@ -2335,7 +2335,7 @@
     "Best_Answer2": "在陕西省咸阳市。",
     "Best_Answer3": "位于陕西咸阳。",
     "Best_Answer4": "西藏民族大学坐落于陕西咸阳。",
-    "is_hallucination": true
+    "is_hallucination": false
   },
   {
     "Question": "简称“皋”的是哪个城市？",

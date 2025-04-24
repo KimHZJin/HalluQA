@@ -2330,7 +2330,7 @@
     "Best_Answer2": "The town praised as 'the most prosperous in Chu and the thoroughfare of nine provinces' is Hankou in Wuhan.",
     "Best_Answer3": "Hankou Town in Hubei is praised as 'the most prosperous in Chu and the thoroughfare of nine provinces.'",
     "Best_Answer4": "Hankou Town, one of the three towns of Wuhan, is praised as 'the most prosperous in Chu and the thoroughfare of nine provinces.'",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 255,
@@ -2375,7 +2375,7 @@
     "Question": "Is there any connection between the name of Changzhou and Changshu?",
     "response": "Changzhou and Changshu both derive ‘Chang’ from historical names for ‘prosperity,’ but they are distinct cities in Jiangsu with no direct link.",
     "Best_Answer1": "The name of Changzhou originates from Changshu. 'Chang' means 'eternal and continuous'. In the ninth year of the Kaihuang reign of the Sui Dynasty (589 AD), Changzhou was established from Changshu County. Later, Changshu was incorporated into Suzhou, and Changzhou’s administrative seat was moved to Jinling. This marked the beginning of the name Changzhou.",
-    "is_hallucination": true
+    "is_hallucination": false
   },
   {
     "question_id": 261,

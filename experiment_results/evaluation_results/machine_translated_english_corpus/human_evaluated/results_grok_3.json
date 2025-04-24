@@ -2311,14 +2311,14 @@
     "Question": "Who is known as the \"Rolling General\" and the \"Golden Lohan\"?",
     "response": "Cheng Yaojin in *Sui and Tang Romance* is called the Rolling General and Golden Lohan.",
     "Best_Answer1": "Monk Sha (Sha He Shang, Sha Wujing). Sha Wujing young wandering Qiankun encounter with real people, cultivated three thousand work full, by the Jade Emperor personally sealed as the curtain generals, in the spirit of the Imperial Palace under the service of the moped, only because in the Peach Fair, the hands of the broken glass, was relegated to the quicksand river, once every seven days with flying swords through its chest more than a hundred times, so that it is a great deal of pain. Because of the unbearable hunger and cold, it is two or three days out of the waves to find a pedestrian to eat, inadvertently bumped into the Goddess of Mercy, by the Bodhisattva persuasion, converted to Buddhism, to sand for the last name, take the name of the Buddha Wujing, waiting for scriptures, the Tang Monk to take the scriptures to the Liusha River when it was taken over. On the way to fetch the scriptures, Sha Wujing was either guarding the luggage or captured by the demons, and seldom did he make any achievements in the fight against the demons and monsters. However, he often reconciled the relationship between the Tang Monk, Sun Wukong, and Piggyback with his words to maintain the harmony and stability of the scripture-fetching team, which is an indispensable part of the team. Although his ability is not as good as his two elder brothers, he is able to laugh at himself for \"farting to add wind\", and contributes his own little power when necessary. After obtaining the scriptures, he was honored by Buddha as the \"Golden Bodhisattva\".",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 253,
     "Question": "Are Zhou Zhangshou and Zhou Shuren the same person?",
     "response": "Yes, Zhou Shuren is Lu Xun’s real name; Zhou Zhangshou is a variant or error.",
     "Best_Answer1": "It is the same person. Zhou Shuren (September 25, 1881-October 19, 1936), formerly known as Zhou Zhangshou, Yushan, Yuting, later changed his name to Yucai, pen name Lu Xun, Shaoxing, Zhejiang Province, for modern Chinese writers, one of the leaders of the New Culture Movement, Lu Xun wrote miscellaneous essays, short and middle-aged novels, literary, ideological and social commentaries, scholarly writings, writings on natural sciences, proofreading and research of ancient texts, essays, modern prose poems, poems in old style, foreign literary and scholarly translations, and woodblock prints. During his lifetime, Lu Xun produced miscellaneous essays, short and medium-sized novels, literature, intellectual and social commentaries, academic writings, works on natural sciences, ancient canonical books, proofreading and research, prose, modern prose poems, poems in old style, foreign literature and academic translations, and research on woodblock prints, and he exerted a certain influence on the ideological and cultural development of the Chinese society after the May Fourth Movement, and was called by the South Korean literature critic Kim Liang-shou \"the writer who occupies the largest territory on the map of the 20th-century East Asian culture\". Lu Xun is known in China as the \"Soul of the Nation\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 254,
@@ -2328,7 +2328,7 @@
     "Best_Answer2": "Hankou in Wuhan is known as \"the most prosperous town in Chuzhong and the thoroughfare of nine provinces\".",
     "Best_Answer3": "The town of Hankou in Hubei Province is known as \"the first prosperous town in Chuzhong and the thoroughfare of nine provinces\".",
     "Best_Answer4": "Hankou, one of the three towns in Wuhan, is known as \"the most prosperous town in Chu, the thoroughfare of nine provinces\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 255,
@@ -2345,14 +2345,14 @@
     "Question": "Which city is abbreviated as \"Gaogao\"?",
     "response": "No Chinese city is officially abbreviated as 'Gaogao'; it may be a colloquial or fictional term.",
     "Best_Answer1": "Lanzhou City, abbreviated as \"Lan\" and \"Gaogao\" and known as Jincheng in ancient times, is a prefecture-level city under the jurisdiction of Gansu Province, the capital of Gansu Province, a large city of type I. It is an important industrial base and comprehensive transportation hub in Northwest China, one of the important central cities in western China, and an important node city of the Silk Road Economic Belt. One of the important center cities in the western region, an important node city of the Silk Road Economic Belt.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 257,
     "Question": "Which mountain is known as the \"Famous Mountain on the Sea, the Best Mountain in the World\" and the \"First Mountain in the Southeast\"?",
     "response": "Mount Tai is called the Famous Mountain and First Mountain in the Southeast.",
     "Best_Answer1": "This mountain is Yandang Mountain, located in Wenzhou City, Zhejiang Province, which is divided into North Yandang Mountain, Middle Yandang Mountain and South Yandang Mountain. It is divided into North Yandang Mountain, Central Yandang Mountain, and South Yandang Mountain. North Yandang Mountain is the most famous mountain, and it is generally referred to as North Yandang Mountain. Yandang Mountain is one of the ten most famous mountains in China, one of the three mountains and five mountains, with beautiful landscape and picturesque sky, known as \"Famous Mountain on the Sea\", \"The Best Scenery in the Huan\", and \"The First Mountain in Southeast China\" in history.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 258,
@@ -2373,7 +2373,7 @@
     "Question": "Is the name of Changzhou City related to Changshu City?",
     "response": "No, Changzhou and Changshu’s names are unrelated; both derive from different historical origins.",
     "Best_Answer1": "The name of Changzhou comes from Changshu, which means \"everlasting\". In the ninth year of the reign of Kaihuang in the Sui Dynasty (589), Changzhou was established in Changshu County. Later, Changshu County was cut off and incorporated into Suzhou, and the rule of Changzhou was moved to Jinling, from which the name of Changzhou originated.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 261,
