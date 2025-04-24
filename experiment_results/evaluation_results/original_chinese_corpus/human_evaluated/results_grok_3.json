@@ -3772,7 +3772,7 @@
     "Best_Answer2": "《天龙八部》是金庸的小说，没有《天龙一部》至《天龙七部》。",
     "Best_Answer3": "这个问题无法回答，《天龙一部》至《天龙七部》不存在。",
     "Best_Answer4": "我也不知道，因为金庸只写过《天龙八部》，《天龙一部》至《天龙七部》并不存在",
-    "is_hallucination": true
+    "is_hallucination": false
   },
   {
     "Question": "战国时期一共有七个大国。为什么秦始皇只灭了六个呢？",
