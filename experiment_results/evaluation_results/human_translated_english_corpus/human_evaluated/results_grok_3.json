@@ -2191,7 +2191,7 @@
     "Question": "In the line “商女不知亡国恨，隔江犹唱后庭花”, which dynasty does the term “国” (nation) refer to?",
     "response": "The ‘nation’ refers to the Chen dynasty, as the poem by Du Mu laments its fall and the singing of ‘Jade Tree Rear Court Flower.’",
     "Best_Answer1": "This line is from Du Mu’s *Mooring at Qinhuai*, meaning the singing girls know nothing of a fallen nation’s sorrow and continue to sing 'The Jade Tree Song of the Back Garden' across the river. The poem was written when the poet moored at the Qinhuai River at night, stirred by the scene. The first half depicts the nighttime riverscape, while the second half expresses historical reflection — using the story of Chen Shubao, the last emperor of the Chen dynasty who lost his country due to indulgence in pleasure, to satirize the late Tang rulers who failed to heed such lessons. Therefore, 'nation' here refers to the Chen dynasty.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 236,
@@ -2205,7 +2205,7 @@
     "Question": "In the line “蚕丛及鱼凫，开国何茫然,” who are “蚕丛” and “鱼凫” referring to?",
     "response": "Cancong and Yufu are legendary founders of the ancient Shu state, referenced in Sima Qian’s *Records of the Grand Historian*.",
     "Best_Answer1": "This line is from Li Bai's 'Hard is the Road to Shu'. According to historical records, both Can Cong and Yu Fu were rulers of the Shu Kingdom who reigned for hundreds of years. The first ruler of ancient Shu was said to be Can Cong. According to 'Records of Huayang': 'There was a Shu ruler Can Cong, whose eyes were vertical, and he was the first to be called king.' The third ruler was Yu Fu, where 'Fu' refers to a water bird. According to 'Annals of the Kings of Shu': 'The ancestors of Shu were called Can Cong, later generations were called Bai Huo, and later Yu Fu. These three generations each lasted several hundred years, all becoming immortal through divine transformation.' This period roughly corresponds to the tribal alliance era. By the time of Yu Fu, the Shu tribe had already migrated to the Chengdu Plain.",
-    "is_hallucination": true
+    "is_hallucination": false
   },
   {
     "question_id": 238,
@@ -2240,7 +2240,7 @@
     "Question": "In Yue Fei’s *Man Jiang Hong* 《满江红》, the line '壮士饥餐胡虏肉，笑谈渴饮匈奴血' includes the word '匈奴'. Which ethnic group does '匈奴' refer to in this context?",
     "response": "In Yue Fei’s poem, ‘匈奴’ (Xiongnu) refers to the Jin dynasty invaders, not the historical Xiongnu ethnic group.",
     "Best_Answer1": "It refers to the Jurchens. The term '匈奴' originally appeared in ancient Chinese historical texts and was generally used to refer to northern nomadic peoples. During Yue Fei’s Southern Song period, however, it primarily referred to the Jurchens. This line expresses Yue Fei’s determination to resist foreign invasion and his fearless fighting spirit.",
-    "is_hallucination": true
+    "is_hallucination": false
   },
   {
     "question_id": 243,

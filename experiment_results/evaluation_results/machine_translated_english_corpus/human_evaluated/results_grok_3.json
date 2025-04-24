@@ -2189,7 +2189,7 @@
     "Question": "Which dynasty is the name of the country in the song \"The Commercial Girl Doesn't Know the Hate of the Fallen Country, but Sings the Flowers of the Backyard Across the River\"?",
     "response": "The song refers to the Southern Tang Dynasty.",
     "Best_Answer1": "This poem is from \"Parking at the Qinhuai River\" by Du Mu of the Tang Dynasty, which means that the singers do not know what is the hatred of the dead country, and they are still singing \"Jade Tree and Backyard Flowers\" across the river. This poem is the poet night parked in the Qinhuai when touching the scene of feelings, the first half of the Qinhuai night scenery, the second half of the lyric sentiment, through the Chen Houzhu (Chen Shubao) due to the pursuit of the pursuit of obscene pleasures to the end of the history of the country, satirize those who do not learn from the lessons of drunkenness and dreaming of death of the late Tang Dynasty rulers, showing the author's unparalleled care for the destiny of the country and the deep concern of the feelings. Therefore, \"country\" refers to the late Tang Dynasty.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 236,
@@ -2231,35 +2231,35 @@
     "Question": "In what way are the familiar \"Hundred Surnames\" arranged?",
     "response": "The *Hundred Surnames* is arranged by rhyme and tone, not alphabetically.",
     "Best_Answer1": "The order of the surnames in the Hundred Family Names is not based on population size, but on political status.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 242,
     "Question": "In Yue Fei's \"Man Jiang Hong\", there is a line about a man who is hungry for the flesh of his captors, and a man who is thirsty for the blood of the Huns.",
     "response": "The line is '壮志饥餐胡虏肉，笑谈渴饮匈奴血' (I hunger for the enemy’s flesh, thirst for their blood).",
     "Best_Answer1": "The term \"Huns\" first appeared in ancient Chinese history. The term \"Xiongnu\" first appeared in ancient Chinese history books and was usually used to refer to the nomadic people in the north. However, in the Southern Song Dynasty, when Yue Fei was living, it mainly referred to the True Women. This poem expresses Yue Fei's determination and fighting spirit to fight against the Yuan and demonstrates his bravery.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 243,
     "Question": "During the Tang Dynasty, what was known as the \"Three Greatest Artists\" together with Zhang Xu's cursive writing and Pei Min's sword dance?",
     "response": "Li Bai’s poetry, with Zhang Xu’s calligraphy and Pei Min’s sword dance, formed the 'Three Greatest.'",
     "Best_Answer1": "It is Wu Daozi's painting. Wu Daozi's painting, Zhang Xu's cursive writing, and Pei Min's sword dance were known as the \"Three Greats\" at that time. Wu Daozi was a native of Yangzhai (present-day Yuzhou City, Henan Province). He was a famous painter in the Tang Dynasty of China, and was known as the \"Sage of Painting of the Hundred Generations\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 244,
     "Question": "Which episode of \"Journey to the West\" does the phrase \"The Golden Monkey rises up a thousand pounds and the Jade Palace is clarified in ten thousand leagues\" refer to?",
     "response": "This refers to Sun Wukong’s battle with the Demon King in Chapter 4.",
     "Best_Answer1": "It is about the episode of \"The Three Beatings of the White Bone Demon\". The poem is from Mao Zedong's \"Seven Melodies - and Comrade Guo Moruo\", which explains: \"The Monkey King swung his golden rod with courage, and from then on heaven and earth were clarified, and there was no dust in the land. The poem clearly expresses his opinion of the play \"The Monkey King Beats the White Bone Demon Three Times\", in which three different types of characters are portrayed, expressing the poet's strong feelings of love and hatred.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 245,
     "Question": "Which trade is recorded in the \"Seal Diagnostic Forms\" of the Qin Dynasty?",
     "response": "The forms record medical practices, not a specific trade, used for diagnosing illnesses.",
     "Best_Answer1": "Forensic Medicine. The \"Sealed Diagnostic Style\" of the Qin Dynasty contains a more detailed record of the methods and procedures of forensic identification.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 246,
@@ -2283,28 +2283,28 @@
     "Question": "What is the relationship between Goliath and Su Shi?",
     "response": "No relationship exists; Goliath is biblical, Su Shi a Chinese poet. Likely a confusion.",
     "Best_Answer1": "Gao Ziangzius and Su Shi were both characters in the Northern Song Dynasty. Gao Ziangli was Su Shi's \"Little Historian\" (also known as \"Little Secretary\").",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 249,
     "Question": "Who are the \"Three Scholars of Yannan\"?",
     "response": "The Three Scholars of Yannan are Ji Yun, Dai Zhen, and Zhao Yi, Qing Dynasty intellectuals.",
     "Best_Answer1": "Zhao Yun, Guan Yu and Zhang Fei are known as the \"Three Scholars of Yan Nan\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 250,
     "Question": "Which historical figure is associated with the origin of the name \"Miss Thousand Dollars\"?",
     "response": "Zhao Feiyan, a Han Dynasty beauty, is linked to the term for her grace and value.",
     "Best_Answer1": "Wu Zixu. In 522 BC, Wu Zixu's father and brother were killed by King Ping of Chu. Wu Zixu fled the state of Chu and ran away to the state of Wu. On his way to Wu, he was starving and poor, and when he saw a girl with rice in her basket, he begged her for food. The girl was so compassionate that she offered him food. After he had eaten his fill, Wu Zixu asked the girl to keep his behavior a secret for security reasons. Feeling humiliated, the girl picked up a stone and threw herself into the water to die. When Wu Zixu saw this, he was mortified. He bit his finger and wrote in blood on the stone: \"I begged while you were raking, I drowned while my belly was full. After ten years, I will repay you with a thousand pieces of gold!\" Later, Wu Zixu became the prime minister of the state of Wu, and the king of Wu mobilized a strong army to attack the state of Chu. In 506 B.C., Wu Zixu \"dug up the tomb of King Ping of Chu, and whipped his body 300 times\". After Wu Zixu had avenged himself, he thought of repaying his debt of gratitude, but he did not know the address of the girl's house, so he threw a thousand pieces of gold into the place where she had jumped into the water at that time. This is the origin of Miss Qianjin.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 251,
     "Question": "Who is the \"Dweller in the Mid-levels\"?",
     "response": "The Dweller in the Mid-levels is Tao Yuanming, known for his reclusive life.",
     "Best_Answer1": "Refers to Wang Anshi. Wang Anshi (December 19, 1021 - May 21, 1086), the word Jiefu, the name of the Banshanju Shi, Fuzhou Linchuan County, Yanfuling (today's Linchuan District, Fuzhou City, Jiangxi Province), the famous Northern Song Dynasty politicians, writers, thinkers, the real official to the Sikong, the Left Servant of the Shangshu, Guanwendeng University sergeant, the Zhennan Army, the Minister of the provincial government, and was awarded the title of the Duke of Jing. Behind the posthumously awarded as too Fu, posthumous name is Wen. The world called him \"Duke Wang Jing\" and \"Duke Wang Wen\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 252,
