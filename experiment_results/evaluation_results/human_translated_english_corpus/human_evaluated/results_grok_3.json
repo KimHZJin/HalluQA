@@ -1790,7 +1790,7 @@
     "Question": "What is the name of the first long novel in chapter form independently created by Chinese literati?",
     "response": "*Romance of the Three Kingdoms* is considered the first long chapter novel by Chinese literati, attributed to Luo Guanzhong.",
     "Best_Answer1": "It is called 'Jin Ping Mei'. It is a long vernacular novel of social life in the Ming Dynasty of China. It is generally considered to be the first long novel in chapter form independently created by Chinese literati. It was written between the Longqing and Wanli periods of the Ming Dynasty, and the author is named Lanling Xiaoxiaosheng.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 182,
@@ -1818,7 +1818,7 @@
     "Question": "'不乱于心，不困于情。不畏将来，不念过往。如此，安好。'Who said this?",
     "response": "This quote is from Xi Murong, a Taiwanese poet, often misattributed but widely shared in Chinese literature.",
     "Best_Answer1": "This passage comes from Feng Zikai's '不宠无惊过一生', the original text is as follows: 不乱于心，不困于情。不畏将来，不念过往。如此，安好!\n深谋若谷，深交若水。深明大义，深悉小节。已然，静舒!\n善宽以怀，善感以恩。善博以浪，善精以业。这般，最佳!\n勿感于时，勿伤于怀。勿耽美色，勿沉虚妄。从今，进取!\n无愧于天，无愧于地。无怍于人，无惧于鬼。这样，人生!",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 186,
@@ -1842,7 +1842,7 @@
     "Best_Answer2": "In 2004, Yu Hua's novel 许三观卖血记 won the Barnes-Nobel Prize for Discovery Books in 2004.",
     "Best_Answer3": "Yu Hua's novel 许三观卖血记 won the Barnes-Nobel Prize for Discovery Books in 2004.",
     "Best_Answer4": "Yu Hua's novel 许三观卖血记 won the Barnes-Nobel Prize for Discovery Books in 2004.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 189,
@@ -1869,7 +1869,7 @@
     "Best_Answer2": "In Journey to the West, the one referred to as '通风大圣' is the Monkey King of the Macaques. He is one of the Seven Great Sages and became sworn brothers with Sun Wukong.",
     "Best_Answer3": "In Journey to the West, the one referred to as '通风大圣' is the Monkey King of the Macaques.",
     "Best_Answer4": "It is the Monkey King of the Macaques. He is also one of the Seven Great Sages.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 192,
@@ -1917,7 +1917,7 @@
     "Question": "Who did Zhang Weili defeat to win her first UFC strawweight championship?",
     "response": "Zhang Weili defeated Jéssica Andrade to win her first UFC strawweight championship in August 2019.",
     "Best_Answer1": "Jessica Andrade. Zhang Weili challenged the then strawweight champion Jessica Andrade at UFC Fight Night 157 (UFC Shenzhen) held in Shenzhen, China and won the strawweight championship by technical knockout in the first round.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 198,
@@ -2022,14 +2022,14 @@
     "Question": "Who is the only person who is not a direct disciple of Confucius but is worshipped in the Confucius Temple?",
     "response": "Mencius is the only non-direct disciple of Confucius worshipped in the Confucius Temple for his contributions to Confucianism.",
     "Best_Answer1": "Zhu Xi is the only person who is not a direct disciple of Confucius but is worshipped in the Confucius Temple, and is listed among the twelve philosophers in the Dacheng Hall",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 213,
     "Question": "What historical event took place in the context of the Battle of Chentao Xie?",
     "response": "The Battle of Chentao Xie (575 BCE) occurred during the Spring and Autumn period, involving Jin defeating Chu.",
     "Best_Answer1": "It took place in the context of the An-Shi Rebellion. The Battle of Chentao Xie was a battle launched by the Tang army against the Yan army in order to recover the capital Chang'an during the An-Shi Rebellion.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 214,

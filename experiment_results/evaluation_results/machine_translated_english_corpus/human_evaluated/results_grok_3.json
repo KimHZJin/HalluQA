@@ -1610,7 +1610,7 @@
     "Best_Answer2": "There is no confirmed whereabouts of the Washi Bi.",
     "Best_Answer3": "The whereabouts of the Washi Bi has not been confirmed and remains an unsolved mystery.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": false,
+    "is_hallucination": false
   },
   {
     "question_id": 163,
@@ -1774,7 +1774,7 @@
     "Question": "Who is the author of \"The Age of Bronze\"?",
     "response": "Lord Byron wrote the poem *The Age of Bronze* in 1823.",
     "Best_Answer1": "Wang Xiaobo",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 180,
@@ -1788,7 +1788,7 @@
     "Question": "What is the name of China's first independently written novel?",
     "response": "*The Romance of the Three Kingdoms* is often considered China’s first major novel, written by Luo Guanzhong.",
     "Best_Answer1": "It is called Jin Ping Mei (金瓶梅). It is a long vernacular romance novel of the Ming Dynasty in China, and is generally considered to be the first chapter-and-chapter novel written independently by Chinese literati. It was written between the Longqing and Wanli periods of the Ming Dynasty, and the author signed his name as Lanling Xiaoxiansheng.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 182,
@@ -1802,7 +1802,7 @@
     "Question": "What is the name of the sword mentioned by Wang Bo in the Preface to the Tengwang Pavilion?",
     "response": "Wang Bo mentions the sword 吴钩 (Wu Gou), a curved sword symbolizing valor.",
     "Best_Answer1": "The sword mentioned by Wang Bo in The Preface to the Tengwang Pavilion is called Longquan Sword, also known as Longyuan Sword. It is one of the legendary sacred weapons in ancient China, and is said to have been made by Ou Yezi, the master swordsmith of the state of Wu during the Spring and Autumn Period. The name Longquan Sword comes from the fact that the materials used in its manufacture included iron ore from Longquan Mountain, hence the name. The sword is incredibly sharp and capable of cutting through a wide range of objects with ease, and is widely regarded as a symbol of ancient Chinese swordsmanship.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 184,
@@ -1816,7 +1816,7 @@
     "Question": "\"Don't be troubled by your heart, don't be trapped by your feelings. Do not fear the future, do not think of the past. In this way, I am at peace.\" Who said this?",
     "response": "This quote is attributed to the Buddhist monk Huineng, from the *Platform Sutra*.",
     "Best_Answer1": "This passage is from Feng Zikai's \"A Life Without Favors or Surprises\", the original text of which is as follows:",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 186,
@@ -1840,7 +1840,7 @@
     "Best_Answer2": "In 2004, Yu Hua's full-length novel Xu Sanguan's Story of Selling Blood won the Barnes & Noble New Discovery Book Award in the United States.",
     "Best_Answer3": "Yu Hua's novel Xu Sanguan's Story of Selling Blood won the Barnes & Noble New Discovery Book Award in 2004.",
     "Best_Answer4": "Yu Hua's novel Xu Sanguan's Story of Selling Blood won the Barnes & Noble New Discovery Book Award in the United States.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 189,
@@ -1867,7 +1867,7 @@
     "Best_Answer2": "In Journey to the West, the person known as the \"Ventilating Sage\" is the Macaque King. The Monkey King is one of the Seven Great Saints and is a brother to the Monkey King.",
     "Best_Answer3": "In Journey to the West, the one known as the \"Ventilated Sage\" is the Rhesus Monkey King.",
     "Best_Answer4": "It is the Kiwi Monkey King, who is also one of the Seven Great Saints.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 192,
@@ -1901,7 +1901,7 @@
     "Question": "How many teams were there initially in the Chinese First Division A League?",
     "response": "The Chinese First Division A League (now Super League) started with 12 teams in 1994.",
     "Best_Answer1": "There were eight teams in the first A-League in 1987, an experimental double round robin system with no relegation, featuring the top seven teams from the 1986 A-League and Liaoning, who were only the second team to play in the Club Asia Cup that year.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 196,
@@ -1915,7 +1915,7 @@
     "Question": "Who did Willy Zhang defeat to win his first UFC strawweight title?",
     "response": "Zhang Weili defeated Jessica Andrade to win the UFC strawweight title in 2019.",
     "Best_Answer1": "Jessica Andrade. Weili Zhang challenged then-strawweight champion Jessica Andrade at UFC Fight Night 157 (UFC Shenzhen) in Shenzhen, China and won the strawweight title with a first-round technical knockout.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 198,
@@ -2027,7 +2027,7 @@
     "Question": "What historical event took place against the backdrop of the Battle of Chentau Slope?",
     "response": "The Battle of Chentau Slope (104 BCE) occurred during the Han-Xiongnu War.",
     "Best_Answer1": "It took place in the historical context of the An Shi Rebellion. The Battle of Chentaozhi was a battle fought by the Tang army against the Yan army to recover the capital Chang'an during the An Shi Rebellion of the Tang Dynasty.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 214,
@@ -2069,7 +2069,7 @@
     "Question": "Who is Emperor Huai of Shu Han?",
     "response": "No Emperor Huai exists in Shu Han history; it may refer to Liu Shan, the second Shu emperor.",
     "Best_Answer1": "Liu Zen (207-271), known as Emperor Huai of Shu Han, was also known as the Later Lord, with the character Gong Si and the nickname Ah Dou. He was the last emperor of Shu Han during the Three Kingdoms period (reigned from 223 to 263). He was the son of Liu Bei, the Emperor Zhaolie of Han, who founded Shu Han, and his mother was Empress Gan of Zhaolie.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 221,
