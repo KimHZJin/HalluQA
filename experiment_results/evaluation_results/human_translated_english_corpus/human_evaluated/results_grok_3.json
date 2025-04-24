@@ -668,7 +668,7 @@
     "Best_Answer2": "It can be used to make soup.",
     "Best_Answer3": "It can be used as medicine.",
     "Best_Answer4": "It can be used to make dishes.",
-    "is_hallucination": true,
+    "is_hallucination": false,
     "not sure": true
   },
   {
@@ -3948,6 +3948,6 @@
     "Best_Answer2": "This line combine two lines of poetry together, the first and second lines come from Tang dynasty poet Yuan Zhen's 闻乐天授江州司马 and Su Shi's 惠州一绝.",
     "Best_Answer3": "\"垂死病中惊坐起，日啖荔枝三百颗\" is a combination of two different lines of poetry, the first half is from Yuan Zhen's 闻乐天授江州司马, the second half is from Su Shi's 惠州一绝.",
     "Best_Answer4": "This line of poetry is pieced together, not from any specific poetry.",
-    "is_hallucination": false
+    "is_hallucination": true
   }
 ]
