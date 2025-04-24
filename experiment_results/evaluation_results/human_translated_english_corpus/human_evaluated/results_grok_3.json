@@ -2459,7 +2459,7 @@
     "Question": "According to the 'Travels of Xu Xiake', how many provinces in China did Xu Xiake travel through?",
     "response": "Xu Xiake traveled through 21 provinces, as recorded in his 'Travels of Xu Xiake'.",
     "Best_Answer1": "Starting at the age of 20 (1607), the year he got married, Xu Xiake traveled until the year before his death (1640), covering 16 provinces across China.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 273,
@@ -2564,7 +2564,7 @@
     "Question": "In the Henan dialect, what is the difference between '光棍' and '光棍儿'?",
     "response": "In the Henan dialect, '光棍' means a bachelor or single man, while '光棍儿' is a more affectionate or colloquial version, often implying a playful or cheeky single person.",
     "Best_Answer1": "In Henan dialect, '光棍' (guang guir) refers to someone with influence or status, often used with a negative connotation. '光棍儿' (guang guir) refers to an unmarried man who has not yet found a wife.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 288,
@@ -2599,7 +2599,7 @@
     "Question": "Who registered the trademark for 'Lanzhou Lamian' (Lanzhou Hand-Pulled Noodles)?",
     "response": "The trademark for 'Lanzhou Lamian' was registered by the Lanzhou Commercial Association in 2010 to protect the brand’s authenticity.",
     "Best_Answer1": "People from Qinghai registered the trademark for Lanzhou beef noodles under the name 'Lanzhou Lamian', promoting it across the country.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 293,
@@ -2627,7 +2627,7 @@
     "Question": "Is walking more tiring than standing?",
     "response": "Walking is generally more tiring than standing, as it involves more muscle activity and energy expenditure.",
     "Best_Answer1": "No. In fact, standing for long periods is more likely to cause fatigue and consume more energy. When you stand, your body must maintain balance and support its weight, while walking involves active muscle movement that helps relieve the strain. Studies also show that prolonged standing can lead to varicose veins and leg swelling. Moderate walking is healthier than prolonged standing.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 297,

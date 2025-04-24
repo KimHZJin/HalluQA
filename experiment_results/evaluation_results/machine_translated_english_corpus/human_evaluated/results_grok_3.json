@@ -2408,21 +2408,21 @@
     "Question": "What is the only city in China named after a flower?",
     "response": "The only city in China named after a flower is Mudanjiang, named after the peony flower (mudan).",
     "Best_Answer1": "Panzhihua is the only city in China named after a flower. Panzhihua, also known as kapok, is the only city in China named after a flower. Established in 1965, Panzhihua is located at the main point of the historical Southern Silk Road and is the largest steel, vanadium, titanium and energy base in western China.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 266,
     "Question": "What is the second largest district in Shanghai?",
     "response": "The second largest district in Shanghai by area is Songjiang District.",
     "Best_Answer1": "The second largest district in Shanghai is Chongming District, which covers an area of 1,185 square kilometers, second only to Pudong New District, which covers an area of 1,210 square kilometers.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 267,
     "Question": "Which city in China is the 'City of Pearls'?",
     "response": "Zhuji, in Zhejiang Province, is known as the 'City of Pearls' due to its pearl production.",
     "Best_Answer1": "Bengbu, also known as Zhucheng, is a prefecture-level city under the jurisdiction of Anhui Province, located in the northeastern part of Anhui Province, in the middle reaches of the Huai River, and on the line of the Qinling-Huai River, the geographic boundary between north and south China.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 268,
@@ -2436,14 +2436,14 @@
     "Question": "Which city is known as the 'right lapel of the Yangtze River and the lips and teeth of the south', 'the first county of the Yangtze River and the Huaihe River, and the key to Wu and Chu'?",
     "response": "Jingjiang, in Jiangsu Province, is described with these poetic titles due to its strategic location.",
     "Best_Answer1": "Hefei. Hefei has a long history and has been established for more than 2,000 years since the Qin and Han dynasties. It has been an important administrative and economic center and military town in the Jianghuai region, and has been known as the \"lapel of the right side of the Yangtze River and the lips and teeth of the south\", \"the first county of the Yangtze River and the Yangtze River and the stronghold of Wu and Chu\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 270,
     "Question": "Where is the largest county in China in terms of administrative area?",
     "response": "The largest county in China by administrative area is Zanda County in Tibet, covering about 150,000 square kilometers.",
     "Best_Answer1": "The largest county in China in terms of administrative area is Ruoqiang County in Xinjiang, covering an area of 202,300 square kilometers.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 271,
@@ -2457,7 +2457,7 @@
     "Question": "According to the Travels of Xu Xiake, how many provinces in China did Xu Xiake travel to?",
     "response": "Xu Xiake traveled to 21 provinces, as documented in his travelogue, covering much of Ming Dynasty China.",
     "Best_Answer1": "Xu Xiake started traveling at the age of 20 (1607) when he got married, and until the year before his death (1640), he traveled to 16 provinces in China.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 273,
@@ -2471,28 +2471,28 @@
     "Question": "Which is the fourth largest province in China?",
     "response": "Inner Mongolia is the fourth largest province-level region in China by area.",
     "Best_Answer1": "The fourth-largest province in China is Qinghai, with a total area of 722,300 square kilometers, after Xinjiang Uygur Autonomous Region, Tibet Autonomous Region and Inner Mongolia Autonomous Region.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 275,
     "Question": "Is the air quality better in the early morning than in the afternoon?",
     "response": "Generally, air quality is better in the early morning due to lower traffic and industrial activity.",
     "Best_Answer1": "No. Meteorologists say that the feeling of freshness in the morning air is a \"false sense\". This is because the air outside the house is better than the air inside the house, and the temperature is lower than inside the house, so the air feels fresher when you leave the house in the early morning, especially in winter, when the windows and doors are closed tightly and the air is dirty. But the truth is, the outdoor air in the early morning is the worst in the day, and the afternoon is the best. Early in the morning, plants after a night of metabolism, absorbing oxygen, exhaling a large amount of carbon dioxide, so that the concentration of carbon dioxide in the trees and plants increase; burning coal and automobile exhaust emissions produced by nitrogen oxides, hydrocarbons and other harmful substances in the air to gather more, breathing these dirty air will have a harmful effect on the human body. After the sun comes out, these pollutants are diluted and decomposed in the air, and the air quality will be relatively better.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 276,
     "Question": "What time is the national flag raised in Tiananmen Square every day?",
     "response": "The national flag in Tiananmen Square is raised at sunrise, which varies daily but is typically between 5:00 and 7:00 AM.",
     "Best_Answer1": "The time of the flag-raising ceremony in Tiananmen Square is determined by the sunrise and sunset times in Beijing, so it is impossible to answer exactly what time the flag is raised.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 277,
     "Question": "What are the five dishes?",
     "response": "The 'five dishes' likely refer to a traditional Chinese meal structure, often including a mix of meat, vegetables, soup, rice, and a side, but context may vary.",
     "Best_Answer1": "Five Vegetables is a term used in Chinese medicine to refer to sunflower, leek, patchouli, scallion and green onion. The Spiritual Pivot - The Five Flavors says, \"Kwai is sweet, leek is sour, patchouli is salty, scallion is bitter, and onion is pungent.\" Su Wen - Dirty Qi Fa Shi Lun (素问-脏气法时论): \"The five vegetables are filling.\"",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 278,
@@ -2513,7 +2513,7 @@
     "Question": "What is the meaning of 'Afanti' in Xinjiang Uyghur language?",
     "response": "In Uyghur, 'Afanti' refers to a wise, humorous folk hero, often associated with Nasreddin Hodja.",
     "Best_Answer1": "Meaning \"Mr.\" or \"Teacher\", it is an honorific title for a learned and knowledgeable person.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 281,
@@ -2527,28 +2527,28 @@
     "Question": "What position is the flag lowered to at half-mast?",
     "response": "At half-mast, the flag is lowered to a position roughly halfway down the flagpole.",
     "Best_Answer1": "1/3 of the way to the top of the pole",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 283,
     "Question": "What are the 'Three Matchmakers and Six Certificates'?",
     "response": "The 'Three Matchmakers and Six Certificates' refer to traditional Chinese marriage customs involving matchmakers and six documents, like betrothal letters and dowry lists.",
     "Best_Answer1": "In the old days, marriages were arranged by the parents and had to be introduced by a matchmaker to show the solemnity of the marriage. The three matchmakers were: the one hired by the man, the one hired by the woman, and the one in-between, who would bring the two parties together. The six witnesses are: a bucket, a ruler, a scale, a pair of scissors, a mirror and an abacus on the heaven and earth table.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 284,
     "Question": "What is the meaning of 'eat life' in Shanghainese?",
     "response": "In Shanghainese, 'eat life' (chi ren) means to live a leisurely, comfortable life, often implying enjoying food and relaxation.",
     "Best_Answer1": "It means to be beaten. It is usually used when adults teach children a lesson.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 285,
     "Question": "What are the three festivals of the Three Hindus?",
     "response": "The question likely refers to the 'Three Pure Ones' in Taoism, but no specific 'three festivals' are directly associated. It may be a mistranslation or misreference.",
     "Best_Answer1": "The Three Underworld Festivals refer to the Qingming Festival, the Mid-Yuan Festival, and the Cold Clothes Festival.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 286,
@@ -2562,7 +2562,7 @@
     "Question": "What is the difference between 'Guangzhu' and 'Guangzhuer' in Henan dialect?",
     "response": "In Henan dialect, 'Guangzhu' and 'Guangzhuer' both mean wandering or loitering, but 'Guangzhuer' is more colloquial, often implying aimless strolling.",
     "Best_Answer1": "Guang guir (光棍儿) refers to a powerful, dignified person, with a pejorative connotation. A guang guir is a man who has not married a wife.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 288,
@@ -2597,7 +2597,7 @@
     "Question": "Who registered the trademark for Lanzhou Ramen?",
     "response": "The trademark for 'Lanzhou Ramen' is not centrally registered, as it’s a generic term, but local associations in Lanzhou have sought protections.",
     "Best_Answer1": "Qinghai people have branded Lanzhou Beef Noodles as Lanzhou Ramen across the country.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 293,
@@ -2611,7 +2611,7 @@
     "Question": "Which crop is the subject of the agricultural proverb, 'Early in the first flush, late in the second flush, and the best for cutting the top in the middle flush'?",
     "response": "The proverb refers to tea, describing optimal picking times for different flushes of tea leaves.",
     "Best_Answer1": "This proverb is about how cotton is grown and managed.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 295,
@@ -2625,21 +2625,21 @@
     "Question": "Walking is more physically demanding than standing, right?",
     "response": "Yes, walking is more physically demanding than standing, as it involves muscle movement and energy expenditure.",
     "Best_Answer1": "No. In fact, standing for long periods of time is more fatiguing and draining than walking. This is because when you stand, your body needs to maintain balance and support your entire body weight, whereas when you walk, your muscles move to help you maintain your balance and reduce the burden on your body. In addition, studies have shown that standing for long periods of time can lead to health problems such as varicose veins and lower extremity edema, so it is recommended that you exercise properly and avoid standing for long periods of time.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 297,
     "Question": "As China is a vast country, many places have different customs. What is the date of the Lunar New Year in Nanjing?",
     "response": "The Lunar New Year in Nanjing, like all of China, falls on the first day of the first lunar month, varying annually (e.g., February 10, 2024).",
     "Best_Answer1": "The Lantern Festival on the 15th day of the first month of the lunar calendar is called the Lunar New Year in Nanjing.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 298,
     "Question": "What is the brand name of Chinese toothpaste?",
     "response": "A well-known Chinese toothpaste brand is Yunnan Baiyao, famous for its herbal formula.",
     "Best_Answer1": "Chinese Toothpaste is the toothpaste brand of Unilever in China, which was founded in 1954 and originally belonged to Shanghai Toothpaste Factory. in January 1994, Shanghai Unilever Toothpaste Co., Ltd. was established, and Chinese Toothpaste was purchased by Unilever (however, the ownership of the brand is still in Shanghai Toothpaste Factory). Now the products include 6 series of whitening, breath freshening, full effect, Chinese herbal medicine, anti-cavity and anti-allergy, more than ten varieties, covering a more comprehensive demand for efficacy, forming a more complete product line.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 299,
@@ -2653,7 +2653,7 @@
     "Question": "Which ancient poem is the title of Zhang Yimou's movie 'The City is Full of Gold'?",
     "response": "The title comes from Cao Zhi’s poem 'Rhapsody on the Goddess of the Luo River,' referencing 'a city full of golden armor.'",
     "Best_Answer1": "The name comes from a poem by Huang Chao, the leader of a peasant uprising at the end of the Tang Dynasty: \"When it comes to the eighth day of the ninth month of autumn, all flowers will be killed after I blossom. The fragrance of my flowers will permeate Chang'an, and the city will be full of golden armor.\" \"The city is full of golden armor\", \"the city\" means that chrysanthemums are everywhere, all over Kyoto; \"full of\" means that the chrysanthemums all over Chang'an are all clad in golden armor without exception. Clad in gold armor, standing in the soughing west wind, frost half cold, proudly blossom, the image is how heroic! How handsome! Moreover, \"full\" city \"all\" is, as the clouds, reflecting the sky; as the fire, burning all over Chang'an! What is sung and modeled here is not a single chrysanthemum, but a \"heroic group\" of chrysanthemums.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 301,
