@@ -2805,14 +2805,14 @@
     "Question": "What are the 'six gods'?",
     "response": "The 'six gods' (liu shen) in Chinese idiom refer to a state of panic or disarray, as in 'six gods without a master' (liu shen wu zhu).",
     "Best_Answer1": "In Taoism, it refers to the spirits that rule over the human heart, lungs, liver, kidneys, spleen and gallbladder.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 321,
     "Question": "Where did the idiom of 'water falls on stone' first come from?",
     "response": "The idiom 'water falls on stone' (shui di shi chuan) comes from Song Dynasty poet Zhang Jun, symbolizing persistence wearing down obstacles.",
     "Best_Answer1": "\"Water falls and stones come out\" first comes from \"The Records of the Drunken Master's Pavilion\" written by Ouyang Xiu of the Song Dynasty: \"The four seasons of the mountains are the same as the four seasons of the mountains: the wild fragrance, the beautiful trees, the frost, and the high cleanliness of the winds and frosts, and the water falling and the stones coming out\". It refers to the fact that when the water falls, the stones under the water are revealed, which is a metaphor for the truth of the matter being fully revealed.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 322,

@@ -2814,7 +2814,7 @@
     "Question": "Where does the idiom 'when the water recedes, the rocks appear' (shui luo shi chu) originate from?",
     "response": "The idiom 'shui luo shi chu' comes from Su Shi’s poem, symbolizing hidden truths or realities being revealed when conditions change.",
     "Best_Answer1": "The idiom originates from Ouyang Xiu’s essay 'An Account of the Drunken Old Man’s Pavilion' from the Song Dynasty: 'Wild flowers bloom with subtle fragrance, fine trees flourish in deep shade, the weather turns crisp and clean, and when the water recedes, the rocks emerge—these are the four seasons in the mountains.' It means that when the water level drops, hidden rocks are revealed—symbolizing that the truth eventually comes to light.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 322,
