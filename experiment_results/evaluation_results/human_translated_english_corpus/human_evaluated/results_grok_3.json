@@ -2779,7 +2779,7 @@
     "Question": "Where does the term 'servant ox for children' (ru zi niu) originate from?",
     "response": "The term 'ru zi niu' originates from a story about Duke Mu of Qin, who described himself as a servant ox for the people, symbolizing selfless service.",
     "Best_Answer1": "It comes from 'Zuo Zhuan – Duke Ai, Year 6': 'Have you forgotten that the lord acted as a servant ox for his child and broke his teeth? Yet you turn your back on him!' The story describes how Duke Jing of Qi doted on his son Tu, once even letting him lead him around by a rope, mimicking a servant ox. Tu accidentally caused his father's teeth to break. After the duke’s death, his ministers tried to crown another heir, but Bao Mu reminded them of the duke’s love for Tu.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 317,
@@ -2793,7 +2793,7 @@
     "Question": "The original form of the proverb 'No cheating, no business; no cruelty, no man' was 'No peak, no business; no measure, no man'. What do 'peak' and 'measure' mean here?",
     "response": "In the original proverb, 'peak' refers to cunning or sharp business tactics, and 'measure' refers to calculated ruthlessness or decisiveness in actions.",
     "Best_Answer1": "Here, 'peak' refers to a measuring container called a 'dou'. For tax, merchants were allowed to fill the dou flat; for business, they had to heap it like a small peak to be honest and fair. 'Measure' refers to standard measurements. Without proper measures or honesty, a man is not worthy of trust. 'Measure' also implies tolerance and fairness.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 319,

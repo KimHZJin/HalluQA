@@ -2716,7 +2716,7 @@
     "question_id": 309,
     "response": "柳依兰",
     "Best_Answer1": "杨静怡。",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "Question": "电视剧《铁齿铜牙纪晓岚》的导演是谁？",

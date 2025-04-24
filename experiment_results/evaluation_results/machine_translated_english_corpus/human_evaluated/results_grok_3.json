@@ -2660,7 +2660,7 @@
     "Question": "What was the original name of the main character Fu Ming in 'I Love My Family'?",
     "response": "Fu Ming’s original name in 'I Love My Family' was Jia Zhiguo.",
     "Best_Answer1": "Fu Ming is the main character in I Love My Family. His original name was Jia Jingxian, and because of his underground work during the revolutionary period, his pseudonym, Fu Ming, has been used ever since.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 302,
@@ -2670,21 +2670,21 @@
     "Best_Answer2": "June 8.",
     "Best_Answer3": "Bruce Lee Day is June 8th.",
     "Best_Answer4": "6.8",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 303,
     "Question": "What movie is the phrase 'Translate what is a surprise' from?",
     "response": "The phrase is from 'The God of Cookery,' a Stephen Chow film, where a character humorously asks for a translation of 'surprise.'",
     "Best_Answer1": "\"Translate what it means to be surprised\" is a quote from the movie \"Let the Bullets Fly\".",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 304,
     "Question": "Who plays the role of Concubine Li in the Qing dynasty drama 'Legend of Concubine Zhen Huan' TV series?",
     "response": "Concubine Li is played by actress Zhang Tianyu in 'Legend of Concubine Zhen Huan.'",
     "Best_Answer1": "Played by Li Jiaxuan. Li Jiaxuan (李佳璇), born on October 3, 1977 in Hefei, Anhui Province, China, is a mainland Chinese actress and model, graduated from Shanghai Theatre Academy (上海戏剧学院) with a Bachelor's Degree in Acting.She made her acting debut in 1997 in the movie \"Hu Yang\" (胡杨), as a female lead; she appeared in her first TV drama series \"Wives' Club\" (老婆大人俱乐部)in 1998; and the film she starred in, \"Very Summer Day\" (非常夏日), won the Top Ten Films Award at the tenth Shanghai Film Critics Award; In 2006, she was nominated for the Best Actress Award at the Beijing University Film Festival for her film Rent; in 2008, she appeared in the TV drama Epic of a Woman; in 2010, she appeared in the TV drama Spring of Li Spring; in 2011, she gained more attention for her role as Concubine Li in the Qing dynasty drama Legend of Concubine Zhen Huan; and in 2013, she starred in the TV drama Neighborhood's Temptation.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 305,
@@ -2719,14 +2719,14 @@
     "Question": "Who was the actress who played Xiao Ming in the movie 'Guling Street Boys Murder'?",
     "response": "Xiao Ming in 'A Brighter Summer Day' (Guling Street Boys Murder) was played by Lisa Yang.",
     "Best_Answer1": "Yang Jingyi.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 310,
     "Question": "Who is the director of the TV series 'Iron Teeth'?",
     "response": "The TV series 'Iron Teeth' (likely referring to 'Iron Teeth Bronze Teeth Ji Xiaolan') was directed by Liu Jiacheng.",
     "Best_Answer1": "Zhang Guo Li is the lead actor and general director.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 311,
@@ -2740,7 +2740,7 @@
     "Question": "What was the first feature-length movie in China?",
     "response": "The first feature-length movie in China was 'Dingjun Mountain,' released in 1905.",
     "Best_Answer1": "Yan Ruisheng is China's first feature-length film, which has epoch-making significance in the history of Chinese cinema.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 313,
@@ -2750,7 +2750,7 @@
     "Best_Answer2": "\"Like sitting in the spring breeze\" is an idiom meaning like sitting in the middle of the spring breeze, which is a metaphor for getting along with and being nurtured by people of high moral character and knowledge.   This idiom comes from Zhu Xi's Yiluo Yuanyuan Lu (Record of the Origin of Yiluo), Volume 4 of the Song Dynasty: \"Zhu Gong Ixu met Mingdao in Ruzhou, and returned after a month. He said, 'Guangting sat in the spring breeze for a month.'\"",
     "Best_Answer3": "\"Sitting in the spring breeze\" is a metaphor for socializing with and being nurtured by people of high moral standing and knowledge. From Zhu Xi's Yiluo Yuanyuan Lu, Volume 4: \"Zhu Gong Ix saw Mingdao in Ruzhou, and returned after a month. He said, 'Guangting sat in the spring breeze for a month.'\"",
     "Best_Answer4": "\"Like sitting in the spring breeze\" is an idiom that originated from Zhu Xi's Yiluo Yuanyuan Lu of the Song Dynasty. It is used to describe the experience of living with and being inspired by people of high moral character and profound knowledge, as if sitting in the spring breeze.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 314,
@@ -2770,35 +2770,35 @@
     "Best_Answer2": "From Ming Bi Ziyan's \"Remission of Money and Food\": \"If the c supports the d grain, then the absconding of the d year is also a potential.\"",
     "Best_Answer3": "Ming Bi Ziyan (\"蠲钱粮疏\")：\"Cin支卯粮,then,卯年的逋,and the situation is the same. Later generations derived the idiom \"寅吃卯粮\" from this allusion.",
     "Best_Answer4": "The idiom of \"寅吃卯粮\" comes from the Ming Dynasty Bi Ziyan's \"Remitting Money and Food\". The idiom of \"Yin eats Duo Liang\" means that in the year of Yin, one eats the food of the following year of D. The idiom of \"Yin eats Duo Liang\" refers to the fact that the income is not enough to cover the expenditure, and one has to pay for the expenditure of the following year in advance.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 316,
     "Question": "Where does a child come from?",
     "response": "A child comes from the biological process of reproduction, where a sperm fertilizes an egg, leading to pregnancy and birth.",
     "Best_Answer1": "From \"Zuo Zhuan (左传-哀公六年)\"：\"\"You have forgotten that you are a child cow and have broken your teeth? You have forgotten that you were a child's ox and broke his teeth? The first is \"The Rude Ox\", which means \"The Rude Ox\" in Chinese. The idiom of \"a child's ox\" is an allusion recorded in Zuo Zhuan (左传-哀公六年》): Duke Jing of Qi had a concubine son named Tuan, whom Duke Jing of Qi loved very much. Once Qi Jinggong and Tuan were playing together, Qi Jinggong, as the king of a country, even held a rope in his mouth and let Tuan lead him. Unexpectedly, his son accidentally fell and broke Qi Jing Duke's teeth. Before his death, Duke Jing of Qi ordered Tuan to be the king of the country. After the death of Duke Jing, Chen Xizi wanted to install Duke Yangsheng. Bao Mu, a minister of Duke Jing of Qi, said to Chen Xizi, \"Have you forgotten that the ruler was a child cow and broke his teeth? And you are carrying it on your back!\" Therefore, the original meaning of \"a child's ox\" at that time was to express the parents' excessive love for their children.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 317,
     "Question": "Where does the idiom idiom for up and down come from?",
     "response": "The idiom 'shang xia' (up and down) originates from ancient Chinese texts, often describing hierarchy or thorough examination, as in 'The Analects.'",
     "Best_Answer1": "This idiom is from Tang Dynasty 周矩《为索元礼首按制狱疏》:\"\"Small satirical movements to explore their feelings, and those who are pushed will be up and down their hands, and hope for the holy decree.\". This idiom means, \"to collude in secret, to play tricks at will, to conspire to cheat.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 318,
     "Question": "What are the meanings of the words '尖' and '度' in the common saying '无奸不成商，无毒不丈夫' (No evil, no business, no poison, no husband)? May I know the meaning of the words '尖' and '度' here?",
     "response": "The saying doesn’t contain '尖' (sharp) or '度' (degree). It uses '奸' (cunning) and '毒' (ruthlessness), meaning cunning is needed for business and ruthlessness for manhood.",
     "Best_Answer1": "The word \"pointed\" in this sentence refers to the bucket used for measuring in ancient times. The word \"diao\" refers to a measure, a measure. For businessmen, when the government paid taxes, all they had to do was to fill the bucket flat to pay the taxes; however, when they did business, they needed to fill the bucket up to the fullest, in the shape of a pointed hill, before they could sell it to their customers, and they could be called businessmen only if they were truthful and honest, and had enough pounds and weight to pay their bills, which is why there is a saying that \"there is no businessman without a pointed bucket\". \"No degree is not a husband\" of \"degree\" refers to the scale, if in the sale of goods, did not reach the sale of the scale (standard), do not speak honestly, then can not be considered as a great man; \"degree\" is also It also stands for the measure, the businessman should have a big measure.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 319,
     "Question": "Who is the 'Swallow' in 'Fat and Thin'?",
     "response": "In Chekhov’s 'Fat and Thin,' 'Swallow' is not a character; the story involves two friends, one fat and one thin, meeting by chance.",
     "Best_Answer1": "The \"Yan\" here refers to Zhao Feiyan (赵飞燕). The Chinese idiom of \"ring-fat, swallow-thin\" comes from the Northern Song Dynasty (960-1279) by Su Shi (苏轼), who wrote a poem about Sun Xin Lao (孙莘老), \"The Poem of the Mo Miao Pavilion\". The idiom of \"ring fat and thin\" describes the beauty of beauties with different physiques, and is also a metaphor for the different styles of works of art, each with its own strengths. Its own structure is united, and it can be used as a definite article in a sentence with a positive meaning. Yang Yuhuan and Zhao Feiyan are both recognized as ancient beauties, but they are most different from each other: Yuhuan has a rich body, while Zhao Feiyan has a thin body. However, both Yang Yuhuan and Zhao Feiyan had charmed the monarchs for generations, so it is obvious that they had great charms.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 320,
