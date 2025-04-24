@@ -3066,7 +3066,7 @@
     "Question": "Which form of Chinese opera is known as the 'master of all Chinese operas'?",
     "response": "Peking Opera is known as the 'master of all Chinese operas' for its widespread influence and comprehensive performance style.",
     "Best_Answer1": "Kunqu Opera is known as the 'master of all Chinese operas'. It has a history of over 600 years and originated in the late Yuan and early Ming dynasties from the Kunshan tune.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 357,
@@ -3268,7 +3268,7 @@
     "Best_Answer2": "This question cannot be answered as posed. Li Kui never caused a scene at Mount Wutai. The event described as 'Li Kui causes a scene at Mount Wutai' is incorrect — it is a misattributed part of the novel.",
     "Best_Answer3": "'Causing a scene at Mount Wutai' is a plot in *Water Margin*, but the central figure is Lu Zhishen, not Li Kui.",
     "Best_Answer4": "In the classic Chinese novel *Water Margin*, there is no story in which Li Kui causes a scene at Mount Wutai. Li Kui is a major character known for his fierce loyalty and boldness, but he is not involved in this particular episode.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 385,

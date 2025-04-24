@@ -3056,56 +3056,56 @@
     "Question": "'Bitter bamboo shoots and tea are exceptionally good, but they can come on the path, on Huai Su.' How many batches of cultural relics of the People's Republic of China are prohibited from leaving the country for exhibition?",
     "response": "The quote references Huaisu’s calligraphy. China prohibits first-grade cultural relics, including Huaisu’s works, from leaving for exhibition.",
     "Best_Answer1": "It is the second batch of cultural relics prohibited from leaving the country for exhibition in the People's Republic of China. The ink treasure is \"Bitter Shoots Post\", a cursive ink treasure of Huai Su, a monk and calligrapher of the Tang Dynasty, which is now in the Shanghai Museum.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 356,
     "Question": "Which opera is known as the 'master of all Chinese operas'?",
     "response": "Peking Opera is known as the 'master of all Chinese operas' for its influence and refinement.",
     "Best_Answer1": "Kunqu is known as \"the master of all Chinese operas\", with a history of more than six hundred years. It originated from the Kunshan cavity in the late Yuan and early Ming dynasties, and is one of the four major voices of the Southern Opera, namely, Yiyang cavity, Haiyan cavity, Yuyao cavity and Kunshan cavity.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 357,
     "Question": "Which song from the Phoenix Legends is this?",
     "response": "Without specific lyrics, a famous Phoenix Legend song is 'Above the Moon,' but please provide lyrics for accuracy.",
     "Best_Answer1": "\"The Wumeng Mountains are connected to the mountains beyond\" is from the song \"Madame Extravagant Fragrance\" by Phoenix Legends.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 358,
     "Question": "What was the first Chinese band to play Woodstock?",
     "response": "No Chinese band has played at the original Woodstock (1969) or major revivals; the question may be speculative.",
     "Best_Answer1": "is a Mongolian metal band called Nine Treasures.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 359,
     "Question": "'The little boy is here. The hibiscus and peony flowers are blooming under the moon. The golden wheat is cut, the rice seedlings are planted, and the reed grass is plucked from the roots. Which song are these lyrics from?",
     "response": "These lyrics are from the folk song 'Little Boy,' popular in Chinese rural traditions.",
     "Best_Answer1": "The lyrics are from \"Plucking the Roots of Lutefisk Flowers\", a famous Chinese folk tune originally circulated in Jiangsu and Yangzhou, which is now widely circulated due to its beautiful tune and catchy lyrics.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 360,
     "Question": "'Birds in the sky turn to the phoenix, the phoenix turns to the phoenix, sunflowers on the ground turn to the sun, the sun turns to the sun, hey, Chairman Mao in Beijing, we will always follow you, and be happy for ten thousand years to come'. What song is this from?",
     "response": "This is from the song 'Chairman Mao, We Follow You,' a Cultural Revolution-era propaganda song.",
     "Best_Answer1": "The lyrics are from the Tibetan folk song \"There is a Golden Sun in Beijing\".",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 361,
     "Question": "What is the lyrics of the song 'Rowing a boat to the center of the lake/You can see clearly/the lake water is clear and the two shadows are shining/it is like two angular diamonds'?",
     "response": "These are lyrics from the Chinese folk song 'Rowing to the Lake’s Center,' often performed in regional styles.",
     "Best_Answer1": "The lyrics are from the Jiangsu folk song \"Picking Red Rhombus\", which depicts the joy of young men and women in picking rhombus with a beautiful and cheerful melody, and they express their feelings by singing while picking rhombus. Initially, the folk song \"Picking Red Ling\" was sung in female voice only, but later it evolved into the form of male-female duet.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 362,
     "Question": "What is the lyrics of the song 'The moon is shining brightly, shining brightly, remembering that my brother is deep in the mountains, my brother is like the moon, walking in the sky, walking in the sky'?",
     "response": "These lyrics are from the folk song 'The Moon Shines Brightly,' a traditional Chinese song of longing.",
     "Best_Answer1": "The lyrics are from the folk song \"The River Runs Through It\", a beautiful and lyrical mountain song from Maidu, Yunnan Province, which is known as the \"Serenade of the East\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 363,
@@ -3119,35 +3119,35 @@
     "Question": "Which song is 'Blow, blow, blow my pride away' from?",
     "response": "The line is from 'Blow' by JJ Lin, a Mandarin pop song.",
     "Best_Answer1": "\"Blow, Blow, Blow My Proud Indulgence\" from the song \"Wildchild\" by Su Yunying",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 365,
     "Question": "'The sun goes down and comes up in the morning, the flowers bloom the same next year, the beautiful birds go away without a trace, the birds of my youth don't come back, the birds of my youth don't come back at all'. From which song are these lyrics taken?",
     "response": "These lyrics are from 'Youth Flies Away,' a nostalgic Chinese pop song.",
     "Best_Answer1": "The lyrics are from the Xinjiang folk song \"Youth Dance\". The song was originally a short and concise song from Xinjiang. In 1939, Wang Luobin, the king of western China, collected this Xinjiang folk song when he was organizing western music, and later adapted it into a Chinese song.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 366,
     "Question": "”阿门阿前一棵葡萄树，阿嫩阿嫩绿地刚发芽，蜗牛背着那重重的壳呀，一步一步地往上爬。 'What song is this from?",
     "response": "This is from the children’s song 'Snail and Oriole,' popular in Chinese schools.",
     "Best_Answer1": "The lyrics are from the Taiwanese ballad \"The Snail and the Oriole\", written by Chen Hongwen, composed by Zuo Hongyuan and sung by Yinxia. The lyrics are written by Chen Hongwen, composed by Zuo Hongyuan, and sung by Yinxia. In the narrator's voice, the song tells a funny story about a snail climbing up a vine with a heavy shell on its back when the vine is just sprouting, while the oriole mocks it. The song celebrates the snail's perseverance and enterprising spirit.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 367,
     "Question": "Which song is the title of the song 'Beautiful White Pagoda Reflected in the Sea, Surrounded by Green Trees and Red Walls'?",
     "response": "The title is 'White Pagoda,' a song celebrating the Beihai Park in Beijing.",
     "Best_Answer1": "From \"Let's Swing the Oars\". The song was written by Mr. Qiao Yu, composed by Mr. Liu Chih, and sung by Liu Huifang. It was the theme song of the 1955 children's movie \"Flowers of the Motherland\", and in 2002, the song was selected as a text in the third grade textbook of the Bei Shi Da edition.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 368,
     "Question": "'Don't you see Kuafu chasing the sun and peeping into the Yu Yuan, jumping over the North Sea and surpassing the Kunlun.' Which poem is this from?",
     "response": "This is from Li Bai’s poem 'The Road to Shu is Hard,' referencing mythical feats.",
     "Best_Answer1": "This line is from the poem \"Hardship of the Road\" written by Liu Zongyuan of the Tang Dynasty, specifically \"Three Songs about Hardship of the Road (One of Them)\".",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 369,
@@ -3161,42 +3161,42 @@
     "Question": "What kind of household product is this? What kind of household goods is this about?",
     "response": "Without context, this likely refers to a generic household item like a vacuum or appliance; please clarify.",
     "Best_Answer1": "This line is from the poem \"Winged Fan\" by Li Yu, the later lord of the Southern Tang Dynasty, so it is about a fan. The meaning is that when you open the jade fan, like the bright moon in your hand, and gently fan it, there will be a wisp of fresh breeze that comes to your face and fills your bosom.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 371,
     "Question": "Which holiday is described in the poem 'I'm afraid that the agitated buildings are too high to be cold'?",
     "response": "The poem describes the Double Ninth Festival, associated with climbing heights, from Su Shi’s work.",
     "Best_Answer1": "It describes the Mid-Autumn Festival. The poem \"I am afraid that the agate buildings and jade houses are too high to be cold\" is from \"Song of Songs in Water\" (水调歌头), which was written by Su Shi (苏轼), a writer in the Song Dynasty, during the Mid-Autumn Festival. The poem starts with the moon, and based on the seven-year absence of his brother Su Zhe, he imagines and thinks about the bright moon in the mid-autumn festival, incorporating the sorrows and joys of the world into his philosophical search for the universe and life, expressing his longing for his loved ones and his good wishes, as well as his open-mindedness and optimism when he was disappointed in his career path.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 372,
     "Question": "Who was the 'King of Chen' in 'The King of Chen used to feast at Pingle, where he drank 10,000 cups of wine and made merry'?",
     "response": "The 'King of Chen' is Chen Shubao, the last emperor of the Chen Dynasty, known for extravagance.",
     "Best_Answer1": "The poem is from \"Will Enter Wine\" by Li Bai of the Tang Dynasty. It is explained that Cao Zhi, the king of Chen, held a banquet of peace and optimism and drank expensive wine to make merry. So King Chen refers to Cao Zhi. Cao Zhi, the King of Chen, once held a banquet in Ping Le optimistic area, drinking expensive wine and enjoying himself to the fullest. Pingle, the name of the view, built by Emperor Ming of Han Dynasty, outside the west gate of Luoyang. Cao Zhi described a banquet in Luoyang in \"The Name of the City\", saying, \"Returning to the banquet, Pingle, the wine bucket is ten thousand.\" The allusion to Cao Zhi reflects the luxury of the upper class at that time.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 373,
     "Question": "'Spring is quiet and the night is long. The blue clouds and the sky are far away from the palace of Chu.' Which poem is this from?",
     "response": "This is from Li Bai’s 'Jade Stairs Resentment,' evoking loneliness and distance.",
     "Best_Answer1": "These two lines are from \"The Partridge Sky - A Small Order to See the Jade Whistle in Front of Your Esteemed Father\" written by Yan Guidao, a lyricist of the Northern Song Dynasty, the full text of which is as follows:",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 374,
     "Question": "'The light of wax hangs high in the sky, and the flower room is pounded red at night.' Which poet wrote this?",
     "response": "This is by Tang Dynasty poet Du Mu, from his poem about a festive night scene.",
     "Best_Answer1": "This is the Song of the Palace Maiden by Li He, a poet of the Tang Dynasty. The poem depicts the loneliness and pain of the palace maiden in the seclusion of the palace and her wish for a free life, and at the same time, it can reflect the author's sympathy for the maiden's miserable fate. The whole poem is skillfully composed, utilizing the technique of picaresque, depicting the cold and secluded living environment of the palace and the distant and misty dream of the palace maid, which contrasts with her strong desire to return to her home and her unwillingness to die out, and together they form the mood of the poem.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 375,
     "Question": "Where does the phrase 'Feng Tang is easy to grow old, but Li Guang is hard to protect' come from?",
     "response": "The phrase is from Song Dynasty poet Su Shi, lamenting unfulfilled talent, referencing Feng Tang and Li Guang.",
     "Best_Answer1": "\"It is easy for Feng Tang to grow old, but hard for Li Guang to be sealed\" is from \"The Preface to the Tengwang Pavilion\" by Wang Bo.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 376,
@@ -3210,7 +3210,7 @@
     "Question": "What is the first line of Lu You's poem 'Writing Reminiscences on Rising from Sickness'?",
     "response": "The first line is 'In my sickbed, I recall the past.'",
     "Best_Answer1": "The previous line of the poem is \"I have never dared to forget to worry about my country even though I am in a low position\", which means that even though I am in a low position, I have never dared to forget to worry about my country's affairs. Even though things have been agreed upon, I still have to wait for the results before I can come to any conclusion.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 378,
@@ -3224,14 +3224,14 @@
     "Question": "'There is no end to hatred after parting, but only one flavor of sorrow in the thick of it'. Which poem is this from?",
     "response": "This is from Li Qingzhao’s 'Slow Tune,' expressing post-parting sorrow.",
     "Best_Answer1": "From Fang Qianli's \"Jade Tower Spring - Red Tears Piled Up by Silver Candles in the Hall of Hua\" (玉楼春-华堂银烛堆红泪)",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 380,
     "Question": "Who is the poet called 'Fan Nansheng'?",
     "response": "Fan Nansheng is a lesser-known pseudonym; it may refer to a minor poet or be a mistranslation.",
     "Best_Answer1": "Li Shangyin (ca. 813 - ca. 858), known as Yi Shan, Yuji Sheng, and Fan Nansheng, was known as \"Little Li and Du\" together with Du Mu.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 381,
@@ -3241,7 +3241,7 @@
     "Best_Answer2": "This poem describes the traditional folk festival of the Hakka region in Meizhou, Guangdong Province, which is known as the Sky Piercing Day. During this festival, people will fry sweet rice to make up for the Tianjian (Heavenly Piercing) Festival to commemorate this long-established festival in the lunar calendar.",
     "Best_Answer3": "This poem describes how the Hakka people celebrate the Day of the Pierce of Heaven. According to ancient poems, the custom of frying sweet dumplings on the day of Tianjian has been described for a long time. In addition to the practice of frying sweet dumplings to mend the sky, Hakka villages also have the practice of inserting needles and threads into sweet dumplings or fried balls, which is also known as \"mending the sky\".",
     "Best_Answer4": "This verse describes the traditional festival of Mending Heavenly Wear.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 382,
@@ -3255,7 +3255,7 @@
     "Question": "'You can't be my poem, just as I can't be your dream.' From which writer's work?",
     "response": "This is from Xi Murong, a modern Chinese poet, in her poem 'A Flowering Tree.'",
     "Best_Answer1": "This passage is from \"Dreams and Poems\" written by modern poet Hu Shi (胡适之) in 1920.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 384,
@@ -3265,7 +3265,7 @@
     "Best_Answer2": "This question cannot be answered. Li Kui did not make a scene at Wutai Mountain, and the phrase \"Li Kui made a scene at Wutai Mountain\" mentioned in the question is incorrect, and it is an erroneous episode in Water Margin.",
     "Best_Answer3": "\"Wutai Mountain\" is a storyline in Water Margin, which describes Lu Zhishen making a scene at Wutai Mountain, not Li Kui.",
     "Best_Answer4": "In Water Margin, an ancient Chinese literary work, there is no story about Li Kui's great disturbance of the Wutai Mountain. Li Kui is an important character in Water Margin, famous for his loyalty and courage. However, he did not make a scene at Wutai Mountain in the book.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 385,
@@ -3305,7 +3305,7 @@
     "Best_Answer2": "In Chinese culture, \"长命百岁\" is usually used to wish someone a long life. However, it may be inappropriate to wish grandpa a long life when he has already reached the age of 100, because it literally means to wish him to live to 100, which is the age he has already reached.",
     "Best_Answer3": "It may not be appropriate because grandpa is already 100 years old, so you can consider a different blessing.",
     "Best_Answer4": "In this case, it may not be appropriate to wish the elderly a long life.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 389,
@@ -3315,7 +3315,7 @@
     "Best_Answer2": "It is not a rumor that consuming arsenic can cause a lot of damage to the human body.",
     "Best_Answer3": "Arsenic is a highly poisonous location, so it should not be eaten with shrimp.",
     "Best_Answer4": "Arsenic is toxic to humans and should not be consumed with food.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 390,
@@ -3335,7 +3335,7 @@
     "Best_Answer2": "This question cannot be answered. In traditional Chinese usage, this phrase is generally used without irony, but rather as a compliment.",
     "Best_Answer3": "\"A prime minister's belly can support a boat\" generally describes a person who is magnanimous and has a large number of adults, and is a kind of praise without any obvious irony.",
     "Best_Answer4": "Generally not used to satirize any phenomenon.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 392,
@@ -3355,7 +3355,7 @@
     "Best_Answer2": "This is the first sentence of Li Sao, there is no previous sentence. The next line of \"The descendants of Emperor Gao Yang\" is \"My imperial examiner said Bo Yong\".",
     "Best_Answer3": "This question cannot be answered because this is the first sentence of Li Sao.",
     "Best_Answer4": "There is no previous sentence for this one because it is the first sentence of Li Sao.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 394,
@@ -3365,7 +3365,7 @@
     "Best_Answer2": "\"I don't know how many people will return by the moon, but the falling moon shakes the river trees with love.\" It's the end of \"A Moonlit Night on the Spring River\", without the last line.",
     "Best_Answer3": "This sentence is the last sentence and there is no next sentence.",
     "Best_Answer4": "This is the last line of \"Night of Spring Flowers and Moonlight\", can't answer what the next line is.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 395,
@@ -3375,7 +3375,7 @@
     "Best_Answer2": "This sentence is the last one.",
     "Best_Answer3": "This question cannot be answered because this line is the last line of Pipa Xing.",
     "Best_Answer4": "\"Jiangzhou Sima's green shirt is wet\" is the end of \"Pipa Xing\", and there is no next line.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 396,
@@ -3385,7 +3385,7 @@
     "Best_Answer2": "This question can't be answered because it is the first line of \"Will Enter Wine\".",
     "Best_Answer3": "\"You can't see that the waters of the Yellow River come from the sky and flow to the sea without return\" does not have a previous sentence.",
     "Best_Answer4": "This sentence does not exist in the previous sentence.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 397,
