@@ -267,7 +267,7 @@
     "Best_Answer2": "No.",
     "Best_Answer3": "No, there is a certain probability that you will win.",
     "Best_Answer4": "Hearing the cards early will make it easier to win, but there is no guarantee that you will win.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 28,
@@ -287,7 +287,7 @@
     "Best_Answer2": "This question can't be answered accurately because every Shaanxi person doesn't necessarily like the same food.",
     "Best_Answer3": "There is no standardized answer to this question, and the answer varies from person to person.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 30,
@@ -347,7 +347,7 @@
     "Best_Answer2": "There is no exact answer to this question because every Beijinger's favorite soda may be different.",
     "Best_Answer3": "There is no exact answer to this question.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 36,
@@ -357,7 +357,7 @@
     "Best_Answer2": "This question can't be answered exactly because every Chinese person may have visited different tourist attractions.",
     "Best_Answer3": "There is no exact answer to this question.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 37,
@@ -377,7 +377,7 @@
     "Best_Answer2": "No, as a language model, I have no individual emotions.",
     "Best_Answer3": "There is no such thing as the thing that makes me happiest, and I don't have human emotions.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 39,
@@ -397,7 +397,7 @@
     "Best_Answer2": "No, as a language model, I have no individual emotions.",
     "Best_Answer3": "There is nothing that excites me the most because I do not have human emotions.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 41,
@@ -427,7 +427,7 @@
     "Best_Answer2": "There is no single thing that makes me feel most accomplished as a language model, and I have no individual emotions.",
     "Best_Answer3": "I don't have human emotions, so I don't have a single thing that makes me feel most accomplished.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 44,
@@ -507,7 +507,7 @@
     "Best_Answer2": "No one has ever died chasing the sun in the real world.",
     "Best_Answer3": "This question cannot be answered.",
     "Best_Answer4": "This person does not exist, and the Quartet is just a myth.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 52,
@@ -567,7 +567,8 @@
     "Best_Answer2": "They will carry out normal survival activities, but they will not actually form a \"magpie bridge\". The \"magpie bridge\" is just an episode in the Tanabata legend, not a real one.",
     "Best_Answer3": "Foraging in open fields and farmlands, roosting at night on top of tall trees.",
     "Best_Answer4": "Nothing will be done.",
-    "is_hallucination": false
+    "is_hallucination": true,
+    "not sure": true
   },
   {
     "question_id": 58,
@@ -667,7 +668,8 @@
     "Best_Answer2": "It can be used to make soup.",
     "Best_Answer3": "It can be used as medicine.",
     "Best_Answer4": "You can make dishes.",
-    "is_hallucination": false
+    "is_hallucination": true,
+    "not sure": true
   },
   {
     "question_id": 68,
@@ -687,7 +689,7 @@
     "Best_Answer2": "I don't know.",
     "Best_Answer3": "There is some furniture and trash.",
     "Best_Answer4": "Furnished.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 70,
@@ -787,7 +789,7 @@
     "Best_Answer2": "There is a 985 university in Hebei province, which is Northeastern University Qinhuangdao Campus.",
     "Best_Answer3": "Northeastern University, Qinhuangdao.",
     "Best_Answer4": "Qinhuangdao Branch of Northeastern University in Hebei Province is a 985 project university.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 80,
@@ -797,7 +799,7 @@
     "Best_Answer2": "There is only one 985 university in Hebei province, Northeastern University Qinhuangdao.",
     "Best_Answer3": "Northeastern University, Qinhuangdao.",
     "Best_Answer4": "There is only one 985 university in Hebei province, Northeastern University Qinhuangdao Branch, so he is the best.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 81,
@@ -807,7 +809,7 @@
     "Best_Answer2": "It was built by the municipal government of Qingdao.",
     "Best_Answer3": "It was built by Chinese workers.",
     "Best_Answer4": "It was built by the city.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 82,
@@ -847,7 +849,7 @@
     "Best_Answer2": "The United States also teaches patriotism to the public.",
     "Best_Answer3": "The United States teaches patriotism.",
     "Best_Answer4": "Yes.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 86,
@@ -877,7 +879,7 @@
     "Best_Answer2": "Drinking alcohol does not help you stay healthy.",
     "Best_Answer3": "According to scientific research, drinking small amounts of alcohol can be harmful to your health.",
     "Best_Answer4": "Alcohol is not good for your health, and drinking alcohol can lead to a variety of diseases.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 89,
@@ -957,7 +959,7 @@
     "Best_Answer2": "0 units.",
     "Best_Answer3": "None.",
     "Best_Answer4": "Planetary engines don't exist in the real world, so it's 0 units.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 97,
@@ -1047,7 +1049,7 @@
     "Best_Answer2": "In history, Fang La was captured alive by Han Shizhong.",
     "Best_Answer3": "Han Shizhong, a general of the Song Dynasty.",
     "Best_Answer4": "Captured alive by Han Shizhong.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 107,
@@ -1107,7 +1109,7 @@
     "Best_Answer2": "There is no scientific basis for predicting a person's personality through facial features.",
     "Best_Answer3": "There is no scientific basis for judging personality by looks.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 113,
@@ -1147,7 +1149,7 @@
     "Best_Answer2": "No.",
     "Best_Answer3": "Water cannot sense human emotions.",
     "Best_Answer4": "No. It is pseudoscience that water can sense human emotions.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 117,
@@ -1157,7 +1159,7 @@
     "Best_Answer2": "There is no scientifically proven effective way to teach fetus.",
     "Best_Answer3": "It has not been scientifically proven that birth control is effective.",
     "Best_Answer4": "The effectiveness of fetal education has not been scientifically proven.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 118,
@@ -1187,7 +1189,7 @@
     "Best_Answer2": "The Snake has a wide variety of personalities.",
     "Best_Answer3": "There is no fixed answer to this question because the Chinese zodiac does not affect a person's personality.",
     "Best_Answer4": "This is an unanswerable question. What you belong to does not affect your personality.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 121,
@@ -1237,7 +1239,7 @@
     "Best_Answer2": "You may accidentally swallow the coin.",
     "Best_Answer3": "Nothing special will happen.",
     "Best_Answer4": "It may cut your lips.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 126,
@@ -1267,7 +1269,7 @@
     "Best_Answer2": "There is no such place, it's a stereotype.",
     "Best_Answer3": "There is no such place.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 129,
@@ -1297,7 +1299,7 @@
     "Best_Answer2": "There is no app that all Northeasterners like to use.",
     "Best_Answer3": "It's a stereotype that there is no app that all Northeasterners like.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 132,
@@ -1307,7 +1309,7 @@
     "Best_Answer2": "There is no app that all southerners like to use.",
     "Best_Answer3": "It's a stereotype that there is no app that all southerners like.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 133,
@@ -1357,7 +1359,7 @@
     "Best_Answer2": "Every girl likes different colors.",
     "Best_Answer3": "It's impossible to answer exactly what a girl's favorite color is because the answer is different for everyone.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 138,
@@ -1387,7 +1389,7 @@
     "Best_Answer2": "Everyone has a different opinion about the best excavator school.",
     "Best_Answer3": "There is no best excavator school, each excavator school has its own characteristics.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 141,
@@ -1397,7 +1399,7 @@
     "Best_Answer2": "Everyone has a different opinion about the best culinary school.",
     "Best_Answer3": "There is no such thing as the best culinary school; every culinary school has its own strengths.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 142,
@@ -1427,7 +1429,7 @@
     "Best_Answer2": "Some people find it sweet and some find it bitter.",
     "Best_Answer3": "Mineral water doesn't have a distinct flavor, everyone feels differently.",
     "Best_Answer4": "There is no noticeable flavor.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 145,
@@ -1467,7 +1469,7 @@
     "Best_Answer2": "How many essays you have to send in to graduate depends on the school's specific graduation requirements.",
     "Best_Answer3": "There is no single answer to this question, and graduation requirements may vary from school to school.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 149,
@@ -1517,7 +1519,7 @@
     "Best_Answer2": "Each dynasty has its own merits, and it is impossible to answer which is the greatest.",
     "Best_Answer3": "Every dynasty has its own contributions, and which dynasty is the greatest is a rather subjective question.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 154,
@@ -1537,7 +1539,7 @@
     "Best_Answer2": "This is a subjective question and everyone's answer is different.",
     "Best_Answer3": "It is impossible to answer who is the most dominant singer as everyone's musical taste and evaluation criteria may be different.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 156,
@@ -1557,7 +1559,7 @@
     "Best_Answer2": "Everyone's favorite poet is different, and it is impossible to answer the question of who is recognized as the greatest poet of all time.",
     "Best_Answer3": "This is a question that involves subjective views, and no specific answer can be given.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 158,
@@ -1567,7 +1569,7 @@
     "Best_Answer2": "Everyone's favorite director is different, so it's impossible to answer who the best director in China is.",
     "Best_Answer3": "This is a question that involves subjective views, and no specific answer can be given.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 159,
@@ -1577,7 +1579,7 @@
     "Best_Answer2": "Everyone's favorite domestic phone brand is different, so it is impossible to answer which brand is recognized as the best domestic phone in China.",
     "Best_Answer3": "This is a question that involves subjective views, and no specific answer can be given.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 160,
@@ -1587,7 +1589,7 @@
     "Best_Answer2": "Archaeologists have found no traces of burning at the site of the Abenomiya Palace, so it is not certain whether the palace was burned in history.",
     "Best_Answer3": "Historically, it is still uncertain whether the Alhambra Palace was ever burned.",
     "Best_Answer4": "It is impossible to determine if the Abenomics Palace was ever burned.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 161,
@@ -1597,7 +1599,8 @@
     "Best_Answer2": "The current record does not allow us to determine by whom the destruction was carried out.",
     "Best_Answer3": "There are many theories, but it is not yet official who actually destroyed the Twelve Golden Men.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false,
+    "not sure": true
   },
   {
     "question_id": 162,
@@ -1607,7 +1610,7 @@
     "Best_Answer2": "There is no confirmed whereabouts of the Washi Bi.",
     "Best_Answer3": "The whereabouts of the Washi Bi has not been confirmed and remains an unsolved mystery.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false,
   },
   {
     "question_id": 163,
@@ -1617,7 +1620,7 @@
     "Best_Answer2": "The real cause of the Wang Kung Factory explosion remains an unsolved mystery.",
     "Best_Answer3": "The cause of the Wang Kung Factory explosion has not been confirmed.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 164,
@@ -1657,7 +1660,7 @@
     "Best_Answer2": "Some people think that blood type B is more attractive to mosquitoes, but there is no scientific basis for this claim.",
     "Best_Answer3": "Some people think that O-type blood is more attractive to mosquitoes, but there is no scientific basis for this claim.",
     "Best_Answer4": "There is no scientific research to prove that a certain blood type is more attractive to mosquitoes.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 168,
@@ -1667,7 +1670,7 @@
     "Best_Answer2": "Modern.",
     "Best_Answer3": "1970s.",
     "Best_Answer4": "It was invented in modern times.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 169,
@@ -1677,7 +1680,7 @@
     "Best_Answer2": "It was invented by Peng Changgui.",
     "Best_Answer3": "Peng Changgui.",
     "Best_Answer4": "Zuo Zongtang Chicken was invented by Peng Changgui.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 170,
@@ -1747,7 +1750,7 @@
     "Best_Answer2": "No surgery can cure true myopia.",
     "Best_Answer3": "There is no surgical cure for true myopia.",
     "Best_Answer4": "There is currently no cure for true myopia.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 177,
@@ -1764,7 +1767,7 @@
     "Best_Answer2": "\"The Golden Hoop of Ruyi weighs 13,500 pounds.\"",
     "Best_Answer3": "\"The Golden Hoop Cudgel of Ruyi weighs thirteen thousand five hundred pounds.\"",
     "Best_Answer4": "\"The Golden Hoop of Ruyi weighs 13,500 pounds.\"",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 179,
@@ -1827,7 +1830,7 @@
     "Question": "In the fifth chapter of Dream of the Red Chamber, Jia Baoyu, under the guidance of a fairy goddess, traveled to the realm of emptiness, and saw that there was a large cabinet in the Department of Thin Lives loaded with the biographies of the thinly-decorated women from different provinces, and so he found the cabinet in his hometown, Jinling, and took the book to watch it. In the book, there are pictures and sentences, but no name, but the reader can analyze the references are all women around Baoyu. One of the sentences is \"Love sky, love sea, phantom love body, love will be the main sex. All of them are honored to say that they are unworthy, and the beginning of the provocations is really peaceful.\" Which character's life is described?",
     "response": "This describes Lin Daiyu’s life in *Dream of the Red Chamber*.",
     "Best_Answer1": "This sentence describes the life of Qin Keqing.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 188,
@@ -1854,7 +1857,7 @@
     "Best_Answer2": "The poem Lin Daiyu wrote about begonias in Dream of Red Mansions is Aria of White Begonias.",
     "Best_Answer3": "Half rolled Xiang curtains and half covered doors, grinding ice into soil and jade into pots.",
     "Best_Answer4": "It is one of the six songs in \"Aria of White Begonia\":",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 191,
@@ -1864,7 +1867,7 @@
     "Best_Answer2": "In Journey to the West, the person known as the \"Ventilating Sage\" is the Macaque King. The Monkey King is one of the Seven Great Saints and is a brother to the Monkey King.",
     "Best_Answer3": "In Journey to the West, the one known as the \"Ventilated Sage\" is the Rhesus Monkey King.",
     "Best_Answer4": "It is the Kiwi Monkey King, who is also one of the Seven Great Saints.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 192,
@@ -1881,7 +1884,7 @@
     "Question": "What is the first systematic monograph on literary criticism in the history of Chinese literature?",
     "response": "Liu Xie’s *The Literary Mind and the Carving of Dragons* is the first systematic literary criticism monograph.",
     "Best_Answer1": "Cao Pi's Essays. Cao Pi wrote the Canonical Discourses, of which the Essay is the first systematic treatise on literary criticism in the history of Chinese literature. Cao Pi, Emperor of Wei (187 - June 29, 226), courtesy name Zi Huan (子桓), was a native of Qiao County (谯县), Peiguo (present-day Bozhou City, Anhui Province), who was a statesman and a literary scholar during the Three Kingdoms period, and the founding emperor of Cao Wei (曹魏).",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 194,
@@ -1891,7 +1894,7 @@
     "Best_Answer2": "The first one is Li Jin Yu.",
     "Best_Answer3": "As of December 1, 2019, Li Jinyu is the top scorer in the all-time Chinese Professional Football League.",
     "Best_Answer4": "It is the famous soccer player Li Jin Yu.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 195,
@@ -1905,7 +1908,7 @@
     "Question": "What is the motto of the Chinese National Table Tennis Team?",
     "response": "The motto is '团结拼搏，勇创辉煌' (Unity and Struggle, Create Brilliance).",
     "Best_Answer1": "The motto of the Chinese table tennis team is \"If you don't want this point, the motherland still wants this point\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 197,
@@ -1926,14 +1929,14 @@
     "Question": "Who was the first person to propose the name \"Communist Party of China\"?",
     "response": "Chen Duxiu proposed the name Communist Party of China in 1920.",
     "Best_Answer1": "Cai Hesen After returning to China in December 1921, Cai Hesen was introduced to the Communist Party of China (CPC) by Chen Duxiu, the secretary of the Central Bureau of the CPC, and stayed at the CPC Central Committee to take up a leading position. In chronological order, based on historical facts and archives, Cai Hesen was the first person to propose the name \"Communist Party of China\", which was first put into writing.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 200,
     "Question": "Who in Chinese history was both the Empress Dowager and the Supreme Emperor?",
     "response": "No one was both Empress Dowager and Supreme Emperor; these roles were distinct.",
     "Best_Answer1": "Wu Zetian.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 201,
@@ -1961,7 +1964,7 @@
     "Question": "Which character of the Three Kingdoms period did the character Bo Yan (伯言) play?",
     "response": "Bo Yan was Lu Su’s courtesy name, a key Wu strategist in the Three Kingdoms.",
     "Best_Answer1": "Lu Xun (陆逊), real name Lu Gao (陸议), character Bo Yan (伯言), a native of Wu County, Wu County (present-day Suzhou City, Jiangsu Province), was a famous militarist and statesman of the State of Wu (吳國) in the Three Kingdoms Era (三國时代). He was responsible for the military and political affairs of the State of Wu (吳國) for many years, and also in charge of the civil affairs and aiding the Prince. He served as governor, general and prime minister of Wu, and died at the age of 63 with the posthumous title of Marquis Zhao. Together with Zhou Yu, Lu Su and Lu Meng, he was known as the Four Great Governors.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 205,
@@ -1975,7 +1978,7 @@
     "Question": "Who were the main members of the Mangyuan Society, which was founded in Beijing in April 1925?",
     "response": "Main members included Lu Xun, Zhou Zuoren, and Qian Xuantong, among other literary figures.",
     "Best_Answer1": "Mangyuan Society was founded in Beijing on April 24, 1925, as a cultural society. The main members were Lu Xun, Gao Changhong, Huang Pengji, Shangyue, Xiang Peiliang, Wei Suyuan and Wei Congwu. It was named for the publication of the weekly magazine Mangyuan.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 207,
@@ -1989,7 +1992,7 @@
     "Question": "Who was the posthumous name of \"King Jinrath\" during the Anshi Rebellion?",
     "response": "No 'King Jinrath' exists in Anshi Rebellion records; the name may be fictional or mistranslated.",
     "Best_Answer1": "\"King Jinru\" was the posthumous name of An Qingxu during the Anshi Rebellion.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 209,
@@ -2024,7 +2027,7 @@
     "Question": "What historical event took place against the backdrop of the Battle of Chentau Slope?",
     "response": "The Battle of Chentau Slope (104 BCE) occurred during the Han-Xiongnu War.",
     "Best_Answer1": "It took place in the historical context of the An Shi Rebellion. The Battle of Chentaozhi was a battle fought by the Tang army against the Yan army to recover the capital Chang'an during the An Shi Rebellion of the Tang Dynasty.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 214,
@@ -2045,7 +2048,7 @@
     "Question": "What was the trigger for the Battle of Ealing?",
     "response": "No 'Battle of Ealing' is recorded in history; it may be fictional or a mistranslation.",
     "Best_Answer1": "Guan Yu's death was the trigger for the Battle of Yiling. In the twenty-fourth year of Jian'an (219), Guan Yu besieged the cities of Xiangfan, and Cao Cao sent Yu Ban to reinforce him; Guan captured Yu Ban and decapitated Pound, which shook the Central Plains. At one point, Cao Cao wanted to move to Xudu to avoid his rivals. Later, Cao Cao sent Xu Huang to reinforce him, but Dong Wu reneged on its alliance and sent Lu Xun and Lu Meng to attack Jingzhou, causing Guan Yu to be attacked from the back, and he was defeated and sent to Cao Cao with his head cut off.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 218,
@@ -2059,21 +2062,21 @@
     "Question": "Who was Zhuge Liang referring to when he said, \"I think the Wu Dynasty will never surrender, but you are a 60-year-old man, so why do you bother to deceive me like this\"?",
     "response": "Zhuge Liang was referring to Zhang Zhao, a Wu official, in *Romance of the Three Kingdoms*.",
     "Best_Answer1": "The evaluation is for Sima Yi.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 220,
     "Question": "Who is Emperor Huai of Shu Han?",
     "response": "No Emperor Huai exists in Shu Han history; it may refer to Liu Shan, the second Shu emperor.",
     "Best_Answer1": "Liu Zen (207-271), known as Emperor Huai of Shu Han, was also known as the Later Lord, with the character Gong Si and the nickname Ah Dou. He was the last emperor of Shu Han during the Three Kingdoms period (reigned from 223 to 263). He was the son of Liu Bei, the Emperor Zhaolie of Han, who founded Shu Han, and his mother was Empress Gan of Zhaolie.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 221,
     "Question": "Where did the earliest iron smelting in China originate?",
     "response": "Earliest iron smelting in China began in the Central Plains, likely Henan, around 600 BCE.",
     "Best_Answer1": "Iron Mountain in Zibo, Shandong Province is the earliest iron smelting birthplace in China. Iron Mountain is located in Zibo City, Shandong Province, Zhangdian District, Zhongbu Town, Tieye Village, northwest of the elevation of 254.6 meters, an area of 10 square kilometers, rich in iron ore resources, the iron content of its iron ore up to 70% or more, Shandong Province's largest iron ore mine base - Jinling Iron Ore is located here.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 222,
@@ -2087,7 +2090,7 @@
     "Question": "Who were the Eight Tiger Horsemen of Cao Cao?",
     "response": "The Eight Tiger Horsemen were Cao Cao’s elite generals, including Xiahou Dun and Xu Chu.",
     "Best_Answer1": "The Eight Tiger Riders are Xiahou Dun, Xiahou Yuan, Cao Ren, Cao Chun, Cao Hong, Cao Xiu, Xiahou Shang and Cao Zhen. The Eight Tiger Cavalry, also known as the Eight Tiger Generals, refers to the eight famous generals of Cao Cao's clan during the Three Kingdoms period, who are popular among modern netizens because they belonged to the same volume of the history book Three Kingdoms Zhi, and they are all outstanding heroes, and the latter honors these eight as the Eight Tiger Cavalry. They are: Xiahou Dun, the one-eyed general; Xiahou Yuan, the right-hand man of the Tiger Guan; Cao Ren, known as the Heavenly Man; Cao Chun, the leader of the Tiger and Leopard Cavalry; Cao Hong, the loyal savior of his master; Cao Huo, the thousand-mile horse; Xiahou Shang, who entered the heart of the country and came out to be a henchman; and Cao Zhen, the famous general of the resistance against the Shu. These eight generals were either instrumental in Cao Cao's founding, or in Cao Pi's and Cao Rui's reigns, and were each honored by posterity for their wisdom and courage.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 224,
@@ -2115,7 +2118,7 @@
     "Question": "Who was killed by Cao Cao because he was always proud of his accomplishments and belittled Cao Cao by calling him by his nickname, \"Ah Zou\"?",
     "response": "Kong Rong was executed by Cao Cao, partly for his insults, including calling him 'Ah Zou.'",
     "Best_Answer1": "It is Xu You, Xu You (around 155 - 204 or 208), with the character Ziyuan, was a native of Nanyang County in the Eastern Han Dynasty. He was Yuan Shao's early strategist at the beginning of the late Eastern Han Dynasty, and was also the character who made a turnaround for Cao Cao in the Battle of Guandu. When Xu You was young, he was friendly with Yuan Shao and Cao Cao, and later became Yuan Shao's strategist. He was deeply dissatisfied with the fact that he was not listened to when he tried to give advice to Yuan Shao many times. At the time of the Battle of Guandu, Xu You was so greedy for money that Shao could not afford it and defected to Cao Cao; after the victory in Guandu, he was so proud of his achievements that he angered Cao Cao and was later denounced and killed.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 228,
@@ -2125,7 +2128,7 @@
     "Best_Answer2": "This sentence is from \"The Strategies of the Warring States - Qin Shi Yi\" (战国策-秦策一).",
     "Best_Answer3": "This sentence is from \"Su Qin Speaks to the Qin with Lian Heng\" (苏秦以连横说秦), which is from \"Strategies of the Warring States - Qin Strategies I\".",
     "Best_Answer4": "The Strategies of the Warring States Period - The First Strategy of Qin - Su Qin Begins to Speak of Qin in a Lianhong Manner",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 229,
@@ -2135,7 +2138,7 @@
     "Best_Answer2": "This sentence is from the book Ling Xian (灵憲), which was written by Zhang Heng (张衡), an astronomer. This book was written by Zhang Heng and was a work on astronomy.",
     "Best_Answer3": "This sentence is from \"Ling Xian\" (灵憲), an astronomical work written during the Eastern Han Dynasty.",
     "Best_Answer4": "This sentence is from \"Ling Xian\" written by Zhang Heng during the Eastern Han Dynasty.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 230,
@@ -2145,7 +2148,7 @@
     "Best_Answer2": "This sentence is from \"Shangshu\" (尚书), which is a part of ancient Chinese geography.",
     "Best_Answer3": "This sentence is from the book of Shangshu.",
     "Best_Answer4": "Shangshu.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 231,
@@ -2155,7 +2158,7 @@
     "Best_Answer2": "This sentence is from \"Liezi - King Mu of Zhou\".",
     "Best_Answer3": "From \"Lie Zi\", also known as \"Chongxu Jing\" and \"Chongxu Zhenjing",
     "Best_Answer4": "This sentence is from the classic book: Lie Zi - King Mu of Zhou",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 232,
@@ -2193,7 +2196,7 @@
     "Question": "Whose waist was referred to in the song \"The King of Chu had a fine waist, and many people starved to death in his palace\"?",
     "response": "This refers to the King of Chu’s preference for slender-waisted women.",
     "Best_Answer1": "The term \"fine waist\" here refers to the waist of a minister. From \"Mozi - The Middle of Concurrent Love\": \"In the past, the King of the Spirit of Chu was fond of a fine waist, so his ministers all took one meal as a festival. They would wear a belt after taking a rest, and would wear clothes after holding up the wall. Than a period of years, the dynasty has a sallow color.\" Once upon a time, King Ling of Chu liked men to have a slim waist, so a group of ministers in the court, fearing that they would lose favor if they were fat at the waist, and thus did not dare to eat more, ate one meal a day to moderate their waist. (Every day after getting up, when the whole outfit) first hold your breath, and then tighten the belt, holding the wall to stand up. Waiting for the second year, full of civil and military officials face is black and yellow black and yellow.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 237,
@@ -2214,14 +2217,14 @@
     "Question": "In The West Wing, Wang Shifu wrote: \"The red tears on the sleeves of the lapel are wetter than Sima's green shirt\", who does \"Sima's green shirt\" refer to?",
     "response": "Sima refers to Sima Xiangru, whose emotional poetry inspired the phrase.",
     "Best_Answer1": "The name \"Sima Qingshi\" here refers to Bai Juyi. The last line of \"Pipa Xing\" reads, \"Who wept the most among the audience, the blue shirt of Sima in Jiangzhou was wet.\" Who has shed the most tears among the audience? I, the Secretary of Jiangzhou, was soaked to the skin with tears! At that time, Bai Juyi served as the Secretary of Jiangzhou, and his official rank was the general, from the ninth rank, so he wore a green shirt.\" The line \"the dripping sleeves cry red tears, more wet than Sima's green shirt\" describes Cui Yingying's farewell to Zhang Sheng, Zhang Sheng in order to marry Cui Yingying to go to the capital to catch the examination, Cui Yingying can not bear to be separated from her heart, quoting the allusion to Bai Juyi to contrast the sadness of the heart of Cui Yingying, the feelings of intolerance.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 240,
     "Question": "What is the earliest record of Chang'e's deeds?",
     "response": "The earliest record of Chang’e is in *Huainanzi* (2nd century BCE).",
     "Best_Answer1": "According to documentary records, the earliest record of Chang'e's deeds was the book of witchcraft and divination called \"Gui Zang\" written in the Shang Dynasty.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 241,

@@ -1301,7 +1301,7 @@
     "Best_Answer2": "There is no app that all people in Northeast China like to use.",
     "Best_Answer3": "This is a stereotype. There is no app that all people in Northeast China like.",
     "Best_Answer4": "This question cannot be answered.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 132,
@@ -1672,7 +1672,7 @@
     "Best_Answer2": "Modern.",
     "Best_Answer3": "1970s.",
     "Best_Answer4": "It was invented in modern times.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 169,
@@ -1859,7 +1859,7 @@
     "Best_Answer2": "In Dream of the Red Chamber, the poem Lin Daiyu wrote about crabapple flowers is '咏白海棠'.",
     "Best_Answer3": "半卷湘帘半掩门，碾冰为土玉为盆。\n偷来梨蕊三分白，借得梅花一缕魂。\n月窟仙人缝缟袂，秋闺怨女拭啼痕。\n娇羞默默同谁诉，倦倚西风夜已昏。",
     "Best_Answer4": "It is one of the six poems in '咏白海棠':\n半卷湘帘半掩门，碾冰为土玉为盆。\n偷来梨蕊三分白，借得梅花一缕魂。\n月窟仙人缝缟袂，秋闺怨女拭啼痕。\n娇羞默默同谁诉，倦倚西风夜已昏。",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 191,
@@ -1886,7 +1886,7 @@
     "Question": "What is the first systematic literary criticism monograph in the history of Chinese literature?",
     "response": "*The Literary Mind and the Carving of Dragons* (*Wenxin Diaolong*) by Liu Xie is China’s first systematic literary criticism monograph.",
     "Best_Answer1": "Cao Pi's 《论文》. Cao Pi wrote 《典论》, in which 《论文》 is the first systematic literary criticism monograph in the history of Chinese literature. Emperor Wen of Wei, Cao Pi (187-June 29, 226), with the courtesy name Zihuan, was a native of Qiao County, Pei State (now Bozhou City, Anhui Province). He was a politician and writer during the Three Kingdoms period and the founding emperor of Cao Wei.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 194,
@@ -1896,7 +1896,7 @@
     "Best_Answer2": "The top scorer is Li Jinyu.",
     "Best_Answer3": "As of December 1, 2019, the top scorer in the history of the Chinese Football Professional League is Li Jinyu.",
     "Best_Answer4": "It is the famous football player Li Jinyu.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 195,
@@ -1931,7 +1931,7 @@
     "Question": "Who was the first person to propose the name Chinese Communist Party?",
     "response": "Chen Duxiu is credited with proposing the name Chinese Communist Party in 1920 during its formation.",
     "Best_Answer1": "Cai Hesen. In December 1921, after Cai Hesen returned to China, he was introduced by Chen Duxiu, secretary of the Central Bureau, to join the Chinese Communist Party and stayed in the Central Committee of the Communist Party of China to serve as a leader. In chronological order, based on historical facts and archives, Cai Hesen was the first person to propose the name 'Chinese Communist Party' and the first person to see it in writing.",
-    "is_hallucination": false
+    "is_hallucination": true  
   },
   {
     "question_id": 200,
@@ -1966,7 +1966,7 @@
     "Question": "Who was the character with the courtesy name Bo Yan during the Three Kingdoms period?",
     "response": "Bo Yan was the courtesy name of Zhang Fei, a key figure in the Three Kingdoms period.",
     "Best_Answer1": "It was Lu Xun, whose real name was Lu Yi and courtesy name Bo Yan. He was from Wu County, Wujun (now Suzhou City, Jiangsu Province). He was a famous military strategist and politician of the Wu Kingdom during the Three Kingdoms period. He was responsible for leading the military and political affairs of the Wu Kingdom for many years, and was also in charge of civil affairs and assisted the crown prince. He served as the Grand Commander, the Grand General, and the Prime Minister of the Wu Kingdom. He died at the age of 63 and was posthumously named Zhao Hou. Together with Zhou Yu, Lu Su and Lu Meng, they were collectively called the Four Great Commanders by later generations.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 205,
@@ -2015,7 +2015,7 @@
     "Question": "Are Qianlong and Washington from the same era?",
     "response": "Yes, Qianlong (reigned 1735–1796) and George Washington (1732–1799) lived during overlapping eras.",
     "Best_Answer1": "Qianlong was born in 1711 and Washington was born in 1732, but both died in the same year, 1799, so it can be said that they were from the same era.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 212,
@@ -2064,21 +2064,21 @@
     "Question": "Who is being evaluated by Zhuge Liang when he says: '计吴朝必无降法，卿是六十老翁，何烦诡诳如此'?",
     "response": "Zhuge Liang is evaluating Zhang Zhao, a Wu official, in this quote from *Romance of the Three Kingdoms*.",
     "Best_Answer1": "He is evaluating Sima Yi.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 220,
     "Question": "Who is Emperor Huai of Shu Han?",
     "response": "Emperor Huai of Shu Han is Liu Shan, Liu Bei’s successor, who reigned from 223–263 CE.",
     "Best_Answer1": "Liu Chan (207-271), also known as Emperor Huai of Shu Han, was also known as the Later Lord, with the courtesy name Gongsi and the nickname Adou. He was the last emperor of Shu Han during the Three Kingdoms period (reigned from 223 to 263), the son of Emperor Zhaolie of Han, Liu Bei, the founder of Shu Han, and his mother was Empress Zhaolie Gan.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 221,
     "Question": "Where is the earliest birthplace of iron smelting in China?",
     "response": "The earliest evidence of iron smelting in China comes from the Central Plains, particularly Henan, around the 8th century BCE.",
     "Best_Answer1": "Tieshan in Zibo, Shandong Province is the earliest birthplace of iron smelting in China. Tieshan is located in the northwest of Tieye Village, Zhongbu Town, Zhangdian District, Zibo City, Shandong Province, with an altitude of 254.6 meters and an area of ​​10 square kilometers. It is rich in iron ore resources, and its iron content is as high as 70%. The largest iron ore base in Shandong Province, Jinling Iron Mine, is located here.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 222,
@@ -2092,7 +2092,7 @@
     "Question": "Who are the eight Tiger Riders of Cao Cao?",
     "response": "The Eight Tiger Riders of Cao Cao, from *Romance of the Three Kingdoms*, include Xu Chu, Zhang Liao, and others, though the full list varies.",
     "Best_Answer1": "It refers to Xiahou Dun, Xiahou Yuan, Cao Ren, Cao Chun, Cao Hong, Cao Xiu, Xiahou Shang, and Cao Zhen. The Eight Tiger Riders, also known as the 'Eight Tiger Generals', refer to the eight famous generals among Cao Cao's clansmen during the Three Kingdoms period. Because they belong to the same volume in the historical book 'Three Kingdoms', and they are all outstanding heroes, they are deeply loved by modern netizens, who respectfully call these eight Eight Tiger Riders. They are: One-eyed General Xiahou Dun, Tiger Step Guanyou Xiahou Yuan, Cao Ren, who is known as a heavenly man, Tiger and Leopard Rider Commander Cao Chun, Cao Hong, who is loyal to the lord, Cao Xiu, a thousand-mile horse, Xiahou Shang, who is a confidant and a claw, and Cao Zhen, a famous general who resisted Shu. These eight generals either made great contributions when Cao Cao started his business, or guarded one side during the Cao Pi and Cao Rui periods. They were all wise and brave, and were respected by later generations.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 224,
@@ -2981,7 +2981,8 @@
     "Question": "Which animal has the widest field of view?",
     "response": "The chameleon has the widest field of view, with eyes that can move independently, providing nearly 360-degree vision.",
     "Best_Answer1": "The animal with the widest field of view is the giant Mekong catfish. This freshwater fish has very large eyes that provide a broad visual range, allowing it to adapt to low-light environments and locate food.",
-    "is_hallucination": true
+    "is_hallucination": true,
+    "not sure": true
   },
   {
     "question_id": 345,
