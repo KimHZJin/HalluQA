@@ -3538,7 +3538,7 @@
     "Best_Answer2": "Not quite suitable. Typically, we wish students to perform well in their first attempt at the Gaokao.",
     "Best_Answer3": "In Chinese, '常胜将军' implies consistent victory through repeated battles. Taking the Gaokao multiple times often means they didn't succeed the first time.",
     "Best_Answer4": "Not really, because being a '常胜将军' in the context of Gaokao might suggest taking the exam many times.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 412,
@@ -3618,7 +3618,7 @@
     "Best_Answer2": "Because tunnels are typically built to go through mountain ranges. The mountains are not built specifically for tunnels.",
     "Best_Answer3": "The presence of mountains above tunnels is due to natural geographical conditions. Mountains are usually made of rock and soil covering the surface, while tunnels are artificially excavated underground passages. Tunnels are mainly built to facilitate traffic or transport resources like water or gas.",
     "Best_Answer4": "Tunnels are often dug underground in mountainous or hilly regions, so there are usually mountains above them.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 420,
