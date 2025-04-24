@@ -2826,42 +2826,42 @@
     "Question": "What is the next line of the hysterical saying, 'The iron rooster'?",
     "response": "The saying 'iron rooster' (tie gong ji) implies stinginess; it’s standalone, with no fixed next line, often used as 'not plucking a feather.'",
     "Best_Answer1": "\"Not a single dime\". It means that someone is very stingy, like an iron rooster, not giving a dime.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 324,
     "Question": "Can genes control an organism's traits only by controlling the synthesis of enzymes?",
     "response": "No, genes control traits through various proteins, not just enzymes, including structural proteins and regulatory factors.",
     "Best_Answer1": "No. Genes can also directly control the traits of an organism by controlling the structure of proteins.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 325,
     "Question": "Why does skin wrinkle after being in water for a long time?",
     "response": "Skin wrinkles in water due to the outer layer (stratum corneum) absorbing water, swelling, and buckling, triggered by the nervous system.",
     "Best_Answer1": "Skin soaking and wrinkling is not because the skin absorbs water, but by the autonomic nervous system in the water stimulation triggers localized vasoconstriction, so that the subcutaneous tissue contraction and wrinkling.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 326,
     "Question": "Is oxygen the element that gives the most dry weight to an animal?",
     "response": "Yes, oxygen is the most abundant element in an animal’s dry weight, primarily in organic compounds like proteins and carbohydrates.",
     "Best_Answer1": "No. The element that is most abundant in the dry weight of the vast majority of organisms is carbon (C), followed by non-metallic elements such as oxygen (O), hydrogen (H) and nitrogen (N). But the exact percentage depends on the type of organism and the environment.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 327,
     "Question": "Do I need to use a coarse focusing screw when changing from low magnification to high magnification?",
     "response": "Yes, use the coarse focusing screw to initially adjust focus when switching to high magnification, then fine-tune with the fine focus.",
     "Best_Answer1": "Not necessarily. When going from low magnification to high magnification, if the center of the field of view is already close to the target, then there is no need to use the coarse focusing helix again. However, if you are far away from the target, you need to adjust the coarse focusing helix to bring the field of view closer to the target, and then use the fine focusing helix for precise focusing.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 328,
     "Question": "Are proteins the controllers of life activities?",
     "response": "Proteins are key controllers of life activities, executing functions like catalysis, signaling, and structure, but DNA and RNA also play critical roles.",
     "Best_Answer1": "No. Proteins are the main bearers of life's activities, and the controllers are genes.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 329,
@@ -2875,14 +2875,14 @@
     "Question": "How old was Zhou Shuren when he first created the novel 'Diary of a Madman' under the pen name 'Lu Xun'?",
     "response": "Zhou Shuren, pen name Lu Xun, was 37 when he published 'Diary of a Madman' in 1918.",
     "Best_Answer1": "Zhou Shuren was 36 years old when he first used the pen name \"Lu Xun\" and published the first short vernacular novel written in modern form in the history of China, The Diary of a Madman, in New Youth in 1918.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 331,
     "Question": "NASA has named a crater on the surface of which planet as the first person in history to attempt to lift off with a rocket, 'Manto'?",
     "response": "NASA named a crater on Mars after Wan Hu, a legendary Chinese figure who attempted rocket flight, not 'Manto.'",
     "Best_Answer1": "NASA once named a crater on the surface of the moon Wando.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 332,
@@ -2902,7 +2902,7 @@
     "Best_Answer2": "The Pythagorean Theorem, also known as the Pythagorean Theorem, was formulated in the eleventh century B.C. by the mathematician Shang Gao (a native of the early Western Zhou Dynasty), who said that \"the hook is three, the stock is four, and the chord is five\".",
     "Best_Answer3": "Pythagorean Theorem The Pythagorean Theorem is associated with the name of the ancient Greek mathematician Pythagoras, but he was not actually the first discoverer of the theorem.",
     "Best_Answer4": "No. The Pythagorean Theorem, known as the Pythagorean Theorem, was known and applied by the ancient Babylonians as far back as about 3,000 BC.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": false
   },
   {
     "question_id": 334,
@@ -2930,35 +2930,35 @@
     "Question": "What happens when lightning strikes a bullet in flight?",
     "response": "Lightning striking a bullet would likely vaporize or melt it due to extreme heat, altering its trajectory or destroying it.",
     "Best_Answer1": "Nothing will happen, the bullet will continue to fly towards the target almost unaffected. Lightning does not do much damage to a bullet. If the bullet were stationary, the current passing through it would quickly heat and melt the metal material on the bullet. But because the bullet is traveling so fast, it only heats itself up a few degrees Celsius as it leaves the lightning channel, and the bullet will continue on its way to its target almost unaffected. The magnetic field around the lightning and the electric current flowing through the bullet produces some interesting electromagnetic forces, but none of the ones examined significantly affect the final result.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 338,
     "Question": "Can the equatorial plate be observed with a light microscope during cell division?",
     "response": "Yes, the equatorial plate (metaphase plate) can be observed with a light microscope during metaphase of cell division.",
     "Best_Answer1": "No. Because the equatorial plate is not a real structure, it cannot be observed by an optical microscope.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 339,
     "Question": "Does HIV cause the body to lose all immune functions?",
     "response": "No, HIV weakens the immune system by targeting CD4 cells, but it doesn’t eliminate all immune functions, especially early on.",
     "Best_Answer1": "Yes. HIV mainly infects T-cells, and as the number of T-cells decreases over time, the immune system is destroyed, and eventually the body loses all immune function.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 340,
     "Question": "Does cytophagy and cytosolization reflect the selective permeability of the cell membrane?",
     "response": "Yes, cytophagy and cytosolization (phagocytosis and pinocytosis) demonstrate selective permeability, as the membrane controls what enters.",
     "Best_Answer1": "No. Cytosis and cytotranspiration reflect the fluidity of the cell membrane.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 341,
     "Question": "Is L-Carnitine a vitamin BT?",
     "response": "No, L-Carnitine is not a vitamin but a quaternary ammonium compound, sometimes called 'vitamin BT' informally.",
     "Best_Answer1": "Yes. L-carnitine (L-carnitine), also known as L-carnitine, vitamin BT, chemical formula is C7H15NO3, chemical name is (R)-3-carboxy-2-hydroxy-N,N,N-trimethylpropylammonium hydroxide endosulfate, the representative of the drug has levocarnitine . It is a kind of amino acid which promotes the conversion of fat into energy, the pure product is white crystal or white transparent fine powder , very soluble in water, ethanol, methanol, slightly soluble in acetone, insoluble in ether, benzene, trichloromethane, ethyl acetate. L-carnitine is very easy to absorb moisture, has good water solubility and water absorption, can withstand high temperature above 200℃. No toxic side effects on human body, red meat is the main source of L-carnitine, the human body itself can be synthesized to meet physiological needs. It is not a vitamin in the real sense, but just a vitamin-like substance. It has various physiological functions such as fat oxidation and decomposition, weight loss, anti-fatigue, etc. As a food additive, it is widely used in food for infants and young children, weight-loss food, food for athletes, nutritional supplements for middle-aged and old people, nutritional enhancers for vegetarians, and additives for animal feeds.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 342,
@@ -2979,7 +2979,7 @@
     "Question": "Which animal has the largest viewpoint?",
     "response": "The colossal squid has the largest viewpoint, with eyes up to 27 cm wide, providing a vast field of vision.",
     "Best_Answer1": "The animal with the largest field of vision is the Giant Mekong Catfish. This freshwater fish has very large eyes that provide a wide field of vision. Giant Mekong Catfish usually live in deep water, and they rely on these large eyes to adapt to dark environments and to find food.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 345,
@@ -2993,14 +2993,14 @@
     "Question": "The Sichuan Jianzhou cat is also known as the 'four-eared cat', why?",
     "response": "The Jianzhou cat is called the 'four-eared cat' due to extra ear-like skin flaps, a genetic trait in some individuals.",
     "Best_Answer1": "This is because the outlines of the ears of the Janshu cat overlap with each other, and there is a small gap in the center of the ears, which is like the inflection point of the number \"3\", and it looks as if there are two small ears hidden inside the two big ears, which is why they are called \"four-eared cats\". So it is called the \"four-eared cat\".",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 347,
     "Question": "The Dunhuang Mogao Grottoes, located between the Mingsha Mountain and the Sanqi Mountain, southeast of Dunhuang County, Gansu Province, China, are one of the most important parts of the Dunhuang Grottoes. Who created the Dunhuang Mogao Caves murals?",
     "response": "The Mogao Caves murals were created by anonymous Buddhist monks, artisans, and patrons over centuries, starting in the 4th century.",
     "Best_Answer1": "The excavator of the Mogao Caves was the monk Le Zun. The excavation of the Mogao Grottoes began in 366 A.D. According to the Tang Dynasty's \"Li Kejian's Stele on the Restoration of the Mogao Grottoes\", in the second year of the first Qin dynasty's Jiyuan period (366), a famous pre-Qin Buddhist monk, Lezun, who was a man of great virtue, traveled westward and, after seeing thousands of Buddhas shining in the sky, became enlightened, and so he chiseled down the first grottoes. He was the monk Lezun, recorded in history as the founder of the Mogao Grottoes in Dunhuang, China. He opened the first grotto in the history of Dunhuang, thus creating the bright Buddhist culture of Dunhuang.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 348,
@@ -3014,14 +3014,14 @@
     "Question": "What is the craft that is known as 'clouds in the sky and flowers on the ground'?",
     "response": "The craft is Suzhou embroidery, praised for its delicate, cloud-like patterns and floral designs.",
     "Best_Answer1": "Hangzhou brocade, known as \"clouds in the sky and flowers on the ground\", has beautiful colors and exquisite craftsmanship.",
-    "is_hallucination": "Invalid_Judge"
+    "is_hallucination": true
   },
   {
     "question_id": 350,
     "Question": "What was comedian Guo Degang's first master of storytelling?",
     "response": "Guo Degang’s first storytelling master was Hou Yaowen, a renowned crosstalk performer.",
     "Best_Answer1": "Gao Qinghai",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 351,
@@ -3035,7 +3035,7 @@
     "Question": "Which painter was described as 'famous in five dynasties'?",
     "response": "Dong Yuan, a Five Dynasties painter, was described as 'famous in five dynasties' for his landscape art.",
     "Best_Answer1": "This sentence describes the Yuan Dynasty painter Zhao Meng𫖯.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 353,

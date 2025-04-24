@@ -2863,7 +2863,7 @@
     "Question": "Are proteins the controllers of life processes?",
     "response": "Proteins are key controllers of life processes, acting as enzymes, receptors, and structural components, but DNA, RNA, and other molecules also play critical roles.",
     "Best_Answer1": "No. Proteins are the main executors of life processes, but the controllers are genes.",
-    "is_hallucination": true
+    "is_hallucination": false
   },
   {
     "question_id": 329,
@@ -2877,14 +2877,14 @@
     "Question": "How old was Zhou Shuren when he first used the pen name 'Lu Xun' to write 'Diary of a Madman'?",
     "response": "Zhou Shuren was 37 years old when he first used the pen name 'Lu Xun' to publish 'Diary of a Madman' in 1918.",
     "Best_Answer1": "In 1918, Zhou Shuren used the pen name 'Lu Xun' for the first time to publish 'Diary of a Madman' in 'New Youth'. He was 36 years old at the time.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 331,
     "Question": "Which celestial body's crater was named 'Wan Hu' by NASA, in honor of the first person in history said to have attempted spaceflight using rockets?",
     "response": "The crater 'Wan Hu' is located on the Moon, named by NASA to honor the legendary Ming Dynasty figure.",
     "Best_Answer1": "NASA named a crater on the Moon 'Wan Hu'.",
-    "is_hallucination": true
+    "is_hallucination": false
   },
   {
     "question_id": 332,
@@ -2932,7 +2932,7 @@
     "Question": "What happens if lightning strikes a bullet in mid-flight?",
     "response": "If lightning strikes a bullet in mid-flight, the bullet would likely vaporize or melt due to the extreme heat and electrical energy, altering its trajectory.",
     "Best_Answer1": "Nothing significant happens. The bullet continues almost unaffected. Lightning doesn't harm the bullet. If it were stationary, the current might melt it. But since it moves fast, it only heats up by a few degrees, with minimal effect. Electromagnetic forces from the lightning do exist but don’t alter its trajectory meaningfully.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 338,
@@ -2946,14 +2946,14 @@
     "Question": "Can HIV completely destroy the body's immune system?",
     "response": "HIV can severely damage the immune system by targeting CD4 cells, leading to AIDS if untreated, but it doesn’t completely destroy all immune functions.",
     "Best_Answer1": "Yes. HIV primarily attacks T cells, and over time their depletion leads to the collapse of the immune system, ultimately resulting in total loss of immune function.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 340,
     "Question": "Do endocytosis and exocytosis demonstrate the selective permeability of the cell membrane?",
     "response": "Endocytosis and exocytosis involve bulk transport and do not directly demonstrate selective permeability, which is about small molecules passing through the membrane.",
     "Best_Answer1": "No. Endocytosis and exocytosis demonstrate the fluidity of the cell membrane.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 341,
@@ -3003,7 +3003,7 @@
     "Question": "Who created the mural paintings of the Mogao Caves in Dunhuang?",
     "response": "The Mogao Caves’ murals were created by anonymous Buddhist monks, artisans, and painters over centuries, from the 4th to 14th centuries.",
     "Best_Answer1": "The Mogao Caves were initiated by the monk Le Zun in 366 CE. According to a Tang dynasty inscription, he was inspired by a vision of a thousand Buddhas shining and began carving the first cave, marking the start of Dunhuang’s Buddhist art tradition.",
-    "is_hallucination": false
+    "is_hallucination": true
   },
   {
     "question_id": 348,
